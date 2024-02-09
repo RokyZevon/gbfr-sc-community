@@ -1,0 +1,914 @@
+﻿{
+  "rows_": [
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_RESIST",
+        "subid_hash_": "",
+        "text_": "免疫"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_ATTACKBUFF",
+        "subid_hash_": "",
+        "text_": "攻击UP"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_ATTACKBUFF_1",
+        "subid_hash_": "",
+        "text_": "攻击UP（{0}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_ATTACKBUFF_2",
+        "subid_hash_": "",
+        "text_": "攻击UP（{0}%～{1}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DEFFENCEBUFF",
+        "subid_hash_": "",
+        "text_": "防御UP"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DEFFENCEBUFF_1",
+        "subid_hash_": "",
+        "text_": "防御UP（{0}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DEFFENCEBUFF_2",
+        "subid_hash_": "",
+        "text_": "防御UP（{0}%～{1}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_ATTACKDEBUFF",
+        "subid_hash_": "",
+        "text_": "攻击DOWN"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_ATTACKDEBUFF_1",
+        "subid_hash_": "",
+        "text_": "攻击DOWN（{0}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_ATTACKDEBUFF_2",
+        "subid_hash_": "",
+        "text_": "攻击DOWN（{0}%～{1}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DEFFENCEDEBUFF",
+        "subid_hash_": "",
+        "text_": "防御DOWN"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DEFFENCEDEBUFF_1",
+        "subid_hash_": "",
+        "text_": "防御DOWN（{0}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DEFFENCEDEBUFF_2",
+        "subid_hash_": "",
+        "text_": "防御DOWN（{0}%～{1}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DAMAGECUT",
+        "subid_hash_": "",
+        "text_": "减伤"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DAMAGECUT_1",
+        "subid_hash_": "",
+        "text_": "减伤（{0}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DAMAGECUT_2",
+        "subid_hash_": "",
+        "text_": "减伤（{0}%～{1}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_REGENERATE",
+        "subid_hash_": "",
+        "text_": "再生"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_INVINCIBLE",
+        "subid_hash_": "",
+        "text_": "无敌"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DOUBLEATTACK",
+        "subid_hash_": "",
+        "text_": "追击"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_HYPERARMOR",
+        "subid_hash_": "",
+        "text_": "霸体"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_ILLUSUION",
+        "subid_hash_": "",
+        "text_": "幻影"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_COVER",
+        "subid_hash_": "",
+        "text_": "挺身而出"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_COVERED",
+        "subid_hash_": "",
+        "text_": "安全"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_MANIGANS",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_PL1200ATTACKBUFF",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_PL1300ATTACKBUFF",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_EM0001BUFF",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_CLEARAILMENT",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_VEIL",
+        "subid_hash_": "",
+        "text_": "弱化免疫"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DRAINATTACKBUFF",
+        "subid_hash_": "",
+        "text_": "汲取"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_JUSTCOMBINATION",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_GUTS",
+        "subid_hash_": "",
+        "text_": "豪胆"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_STRENGTH",
+        "subid_hash_": "",
+        "text_": "强壮"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_STRENGTH_1",
+        "subid_hash_": "",
+        "text_": "强壮（最大{0}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_ADVERSITY",
+        "subid_hash_": "",
+        "text_": "逆境"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_ADVERSITY_1",
+        "subid_hash_": "",
+        "text_": "逆境（最大{0}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_CRITICALBUFF",
+        "subid_hash_": "",
+        "text_": "暴击率UP"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_CRITICALBUFF_1",
+        "subid_hash_": "",
+        "text_": "暴击率UP（{0}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_PROVOCATION",
+        "subid_hash_": "",
+        "text_": "挑衅力UP"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_AUTOREVIVE",
+        "subid_hash_": "",
+        "text_": "自动复活"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_MAGICVORTEX",
+        "subid_hash_": "",
+        "text_": "魔力漩涡"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_CONCENTRATION",
+        "subid_hash_": "",
+        "text_": "专注"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_IRONMAIDEN",
+        "subid_hash_": "",
+        "text_": "铁娘子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DRAGONMODE",
+        "subid_hash_": "",
+        "text_": "龙人化"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_SUPERMODE",
+        "subid_hash_": "",
+        "text_": "神威一体"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_BOSSARTSAURA",
+        "subid_hash_": "",
+        "text_": "狂暴"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_PHANTASMAGORIA",
+        "subid_hash_": "",
+        "text_": "幻术光影"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_UNDEAD",
+        "subid_hash_": "",
+        "text_": "不死之身"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_EM1806AURABUFF",
+        "subid_hash_": "",
+        "text_": "深渊荣耀"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DOUBLETAP",
+        "subid_hash_": "",
+        "text_": "双发子弹"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_ATTACKBUFF",
+        "subid_hash_": "",
+        "text_": "攻击力提升的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_DEFFENCEBUFF",
+        "subid_hash_": "",
+        "text_": "防御力提升的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_ATTACKDEBUFF",
+        "subid_hash_": "",
+        "text_": "攻击力降低的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_DEFFENCEDEBUFF",
+        "subid_hash_": "",
+        "text_": "防御力降低的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_DAMAGECUT",
+        "subid_hash_": "",
+        "text_": "降低所受伤害的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_REGENERATE",
+        "subid_hash_": "",
+        "text_": "HP持续回复的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_INVINCIBLE",
+        "subid_hash_": "",
+        "text_": "免疫所受伤害的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_DOUBLEATTACK",
+        "subid_hash_": "",
+        "text_": "攻击时可造成追加伤害的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_HYPERARMOR",
+        "subid_hash_": "",
+        "text_": "免疫受伤硬直的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_ILLUSUION",
+        "subid_hash_": "",
+        "text_": "一定次数免疫所受伤害的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_COVER",
+        "subid_hash_": "",
+        "text_": "替伙伴承受攻击的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_COVERED",
+        "subid_hash_": "",
+        "text_": "被伙伴保护的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_MANIGANS",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_PL1200ATTACKBUFF",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_PL1300ATTACKBUFF",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_EM0001BUFF",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_CLEARAILMENT",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_VEIL",
+        "subid_hash_": "",
+        "text_": "免疫弱化效果的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_DRAINATTACKBUFF",
+        "subid_hash_": "",
+        "text_": "攻击时可汲取对方HP的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_JUSTCOMBINATION",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_GUTS",
+        "subid_hash_": "",
+        "text_": "受到大幅伤害时能以HP1存活的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_STRENGTH",
+        "subid_hash_": "",
+        "text_": "剩余HP越高攻击力提升越大的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_ADVERSITY",
+        "subid_hash_": "",
+        "text_": "剩余HP越低攻击力提升越大的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_CRITICALBUFF",
+        "subid_hash_": "",
+        "text_": "暴击率提升的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_PROVOCATION",
+        "subid_hash_": "",
+        "text_": "容易成为敌方攻击目标的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_AUTOREVIVE",
+        "subid_hash_": "",
+        "text_": "濒死时可自动复活的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_MAGICVORTEX",
+        "subid_hash_": "",
+        "text_": "伊欧的攻击得到强化的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_CONCENTRATION",
+        "subid_hash_": "",
+        "text_": "伊欧的攻击蓄力速度提升的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_IRONMAIDEN",
+        "subid_hash_": "",
+        "text_": "攻击时已召唤的玫瑰会进行追击的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_DRAGONMODE",
+        "subid_hash_": "",
+        "text_": "唤醒龙之力提高战斗能力的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_SUPERMODE",
+        "subid_hash_": "",
+        "text_": "驱使龙之力大幅提高战斗能力的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_BOSSARTSAURA",
+        "subid_hash_": "",
+        "text_": "对各类攻击的抗性大幅提升的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_PHANTASMAGORIA",
+        "subid_hash_": "",
+        "text_": "攻击力/防御力/暴击率提升的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_UNDEAD",
+        "subid_hash_": "",
+        "text_": "攻击力提升且不会濒死的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_EM1806AURABUFF",
+        "subid_hash_": "",
+        "text_": "防御力提升且免疫弱化效果的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_DOUBLETAP",
+        "subid_hash_": "",
+        "text_": "拉卡姆的攻击得到强化的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_POISONAILMENT",
+        "subid_hash_": "",
+        "text_": "中毒"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_BURNAILMENT",
+        "subid_hash_": "",
+        "text_": "灼热"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_SLOWAILMENT",
+        "subid_hash_": "",
+        "text_": "缓速"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_SLOWAILMENT_1",
+        "subid_hash_": "",
+        "text_": "缓速（{0}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_STUNAILMENT",
+        "subid_hash_": "",
+        "text_": "昏迷"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_FROZENAILMENT",
+        "subid_hash_": "",
+        "text_": "冰冻"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_FROSTBITEAILMENT",
+        "subid_hash_": "",
+        "text_": "冻伤"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_FROSTBITEAILMENT_1",
+        "subid_hash_": "",
+        "text_": "冻伤（{0}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_STONEAILMENT",
+        "subid_hash_": "",
+        "text_": "泥沙"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_PARALYZEAILMENT",
+        "subid_hash_": "",
+        "text_": "麻痹"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_WATERBALLAILMENT",
+        "subid_hash_": "",
+        "text_": "水牢"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_WINDDAMAGEAILMENT",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_CONFUSIONAILMENT",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_DARKNESSAILMENT",
+        "subid_hash_": "",
+        "text_": "紫银之炎"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_BINDAILMENT",
+        "subid_hash_": "",
+        "text_": "束缚"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_CONFINEAILMENT",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_PROVOCATIONAILMENT",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_CAPTUREAILMENT",
+        "subid_hash_": "",
+        "text_": "束缚"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_BANABILITYAILMENT",
+        "subid_hash_": "",
+        "text_": "能力封印"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_BANSPARTSAILMENT",
+        "subid_hash_": "",
+        "text_": "奥义封印"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_DIMENSIONDMGAILMENT",
+        "subid_hash_": "",
+        "text_": "灾祸"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_FEARAILMENT",
+        "subid_hash_": "",
+        "text_": "恐惧"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_ARVESSFERMARE",
+        "subid_hash_": "",
+        "text_": "阿尔贝斯之印"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_POISONAILMENT",
+        "subid_hash_": "",
+        "text_": "HP持续减少的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_BURNAILMENT",
+        "subid_hash_": "",
+        "text_": "HP持续减少的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_SLOWAILMENT",
+        "subid_hash_": "",
+        "text_": "行动速度降低的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_STUNAILMENT",
+        "subid_hash_": "",
+        "text_": "无法进行任何行动的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_FROZENAILMENT",
+        "subid_hash_": "",
+        "text_": "无法进行任何行动的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_FROSTBITEAILMENT",
+        "subid_hash_": "",
+        "text_": "行动速度和防御力降低的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_STONEAILMENT",
+        "subid_hash_": "",
+        "text_": "移动速度降低且行动受限的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_PARALYZEAILMENT",
+        "subid_hash_": "",
+        "text_": "无法进行任何行动的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_WATERBALLAILMENT",
+        "subid_hash_": "",
+        "text_": "无法进行任何行动的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_WINDDAMAGEAILMENT",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_CONFUSIONAILMENT",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_DARKNESSAILMENT",
+        "subid_hash_": "",
+        "text_": "再次承受紫银之炎时会发生爆炸的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_BINDAILMENT",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_CONFINEAILMENT",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_PROVOCATIONAILMENT",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_CAPTUREAILMENT",
+        "subid_hash_": "",
+        "text_": "无法进行任何行动的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_BANABILITYAILMENT",
+        "subid_hash_": "",
+        "text_": "无法使用能力的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_BANSPARTSAILMENT",
+        "subid_hash_": "",
+        "text_": "无法使用奥义的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_DIMENSIONDMGAILMENT",
+        "subid_hash_": "",
+        "text_": "HP持续减少的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_FEARAILMENT",
+        "subid_hash_": "",
+        "text_": "行动速度和防御力降低的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_ARVESSFERMARE",
+        "subid_hash_": "",
+        "text_": "受到泽塔伤害提升的状态"
+      }
+    }
+  ]
+}

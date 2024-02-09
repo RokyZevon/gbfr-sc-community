@@ -1,0 +1,3917 @@
+﻿{
+  "rows_": [
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0000",
+        "subid_hash_": "",
+        "text_": "哥布林突击兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0000_01",
+        "subid_hash_": "",
+        "text_": "哥布林恶徒"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0000_02",
+        "subid_hash_": "",
+        "text_": "哥布林强袭兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0000_03",
+        "subid_hash_": "",
+        "text_": "哥布林收集者"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0000_04",
+        "subid_hash_": "",
+        "text_": "隐匿兵团"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0000_05",
+        "subid_hash_": "",
+        "text_": "卡利翁蛮族"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0001",
+        "subid_hash_": "",
+        "text_": "哥布林咒术兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0001_01",
+        "subid_hash_": "",
+        "text_": "哥布林巫师"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0001_02",
+        "subid_hash_": "",
+        "text_": "纵火狂魔"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0002",
+        "subid_hash_": "",
+        "text_": "哥布林重装兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0002_01",
+        "subid_hash_": "",
+        "text_": "泥泞武士"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0003",
+        "subid_hash_": "",
+        "text_": "哥布林弓兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0003_01",
+        "subid_hash_": "",
+        "text_": "械斗狂魔"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0004",
+        "subid_hash_": "",
+        "text_": "哥布林军士"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0004_01",
+        "subid_hash_": "",
+        "text_": "哥布林角斗士"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0004_02",
+        "subid_hash_": "",
+        "text_": "暴虐狂波尔德"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0004_03",
+        "subid_hash_": "",
+        "text_": "渴望者嘉纳汗"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0004_04",
+        "subid_hash_": "",
+        "text_": "食沙者吉姆萨"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0005",
+        "subid_hash_": "",
+        "text_": "哥布林勇士"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0005_01",
+        "subid_hash_": "",
+        "text_": "巨盾莫比特"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0005_02",
+        "subid_hash_": "",
+        "text_": "哥布林勇士A"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0005_03",
+        "subid_hash_": "",
+        "text_": "哥布林勇士B"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0100",
+        "subid_hash_": "",
+        "text_": "骷髅兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0100_01",
+        "subid_hash_": "",
+        "text_": "饱经岁月的骷髅兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0101",
+        "subid_hash_": "",
+        "text_": "冰霜骷髅"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0101_01",
+        "subid_hash_": "",
+        "text_": "堕落的圣骑士"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0101_02",
+        "subid_hash_": "",
+        "text_": "冰咒剑兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0102",
+        "subid_hash_": "",
+        "text_": "死骸格拉森"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0103",
+        "subid_hash_": "",
+        "text_": "冰骸斯卡米勒"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0103_01",
+        "subid_hash_": "",
+        "text_": "冰骸斯卡米勒A"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0103_02",
+        "subid_hash_": "",
+        "text_": "冰骸斯卡米勒B"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0200",
+        "subid_hash_": "",
+        "text_": "群居狼"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0200_01",
+        "subid_hash_": "",
+        "text_": "沙漠群居狼"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0200_02",
+        "subid_hash_": "",
+        "text_": "饥饿的群居狼"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0201",
+        "subid_hash_": "",
+        "text_": "哥布林骑兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0201_11",
+        "subid_hash_": "",
+        "text_": "猩红骑手"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0300",
+        "subid_hash_": "",
+        "text_": "角禽"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0300_01",
+        "subid_hash_": "",
+        "text_": "厄运之鸟"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0300_02",
+        "subid_hash_": "",
+        "text_": "狂暴之鸦"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0300_03",
+        "subid_hash_": "",
+        "text_": "矿山之鹰"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0400",
+        "subid_hash_": "",
+        "text_": "双足飞龙"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0400_01",
+        "subid_hash_": "",
+        "text_": "老双足飞龙"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0400_02",
+        "subid_hash_": "",
+        "text_": "枫达慕翼蜥"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0400_03",
+        "subid_hash_": "",
+        "text_": "双足飞龙领主"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0400_04",
+        "subid_hash_": "",
+        "text_": "噬矿者"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0400_05",
+        "subid_hash_": "",
+        "text_": "诅咒飞龙"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0500",
+        "subid_hash_": "",
+        "text_": "巨爪岩鳄"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0500_01",
+        "subid_hash_": "",
+        "text_": "巨爪岩鳄A"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0500_02",
+        "subid_hash_": "",
+        "text_": "巨爪岩鳄B"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0500_03",
+        "subid_hash_": "",
+        "text_": "厄里盖迪斯"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0500_04",
+        "subid_hash_": "",
+        "text_": "厄里盖蒂丝"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0501",
+        "subid_hash_": "",
+        "text_": "巨爪霜鳄"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0501_01",
+        "subid_hash_": "",
+        "text_": "巨爪霜鳄A"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0501_02",
+        "subid_hash_": "",
+        "text_": "巨爪霜鳄B"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0501_03",
+        "subid_hash_": "",
+        "text_": "冰河爬行者"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0502",
+        "subid_hash_": "",
+        "text_": "巨爪焰鳄"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0502_01",
+        "subid_hash_": "",
+        "text_": "巨爪焰鳄A"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0502_02",
+        "subid_hash_": "",
+        "text_": "巨爪焰鳄B"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0600",
+        "subid_hash_": "",
+        "text_": "史莱姆"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0601",
+        "subid_hash_": "",
+        "text_": "银史莱姆"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0602",
+        "subid_hash_": "",
+        "text_": "金史莱姆"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0603",
+        "subid_hash_": "",
+        "text_": "银史莱姆王"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0604",
+        "subid_hash_": "",
+        "text_": "金史莱姆王"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0605",
+        "subid_hash_": "",
+        "text_": "幻彩史莱姆"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0700",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0701",
+        "subid_hash_": "",
+        "text_": "赛伊格亚"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0701_01",
+        "subid_hash_": "",
+        "text_": "目目连"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0702",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0703",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0704",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0706",
+        "subid_hash_": "",
+        "text_": "魔眼守卫"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0706_01",
+        "subid_hash_": "",
+        "text_": "魔眼守卫A"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0706_02",
+        "subid_hash_": "",
+        "text_": "魔眼守卫B"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0706_03",
+        "subid_hash_": "",
+        "text_": "凝视者"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0800",
+        "subid_hash_": "",
+        "text_": "火之种"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0800_01",
+        "subid_hash_": "",
+        "text_": "试炼·火之种"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0800_02",
+        "subid_hash_": "",
+        "text_": "不知火"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0801",
+        "subid_hash_": "",
+        "text_": "水之种"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0801_01",
+        "subid_hash_": "",
+        "text_": "试炼·水之种"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0802",
+        "subid_hash_": "",
+        "text_": "地之种"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0802_01",
+        "subid_hash_": "",
+        "text_": "试炼·地之种"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0803",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0804",
+        "subid_hash_": "",
+        "text_": "光之种"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0804_01",
+        "subid_hash_": "",
+        "text_": "试炼·光之种"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0805",
+        "subid_hash_": "",
+        "text_": "暗之种"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0805_01",
+        "subid_hash_": "",
+        "text_": "试炼·暗之种"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0805_02",
+        "subid_hash_": "",
+        "text_": "黑暗熔炉"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0805_03",
+        "subid_hash_": "",
+        "text_": "暗之云"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0900",
+        "subid_hash_": "",
+        "text_": "火精灵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0900_01",
+        "subid_hash_": "",
+        "text_": "试炼·火精灵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0900_02",
+        "subid_hash_": "",
+        "text_": "枫达慕精灵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0900_03",
+        "subid_hash_": "",
+        "text_": "巴约光精灵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0900_04",
+        "subid_hash_": "",
+        "text_": "火明命"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0900_05",
+        "subid_hash_": "",
+        "text_": "红色幽影"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0900_06",
+        "subid_hash_": "",
+        "text_": "深红幽影"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0900_07",
+        "subid_hash_": "",
+        "text_": "灼热幻火"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0901",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0902",
+        "subid_hash_": "",
+        "text_": "水精灵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0902_01",
+        "subid_hash_": "",
+        "text_": "试炼·水精灵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0902_02",
+        "subid_hash_": "",
+        "text_": "涅咎里斯精灵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0902_03",
+        "subid_hash_": "",
+        "text_": "巴约暗精灵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0902_04",
+        "subid_hash_": "",
+        "text_": "火折尊"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0902_05",
+        "subid_hash_": "",
+        "text_": "蓝色幽影"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0902_06",
+        "subid_hash_": "",
+        "text_": "深蓝幽影"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0903",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1000",
+        "subid_hash_": "",
+        "text_": "阿维亚剑兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1000_01",
+        "subid_hash_": "",
+        "text_": "阿维亚突击兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1001",
+        "subid_hash_": "",
+        "text_": "阿维亚枪兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1002",
+        "subid_hash_": "",
+        "text_": "阿维亚弓兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1003",
+        "subid_hash_": "",
+        "text_": "阿维亚旗手"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1003_01",
+        "subid_hash_": "",
+        "text_": "阿维亚仪仗兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1004",
+        "subid_hash_": "",
+        "text_": "审判官卢克"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1004_01",
+        "subid_hash_": "",
+        "text_": "阿维亚无畏将"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1004_02",
+        "subid_hash_": "",
+        "text_": "救赎骑士加西亚"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1004_03",
+        "subid_hash_": "",
+        "text_": "无畏的莱尼尔"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1005",
+        "subid_hash_": "",
+        "text_": "戮将阿瓦兰"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1005_01",
+        "subid_hash_": "",
+        "text_": "断罪者巴加斯"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1005_02",
+        "subid_hash_": "",
+        "text_": "阿维亚复仇者"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1005_03",
+        "subid_hash_": "",
+        "text_": "狂妄骑士达雷斯"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1006",
+        "subid_hash_": "",
+        "text_": "阿维亚教团兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1100",
+        "subid_hash_": "",
+        "text_": "刃重众"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1200",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1300",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1301",
+        "subid_hash_": "",
+        "text_": "机械武装·主机"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1301_01",
+        "subid_hash_": "",
+        "text_": "强袭型机械武装·主机"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1301_02",
+        "subid_hash_": "",
+        "text_": "试制型机械武装·独眼巨人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1303",
+        "subid_hash_": "",
+        "text_": "机械武装·分机"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1303_01",
+        "subid_hash_": "",
+        "text_": "机械武装·迎击雷"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1500",
+        "subid_hash_": "",
+        "text_": "巨石魔像"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1500_01",
+        "subid_hash_": "",
+        "text_": "巨石魔像A"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1500_02",
+        "subid_hash_": "",
+        "text_": "巨石魔像B"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1502",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1600",
+        "subid_hash_": "",
+        "text_": "狮鹫"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1600_01",
+        "subid_hash_": "",
+        "text_": "幻翼佩利冬"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1600_02",
+        "subid_hash_": "",
+        "text_": "狮鹫A"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1600_03",
+        "subid_hash_": "",
+        "text_": "狮鹫B"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1600_04",
+        "subid_hash_": "",
+        "text_": "哥布林捕食者"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1600_05",
+        "subid_hash_": "",
+        "text_": "漆黑猛禽"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1800",
+        "subid_hash_": "",
+        "text_": "远古巨龙"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1800_01",
+        "subid_hash_": "",
+        "text_": "怒龙潘达斯奈基"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1800_02",
+        "subid_hash_": "",
+        "text_": "暴龙加拉穆德"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1801",
+        "subid_hash_": "",
+        "text_": "火龙布雷扎莱克"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1802",
+        "subid_hash_": "",
+        "text_": "冰龙威利努斯"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1803",
+        "subid_hash_": "",
+        "text_": "地龙杜雷贝尔"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1804",
+        "subid_hash_": "",
+        "text_": "风龙伊尔西亚斯"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1805",
+        "subid_hash_": "",
+        "text_": "白龙拉迪斯"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1806",
+        "subid_hash_": "",
+        "text_": "黑龙伊弗欧"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1900",
+        "subid_hash_": "",
+        "text_": "泰尤达尔"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1900_01",
+        "subid_hash_": "",
+        "text_": "泰尤达尔A"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1900_02",
+        "subid_hash_": "",
+        "text_": "泰尤达尔B"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1900_03",
+        "subid_hash_": "",
+        "text_": "泰尤达尔Mk-Ⅱ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM2000",
+        "subid_hash_": "",
+        "text_": "伽兰查"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM2100",
+        "subid_hash_": "",
+        "text_": "玛琪拉菲菈"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE2110",
+        "subid_hash_": "",
+        "text_": "弗雷克格"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE2111",
+        "subid_hash_": "",
+        "text_": "姆乔尔尼尔"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE2112",
+        "subid_hash_": "",
+        "text_": "双蛇十字权杖"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE2113",
+        "subid_hash_": "",
+        "text_": "迦耶伯格"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM2200_01",
+        "subid_hash_": "",
+        "text_": "神秘剑士"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM2400",
+        "subid_hash_": "",
+        "text_": "莉莉丝"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM2500",
+        "subid_hash_": "",
+        "text_": "钳蟹"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM2600",
+        "subid_hash_": "",
+        "text_": "眼镜蛇"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM2600_01",
+        "subid_hash_": "",
+        "text_": "沙漠死神"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM2700",
+        "subid_hash_": "",
+        "text_": "特训人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM2800",
+        "subid_hash_": "",
+        "text_": "灾祸之影"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM2800_01",
+        "subid_hash_": "",
+        "text_": "无形杀意"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM2800_02",
+        "subid_hash_": "",
+        "text_": "灾祸残影"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM3100",
+        "subid_hash_": "",
+        "text_": "世须良加"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE3100",
+        "subid_hash_": "",
+        "text_": "流萤"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE3101",
+        "subid_hash_": "",
+        "text_": "反重力蓄能器"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7000",
+        "subid_hash_": "",
+        "text_": "原型巴哈姆特"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE7000",
+        "subid_hash_": "",
+        "text_": "暗之棘"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE7001",
+        "subid_hash_": "",
+        "text_": "火之棘"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE7002",
+        "subid_hash_": "",
+        "text_": "水之棘"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE7003",
+        "subid_hash_": "",
+        "text_": "土之棘"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE7004",
+        "subid_hash_": "",
+        "text_": "风之棘"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7100",
+        "subid_hash_": "",
+        "text_": "伏尔甘博拉"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7110",
+        "subid_hash_": "",
+        "text_": "伏尔甘博拉·虚无"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7200",
+        "subid_hash_": "",
+        "text_": "胡拉坎"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7210",
+        "subid_hash_": "",
+        "text_": "胡拉坎·虚无"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7300",
+        "subid_hash_": "",
+        "text_": "玛纳加尔姆"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7310",
+        "subid_hash_": "",
+        "text_": "玛纳加尔姆·虚无"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE7300",
+        "subid_hash_": "",
+        "text_": "涅瑞伊德"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE7300_01",
+        "subid_hash_": "",
+        "text_": "海里米德"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7400",
+        "subid_hash_": "",
+        "text_": "艾卡利翁"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7401",
+        "subid_hash_": "",
+        "text_": "腿部反应装置"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7404",
+        "subid_hash_": "",
+        "text_": "艾卡利翁·脊柱核心"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7406",
+        "subid_hash_": "",
+        "text_": "颈椎插件"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7406_01",
+        "subid_hash_": "",
+        "text_": "胸椎插件"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7406_02",
+        "subid_hash_": "",
+        "text_": "肩胛插件"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7406_03",
+        "subid_hash_": "",
+        "text_": "腰椎插件"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7406_04",
+        "subid_hash_": "",
+        "text_": "冈上肌端子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7406_05",
+        "subid_hash_": "",
+        "text_": "冈下肌端子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7406_06",
+        "subid_hash_": "",
+        "text_": "圆肌端子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7406_07",
+        "subid_hash_": "",
+        "text_": "背阔肌端子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7406_08",
+        "subid_hash_": "",
+        "text_": "主控组件"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7407",
+        "subid_hash_": "",
+        "text_": "肩部反应装置"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7407_01",
+        "subid_hash_": "",
+        "text_": "臂部反应装置"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7408",
+        "subid_hash_": "",
+        "text_": "髋部反应装置"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7409",
+        "subid_hash_": "",
+        "text_": "胸部反应装置"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7500",
+        "subid_hash_": "",
+        "text_": "安格拉·曼纽"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7500_01",
+        "subid_hash_": "",
+        "text_": "安格拉·曼纽（完全形态）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7500_02",
+        "subid_hash_": "",
+        "text_": "安格拉·曼纽（莉莉丝融合形态）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7520",
+        "subid_hash_": "",
+        "text_": "达埃瓦"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7530",
+        "subid_hash_": "",
+        "text_": "阿卡·马纳"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7600",
+        "subid_hash_": "",
+        "text_": "巴哈姆特·异型"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7603",
+        "subid_hash_": "",
+        "text_": "神击核"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7610",
+        "subid_hash_": "",
+        "text_": "玛格纳巴哈姆特·异型"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL0000",
+        "subid_hash_": "",
+        "text_": "古兰"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL000B",
+        "subid_hash_": "",
+        "text_": "dummy"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL0100",
+        "subid_hash_": "",
+        "text_": "姬塔"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL0200",
+        "subid_hash_": "",
+        "text_": "卡塔莉娜"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL0300",
+        "subid_hash_": "",
+        "text_": "拉卡姆"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL0400",
+        "subid_hash_": "",
+        "text_": "伊欧"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL0500",
+        "subid_hash_": "",
+        "text_": "欧根"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL0600",
+        "subid_hash_": "",
+        "text_": "萝赛塔"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL0700",
+        "subid_hash_": "",
+        "text_": "菲莉"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL0800",
+        "subid_hash_": "",
+        "text_": "兰斯洛特"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL0900",
+        "subid_hash_": "",
+        "text_": "维恩"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL1000",
+        "subid_hash_": "",
+        "text_": "帕西瓦尔"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL1100",
+        "subid_hash_": "",
+        "text_": "齐格飞"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL1200",
+        "subid_hash_": "",
+        "text_": "夏洛特"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL1300",
+        "subid_hash_": "",
+        "text_": "尤达拉哈"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL1400",
+        "subid_hash_": "",
+        "text_": "娜尔梅亚"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL1500",
+        "subid_hash_": "",
+        "text_": "冈达葛萨"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL1600",
+        "subid_hash_": "",
+        "text_": "泽塔"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL1700",
+        "subid_hash_": "",
+        "text_": "巴萨拉卡"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL1800",
+        "subid_hash_": "",
+        "text_": "卡莉奥斯特萝"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL1900",
+        "subid_hash_": "",
+        "text_": "伊德"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL2400",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0000",
+        "subid_hash_": "",
+        "text_": "露莉亚"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0100",
+        "subid_hash_": "",
+        "text_": "碧"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0200",
+        "subid_hash_": "",
+        "text_": "谢洛卡特"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0300",
+        "subid_hash_": "",
+        "text_": "罗兰"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0400",
+        "subid_hash_": "",
+        "text_": "伊丝特莉亚斯"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0600",
+        "subid_hash_": "",
+        "text_": "扎斯巴"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0702",
+        "subid_hash_": "",
+        "text_": "汉佩恩"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1202",
+        "subid_hash_": "",
+        "text_": "德戈"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1402",
+        "subid_hash_": "",
+        "text_": "哥利"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1602",
+        "subid_hash_": "",
+        "text_": "达迪"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_a",
+        "subid_hash_": "",
+        "text_": "惊慌失措的男子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_a",
+        "subid_hash_": "",
+        "text_": "正直的劳工"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_b",
+        "subid_hash_": "",
+        "text_": "热心肠的男子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_a",
+        "subid_hash_": "",
+        "text_": "不安的男子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_c",
+        "subid_hash_": "",
+        "text_": "骑空艇技师"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_d",
+        "subid_hash_": "",
+        "text_": "担心同伴的男子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_g",
+        "subid_hash_": "",
+        "text_": "暴脾气的男子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_b",
+        "subid_hash_": "",
+        "text_": "不知所措的母亲"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0800_a",
+        "subid_hash_": "",
+        "text_": "和蔼的老爷爷"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1700_e",
+        "subid_hash_": "",
+        "text_": "小心谨慎的女子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1500_c",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_r",
+        "subid_hash_": "",
+        "text_": "自大的男子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_s",
+        "subid_hash_": "",
+        "text_": "随性的男子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_t",
+        "subid_hash_": "",
+        "text_": "粗暴的男子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_u",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_l",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_m",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_n",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_o",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_p",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2000_d",
+        "subid_hash_": "",
+        "text_": "顽皮的男孩"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2000_e",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2100_c",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2100_d",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_v",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_q",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1800_a",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1800_b",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1900",
+        "subid_hash_": "",
+        "text_": "希德霍姆兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1900_a",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1900_b",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1900_c",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1900_d",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1900_e",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1900_f",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1900_g",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_e",
+        "subid_hash_": "",
+        "text_": "有责任心的文静男子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_J",
+        "subid_hash_": "",
+        "text_": "说话含糊的男子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1700_f",
+        "subid_hash_": "",
+        "text_": "吊人胃口的女子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_h",
+        "subid_hash_": "",
+        "text_": "浮夸的男子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_np2200_a",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_np2200_b",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2200_c",
+        "subid_hash_": "",
+        "text_": "骑空团联盟前台"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0900",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1300",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2000_a",
+        "subid_hash_": "",
+        "text_": "男孩"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2100_a",
+        "subid_hash_": "",
+        "text_": "女孩"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1300_a",
+        "subid_hash_": "",
+        "text_": "抽泣的女子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1700_a",
+        "subid_hash_": "",
+        "text_": "绝望的女子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_b",
+        "subid_hash_": "",
+        "text_": "勇敢的男子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_a",
+        "subid_hash_": "",
+        "text_": "瘫软的女子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1500_a",
+        "subid_hash_": "",
+        "text_": "骑空士狂热粉"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1400_a",
+        "subid_hash_": "",
+        "text_": "精疲力尽的男子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2100_b",
+        "subid_hash_": "",
+        "text_": "胆怯的女孩"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_c",
+        "subid_hash_": "",
+        "text_": "热血的男子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_b",
+        "subid_hash_": "",
+        "text_": "焦躁的男子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_f",
+        "subid_hash_": "",
+        "text_": "神情不安的女子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2000_b",
+        "subid_hash_": "",
+        "text_": "好胜的男孩"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1300_b",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1300_c",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1700_b",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_q",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_c",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_d",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_d",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_e",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_e",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_c",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1300_d",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_f",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2000_c",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1500_b",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1400_c",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_g",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_g",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1300_e",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1700_c",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1700_d",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_h",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_i",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_d",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_f",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1400_d",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2000_f",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2100_e",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_f",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1400_e",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_i",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_h",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_j",
+        "subid_hash_": "",
+        "text_": "肯特"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_k",
+        "subid_hash_": "",
+        "text_": "青年舵手"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1700_g",
+        "subid_hash_": "",
+        "text_": "女性机械师"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1400_f",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2000_g",
+        "subid_hash_": "",
+        "text_": "雷夫"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_l",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_i",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1400_i",
+        "subid_hash_": "",
+        "text_": "一丝不苟的男子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1700_h",
+        "subid_hash_": "",
+        "text_": "爱照顾人的女子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_k",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_g",
+        "subid_hash_": "",
+        "text_": "卡尔瑟达"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_j",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2600",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_m",
+        "subid_hash_": "",
+        "text_": "路德文"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0800_b",
+        "subid_hash_": "",
+        "text_": "汉斯"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2000_h",
+        "subid_hash_": "",
+        "text_": "团长"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2000_i",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2100_f",
+        "subid_hash_": "",
+        "text_": "拳头"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2100_g",
+        "subid_hash_": "",
+        "text_": "博士"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2500",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_n",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1500_d",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_h",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_i",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1400_g",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1400_h",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_o",
+        "subid_hash_": "",
+        "text_": "刻薄的贵族"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0800_c",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_l",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1700_i",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_k",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2000_j",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_p",
+        "subid_hash_": "",
+        "text_": "神秘的裁判"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_m",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1300_g",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1500_e",
+        "subid_hash_": "",
+        "text_": "希洛尔"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_j",
+        "subid_hash_": "",
+        "text_": "勤奋的男子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1300_f",
+        "subid_hash_": "",
+        "text_": "慌张的女子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_k",
+        "subid_hash_": "",
+        "text_": "严格的铁匠"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_l",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1400_j",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_m",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_w",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0800_d",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_x",
+        "subid_hash_": "",
+        "text_": "被吓坏的男子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1300_h",
+        "subid_hash_": "",
+        "text_": "面带惧色的女子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_y",
+        "subid_hash_": "",
+        "text_": "胆小的行商"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_r",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1300_i",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_n",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_o",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_o",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_p",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_p",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_z",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1900_i",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1900_j",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_s",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700",
+        "subid_hash_": "",
+        "text_": "开朗的商人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2700",
+        "subid_hash_": "",
+        "text_": "年轻的骑空士"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2000_k",
+        "subid_hash_": "",
+        "text_": "瓦恩"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1300_j",
+        "subid_hash_": "",
+        "text_": "伊莱娜"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_00",
+        "subid_hash_": "",
+        "text_": "弗尔卡自卫团"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_01",
+        "subid_hash_": "",
+        "text_": "弗尔卡樵夫工会"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_02",
+        "subid_hash_": "",
+        "text_": "关心父亲的少年"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_03",
+        "subid_hash_": "",
+        "text_": "天培尔矿工工会"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_04",
+        "subid_hash_": "",
+        "text_": "弗尔卡旅客艇协会"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_05",
+        "subid_hash_": "",
+        "text_": "顽强作战的僧兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_06",
+        "subid_hash_": "",
+        "text_": "失眠的巡礼者"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_07",
+        "subid_hash_": "",
+        "text_": "“传说”吟诵者"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_08",
+        "subid_hash_": "",
+        "text_": "热心的魔像研究者"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_09",
+        "subid_hash_": "",
+        "text_": "希德霍姆军"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_10",
+        "subid_hash_": "",
+        "text_": "妖艳的占卜师"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_11",
+        "subid_hash_": "",
+        "text_": "彬彬有礼的行商"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_12",
+        "subid_hash_": "",
+        "text_": "弗尔卡骑空艇整修工会"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_13",
+        "subid_hash_": "",
+        "text_": "不愿透露姓名的酒家"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_14",
+        "subid_hash_": "",
+        "text_": "一掷千金的硬币收藏家"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_15",
+        "subid_hash_": "",
+        "text_": "枫达慕观测员"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_16",
+        "subid_hash_": "",
+        "text_": "爱出汗的厨师"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_17",
+        "subid_hash_": "",
+        "text_": "追求极致料理的男子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_18",
+        "subid_hash_": "",
+        "text_": "匿名骑空团"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_19",
+        "subid_hash_": "",
+        "text_": "骑空团联盟拉法尔"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_20",
+        "subid_hash_": "",
+        "text_": "希德霍姆北门守备队"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_21",
+        "subid_hash_": "",
+        "text_": "希德霍姆航路保护协会"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_22",
+        "subid_hash_": "",
+        "text_": "来自花都的设计师"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_23",
+        "subid_hash_": "",
+        "text_": "骑空团联盟 花都支部部长"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_24",
+        "subid_hash_": "",
+        "text_": "追求浪漫的画家"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_25",
+        "subid_hash_": "",
+        "text_": "希德霍姆军第八部队"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_26",
+        "subid_hash_": "",
+        "text_": "希德霍姆军第二部队队长"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_27",
+        "subid_hash_": "",
+        "text_": "吟诵者与画家夫妇"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_28",
+        "subid_hash_": "",
+        "text_": "希德霍姆军新任队长"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_29",
+        "subid_hash_": "",
+        "text_": "有权威的司书"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_30",
+        "subid_hash_": "",
+        "text_": "希德霍姆军先遣队队长"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_31",
+        "subid_hash_": "",
+        "text_": "自称龙之使徒的人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_32",
+        "subid_hash_": "",
+        "text_": "逃亡过来的巡礼者"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_33",
+        "subid_hash_": "",
+        "text_": "失魂落魄的骑空士"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_34",
+        "subid_hash_": "",
+        "text_": "大姐头气质的铁匠"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_35",
+        "subid_hash_": "",
+        "text_": "精明的商人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_36",
+        "subid_hash_": "",
+        "text_": "热爱研究的考古学者"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_37",
+        "subid_hash_": "",
+        "text_": "宣扬保护文物的学者"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_38",
+        "subid_hash_": "",
+        "text_": "失去挚友的骑空士"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_39",
+        "subid_hash_": "",
+        "text_": "原白狼兵团书记官"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_40",
+        "subid_hash_": "",
+        "text_": "刃重众一行"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_41",
+        "subid_hash_": "",
+        "text_": "玛洛斯冰僧院"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_42",
+        "subid_hash_": "",
+        "text_": "希德霍姆军将校"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_00",
+        "subid_hash_": "",
+        "text_": "即将隐退的冒险家"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_01",
+        "subid_hash_": "",
+        "text_": "钳蟹男孩"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_02",
+        "subid_hash_": "",
+        "text_": "有名气的药师"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_03",
+        "subid_hash_": "",
+        "text_": "不靠谱的行商"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_04",
+        "subid_hash_": "",
+        "text_": "痴迷石头的女子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_05",
+        "subid_hash_": "",
+        "text_": "野心勃勃的策展人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_06",
+        "subid_hash_": "",
+        "text_": "忧心忡忡的老人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_07",
+        "subid_hash_": "",
+        "text_": "喜欢新奇事物的魔法学徒"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_08",
+        "subid_hash_": "",
+        "text_": "睡眠不足的旅人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_09",
+        "subid_hash_": "",
+        "text_": "痞里痞气的士兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_10",
+        "subid_hash_": "",
+        "text_": "爱做白日梦的建筑师"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_11",
+        "subid_hash_": "",
+        "text_": "口音重的男子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_12",
+        "subid_hash_": "",
+        "text_": "表情严肃的工匠"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_13",
+        "subid_hash_": "",
+        "text_": "扎斯巴家族的跑腿"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_14",
+        "subid_hash_": "",
+        "text_": "发愁的商人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_15",
+        "subid_hash_": "",
+        "text_": "忧虑的士兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_16",
+        "subid_hash_": "",
+        "text_": "充满好奇心的美食家"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_17",
+        "subid_hash_": "",
+        "text_": "爱好奇特的图书管理员"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_18",
+        "subid_hash_": "",
+        "text_": "不满足的昆虫收藏家"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_19",
+        "subid_hash_": "",
+        "text_": "贫穷的见习剑士"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_20",
+        "subid_hash_": "",
+        "text_": "某冒险家的搭档"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_21",
+        "subid_hash_": "",
+        "text_": "暴力的僧兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_22",
+        "subid_hash_": "",
+        "text_": "性急的女子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_23",
+        "subid_hash_": "",
+        "text_": "路过的骑空艇技师"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_24",
+        "subid_hash_": "",
+        "text_": "自卫团的教官"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_26",
+        "subid_hash_": "",
+        "text_": "卑微的骑空艇技师"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_27",
+        "subid_hash_": "",
+        "text_": "固执的铁匠"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_28",
+        "subid_hash_": "",
+        "text_": "激进的机械技师"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_29",
+        "subid_hash_": "",
+        "text_": "一丝不苟的园丁"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_30",
+        "subid_hash_": "",
+        "text_": "性急的骑空艇技师"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_31",
+        "subid_hash_": "",
+        "text_": "性格阴沉的青年"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_32",
+        "subid_hash_": "",
+        "text_": "痴狂的魔物研究家"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_33",
+        "subid_hash_": "",
+        "text_": "研究生态环境的学者"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_34",
+        "subid_hash_": "",
+        "text_": "哭干了眼泪的寡妇"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_35",
+        "subid_hash_": "",
+        "text_": "勇于挑战的铁匠"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_36",
+        "subid_hash_": "",
+        "text_": "活泼开朗的女性"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_37",
+        "subid_hash_": "",
+        "text_": "烦恼的僧兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_38",
+        "subid_hash_": "",
+        "text_": "将要远行的旅人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_39",
+        "subid_hash_": "",
+        "text_": "爱出汗的机械技师"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_40",
+        "subid_hash_": "",
+        "text_": "正在休假的军人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_41",
+        "subid_hash_": "",
+        "text_": "行事草率的母亲"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_42",
+        "subid_hash_": "",
+        "text_": "人脉广阔的商人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_43",
+        "subid_hash_": "",
+        "text_": "见习炼金术士"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_44",
+        "subid_hash_": "",
+        "text_": "有威严的雕刻家"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_45",
+        "subid_hash_": "",
+        "text_": "慷慨的商人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_46",
+        "subid_hash_": "",
+        "text_": "退役的佣兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_47",
+        "subid_hash_": "",
+        "text_": "无名骑空士"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_48",
+        "subid_hash_": "",
+        "text_": "见习魔法师"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_49",
+        "subid_hash_": "",
+        "text_": "可疑的男子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_50",
+        "subid_hash_": "",
+        "text_": "仁慈的僧兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_51",
+        "subid_hash_": "",
+        "text_": "悠闲的牛仔"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_52",
+        "subid_hash_": "",
+        "text_": "充满热情的桌游设计者"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_53",
+        "subid_hash_": "",
+        "text_": "活跃的观光工会会长"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_54",
+        "subid_hash_": "",
+        "text_": "逃亡的前阿维亚教团兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_55",
+        "subid_hash_": "",
+        "text_": "希德霍姆卫兵队长"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_56",
+        "subid_hash_": "",
+        "text_": "聪明的商人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_57",
+        "subid_hash_": "",
+        "text_": "见风使舵的商人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_58",
+        "subid_hash_": "",
+        "text_": "耿直的僧兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_59",
+        "subid_hash_": "",
+        "text_": "急于求成的魔法机工技师"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_60",
+        "subid_hash_": "",
+        "text_": "潜心钻研的魔导士"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_61",
+        "subid_hash_": "",
+        "text_": "旅途中的预言家"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_62",
+        "subid_hash_": "",
+        "text_": "潜心钻研的魔法师"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9900",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9904",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9905",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9910",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9911",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9912",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9913",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9927",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9928",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9929",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9930",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9931",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9932",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9933",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9935",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9936",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9046",
+        "subid_hash_": "",
+        "text_": "随性的男子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9047",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9048",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9049",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9050",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9054",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9055",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9056",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9057",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9058",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9059",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9060",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9062",
+        "subid_hash_": "",
+        "text_": "扎斯巴的手下"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9066",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_UNKNOWN",
+        "subid_hash_": "",
+        "text_": "？？？"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_MYSTERIOUS_MAN",
+        "subid_hash_": "",
+        "text_": "神秘男子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_PL1900_CHILD",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_VOICE_TRANSMITTER",
+        "subid_hash_": "",
+        "text_": "传声机"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_INBOARD_WARNING",
+        "subid_hash_": "",
+        "text_": "舰内警报"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_EM1000_A",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_EM0000",
+        "subid_hash_": "",
+        "text_": "哥布林"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_EM0000_A",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_EM0000_B",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_EM0000_C",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_WN0200",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_NP0300_01_DUMMY",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_NP0300_02_DUMMY",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_NP0600_DUMMY",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_PLAYER",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_PLAYER",
+        "subid_hash_": "note_list01",
+        "text_": "主人公"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_PLAYER",
+        "subid_hash_": "note_list04",
+        "text_": "主人公"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_PLAYER",
+        "subid_hash_": "note_info03_data04",
+        "text_": "主人公"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_PLAYER",
+        "subid_hash_": "note_info03_data01_chr",
+        "text_": "主人公"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_PLAYER",
+        "subid_hash_": "note_info03_data01_ctgr",
+        "text_": "主人公"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_PLAYER",
+        "subid_hash_": "window_assist01",
+        "text_": "主人公"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_LOADING_PLAYER",
+        "subid_hash_": "",
+        "text_": "(主人公)"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_PLAYER_NP0000",
+        "subid_hash_": "",
+        "text_": "和露莉亚"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BA7200",
+        "subid_hash_": "",
+        "text_": "叩者之扉"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BA7210",
+        "subid_hash_": "",
+        "text_": "灾祸残渣"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BA7201",
+        "subid_hash_": "",
+        "text_": "观者之瞳"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BA7211",
+        "subid_hash_": "",
+        "text_": "灾祸之门"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BA0350",
+        "subid_hash_": "",
+        "text_": "猫"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BA2103",
+        "subid_hash_": "",
+        "text_": "战术锚"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BH0002",
+        "subid_hash_": "",
+        "text_": "商人的货物"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BH0003",
+        "subid_hash_": "",
+        "text_": "祈祷地"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BH0004",
+        "subid_hash_": "",
+        "text_": "路障"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BH2002",
+        "subid_hash_": "",
+        "text_": "20mm以太炮"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BH2005",
+        "subid_hash_": "",
+        "text_": "控制器"
+      }
+    }
+  ]
+}
