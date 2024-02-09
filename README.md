@@ -2,6 +2,11 @@
 
 以简中 [wiki](https://gbf.huijiwiki.com/) 为标准，对部分非约定俗成的译名进行了修改，旨在使角色名和术语更符合 [Granblue Fantasy](https://game.granbluefantasy.jp) 本家玩家 ~~(以及我自己)~~ 的习惯
 
+## 效果预览
+
+![角色](/assets/preview-chara.png)
+![因子](/assets/preview-geen.png)
+
 ## 变更详表
 
 ### 角色名
@@ -14,7 +19,7 @@
 | 塞达         | 泽塔         |
 | 卡莉奥丝特罗 | 卡莉奥斯特萝 |
 
-### 因子及状态效果
+### 因子
 
 | 官方版 | wiki 版 |
 | ------ | ------- |
