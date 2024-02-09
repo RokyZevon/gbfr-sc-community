@@ -34,3 +34,8 @@
 
 1. 删除游戏根目录下的 `/data/system/` 文件夹
 2. 将备份的 `data.i` 文件覆盖至游戏根目录
+
+## 致谢
+
+- [GBFRDataTools](https://github.com/Nenkai/GBFRDataTools)
+- [MsgPacker](https://github.com/WistfulHopes/MsgPacker)
