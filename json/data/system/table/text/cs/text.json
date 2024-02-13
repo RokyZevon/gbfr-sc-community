@@ -10896,35 +10896,35 @@
       "column_": {
         "id_hash_": "TXT_GEEN_045_00",
         "subid_hash_": "",
-        "text_": "豪胆"
+        "text_": "根性"
       }
     },
     {
       "column_": {
         "id_hash_": "TXT_GEEN_045_01",
         "subid_hash_": "",
-        "text_": "豪胆Ⅱ"
+        "text_": "根性Ⅱ"
       }
     },
     {
       "column_": {
         "id_hash_": "TXT_GEEN_045_02",
         "subid_hash_": "",
-        "text_": "豪胆Ⅲ"
+        "text_": "根性Ⅲ"
       }
     },
     {
       "column_": {
         "id_hash_": "TXT_GEEN_045_03",
         "subid_hash_": "",
-        "text_": "豪胆Ⅳ"
+        "text_": "根性Ⅳ"
       }
     },
     {
       "column_": {
         "id_hash_": "TXT_GEEN_045_04",
         "subid_hash_": "",
-        "text_": "豪胆Ⅴ"
+        "text_": "根性Ⅴ"
       }
     },
     {
@@ -28270,7 +28270,7 @@
       "column_": {
         "id_hash_": "TXT_ABIF_PL0900_08",
         "subid_hash_": "",
-        "text_": "赋予自身豪胆/攻击UP/防御UP效果。"
+        "text_": "赋予自身即死回避/攻击UP/防御UP效果。"
       }
     },
     {
@@ -29348,7 +29348,7 @@
       "column_": {
         "id_hash_": "TXT_SKILL_045_00",
         "subid_hash_": "",
-        "text_": "豪胆"
+        "text_": "根性"
       }
     },
     {
