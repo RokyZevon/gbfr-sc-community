@@ -1,0 +1,872 @@
+{
+  "rows_": [
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_0005_1",
+        "subid_hash_": "",
+        "text_": "巨盾狂击"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_0102_1",
+        "subid_hash_": "",
+        "text_": "地狱之门"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_0103_1",
+        "subid_hash_": "",
+        "text_": "咒骨召魂"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_0500_1",
+        "subid_hash_": "",
+        "text_": "怒石碾压"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_0501_1",
+        "subid_hash_": "",
+        "text_": "冰棱急坠"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_0502_1",
+        "subid_hash_": "",
+        "text_": "碎火飞溅"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_0706_1",
+        "subid_hash_": "",
+        "text_": "极寒扫射"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_0706_2",
+        "subid_hash_": "",
+        "text_": "寒冰巨刃"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_1500_1",
+        "subid_hash_": "",
+        "text_": "大地震颤"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_1600_1",
+        "subid_hash_": "",
+        "text_": "狂风涡旋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_1800_1",
+        "subid_hash_": "",
+        "text_": "巨龙秘法"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_1801_1",
+        "subid_hash_": "",
+        "text_": "巨龙火球"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_1802_1",
+        "subid_hash_": "",
+        "text_": "巨龙陨冰"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_1803_1",
+        "subid_hash_": "",
+        "text_": "巨龙裂地"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_1804_1",
+        "subid_hash_": "",
+        "text_": "巨龙乱流"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_1805_1",
+        "subid_hash_": "",
+        "text_": "殃祸招雷"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_1806_1",
+        "subid_hash_": "",
+        "text_": "暗影律动"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_1806_2",
+        "subid_hash_": "",
+        "text_": "饕餮深渊"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_1806_3",
+        "subid_hash_": "",
+        "text_": "无尽绝望"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_1900_1",
+        "subid_hash_": "",
+        "text_": "超频模式"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_2000_1",
+        "subid_hash_": "",
+        "text_": "武刹枪"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_2000_2",
+        "subid_hash_": "",
+        "text_": "万炎狂澜"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_2000_3",
+        "subid_hash_": "",
+        "text_": "煌刃狂澜"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_2100_1",
+        "subid_hash_": "",
+        "text_": "刀剑歌剧"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_2100_2",
+        "subid_hash_": "",
+        "text_": "超凡交响曲"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_2200_1",
+        "subid_hash_": "",
+        "text_": "审判"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_2300_1",
+        "subid_hash_": "",
+        "text_": "最终审判"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_2300_2",
+        "subid_hash_": "",
+        "text_": "最终魂响"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_2300_3",
+        "subid_hash_": "",
+        "text_": "灵魂连锁"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_2300_4",
+        "subid_hash_": "",
+        "text_": "天谴"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_2300_5",
+        "subid_hash_": "",
+        "text_": "异魂觉醒"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_2400_1",
+        "subid_hash_": "",
+        "text_": "无光之夜"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_1",
+        "subid_hash_": "",
+        "text_": "弑神利刃"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_2",
+        "subid_hash_": "",
+        "text_": "流萤发射"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_3",
+        "subid_hash_": "",
+        "text_": "属性切换"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_4",
+        "subid_hash_": "",
+        "text_": "寂静之海"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_5",
+        "subid_hash_": "",
+        "text_": "丰饶之海"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_6",
+        "subid_hash_": "",
+        "text_": "波澜之海"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_7",
+        "subid_hash_": "",
+        "text_": "祈祷之愿"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_8",
+        "subid_hash_": "",
+        "text_": "回响之声"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_9",
+        "subid_hash_": "",
+        "text_": "强制遣返"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_10",
+        "subid_hash_": "",
+        "text_": "月轴射线"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_11",
+        "subid_hash_": "",
+        "text_": "环地平弧"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_12",
+        "subid_hash_": "",
+        "text_": "红色信号"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_13",
+        "subid_hash_": "",
+        "text_": "红色信号＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_14",
+        "subid_hash_": "",
+        "text_": "蓝色信号"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_15",
+        "subid_hash_": "",
+        "text_": "蓝色信号＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_16",
+        "subid_hash_": "",
+        "text_": "黄色信号"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_17",
+        "subid_hash_": "",
+        "text_": "黄色信号＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_1",
+        "subid_hash_": "",
+        "text_": "破灭终局"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_2",
+        "subid_hash_": "",
+        "text_": "浩劫"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_3",
+        "subid_hash_": "",
+        "text_": "圣迹"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_4",
+        "subid_hash_": "",
+        "text_": "火红乐园"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_5",
+        "subid_hash_": "",
+        "text_": "绯红火雨"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_6",
+        "subid_hash_": "",
+        "text_": "冰蓝乐园"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_7",
+        "subid_hash_": "",
+        "text_": "皓蓝冰浪"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_8",
+        "subid_hash_": "",
+        "text_": "金黄乐园"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_9",
+        "subid_hash_": "",
+        "text_": "裂地金光"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_10",
+        "subid_hash_": "",
+        "text_": "碧绿乐园"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_11",
+        "subid_hash_": "",
+        "text_": "终末飓风"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_12",
+        "subid_hash_": "",
+        "text_": "绝对审判"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_13",
+        "subid_hash_": "",
+        "text_": "超新星"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_14",
+        "subid_hash_": "",
+        "text_": "必灭之时"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_15",
+        "subid_hash_": "",
+        "text_": "零之浩劫"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_16",
+        "subid_hash_": "",
+        "text_": "让一切尘埃落定"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7100_1",
+        "subid_hash_": "",
+        "text_": "憎恨"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7100_2",
+        "subid_hash_": "",
+        "text_": "无助"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7100_3",
+        "subid_hash_": "",
+        "text_": "连锁深度上升"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7100_4",
+        "subid_hash_": "",
+        "text_": "愤怒"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7110_1",
+        "subid_hash_": "",
+        "text_": "虚无熔岩"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7110_2",
+        "subid_hash_": "",
+        "text_": "暗黑红炎"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7110_3",
+        "subid_hash_": "",
+        "text_": "愤怒强击"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7200_1",
+        "subid_hash_": "",
+        "text_": "狂野飓风"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7201_1",
+        "subid_hash_": "",
+        "text_": "女神风暴"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7201_2",
+        "subid_hash_": "",
+        "text_": "刀剑起舞"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7201_3",
+        "subid_hash_": "",
+        "text_": "形态转换"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7201_4",
+        "subid_hash_": "",
+        "text_": "呼啸风弹"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7201_5",
+        "subid_hash_": "",
+        "text_": "爆裂圆环"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7210_1",
+        "subid_hash_": "",
+        "text_": "虚无狂风"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7211_1",
+        "subid_hash_": "",
+        "text_": "终结狂风"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7211_2",
+        "subid_hash_": "",
+        "text_": "虚无裂刃"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7211_3",
+        "subid_hash_": "",
+        "text_": "形态转换"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7211_4",
+        "subid_hash_": "",
+        "text_": "穿透之箭"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7211_5",
+        "subid_hash_": "",
+        "text_": "虚无爆发"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7300_1",
+        "subid_hash_": "",
+        "text_": "银狼疾驰"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7300_2",
+        "subid_hash_": "",
+        "text_": "死亡雪域"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7300_3",
+        "subid_hash_": "",
+        "text_": "飞雪白幕"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7300_4",
+        "subid_hash_": "",
+        "text_": "扫荡"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7300_5",
+        "subid_hash_": "",
+        "text_": "雪崩"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7300_6",
+        "subid_hash_": "",
+        "text_": "隔世暴雪"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7310_1",
+        "subid_hash_": "",
+        "text_": "虚无隔绝"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7310_2",
+        "subid_hash_": "",
+        "text_": "永恒之夜"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7310_3",
+        "subid_hash_": "",
+        "text_": "凶煞冰河"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7310_4",
+        "subid_hash_": "",
+        "text_": "虚无扫射"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7310_5",
+        "subid_hash_": "",
+        "text_": "虚狼重击"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7310_6",
+        "subid_hash_": "",
+        "text_": "绝界"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7400_1",
+        "subid_hash_": "",
+        "text_": "沙漠巨炮"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7400_2",
+        "subid_hash_": "",
+        "text_": "临界防卫系统"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7500_1",
+        "subid_hash_": "",
+        "text_": "末日审判"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7500_2",
+        "subid_hash_": "",
+        "text_": "灵魂救赎"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7500_3",
+        "subid_hash_": "",
+        "text_": "咒灭"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7500_4",
+        "subid_hash_": "",
+        "text_": "救赎之门——阿难陀"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7500_5",
+        "subid_hash_": "",
+        "text_": "寂静之门——牟尼"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7500_6",
+        "subid_hash_": "",
+        "text_": "煎熬之门——迦罗"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7500_7",
+        "subid_hash_": "",
+        "text_": "永劫之门——阿弥利都"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7500_8",
+        "subid_hash_": "",
+        "text_": "真理之门——谛"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7500_9",
+        "subid_hash_": "",
+        "text_": "苍蓝之门——克里希那"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7500_10",
+        "subid_hash_": "",
+        "text_": "断罪暗光"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7500_11",
+        "subid_hash_": "",
+        "text_": "序曲"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7500_12",
+        "subid_hash_": "",
+        "text_": "空间震荡"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_1",
+        "subid_hash_": "",
+        "text_": "紫焰螺旋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_2",
+        "subid_hash_": "",
+        "text_": "异种神格·狂暴"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_3",
+        "subid_hash_": "",
+        "text_": "理之超越"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_4",
+        "subid_hash_": "",
+        "text_": "无垢末局"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_5",
+        "subid_hash_": "",
+        "text_": "神格侵蚀·伊德"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_6",
+        "subid_hash_": "",
+        "text_": "神击"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_7",
+        "subid_hash_": "",
+        "text_": "神格再临"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_8",
+        "subid_hash_": "",
+        "text_": "终焉之光"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_9",
+        "subid_hash_": "",
+        "text_": "世界重构"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_10",
+        "subid_hash_": "",
+        "text_": "救赎之光"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_11",
+        "subid_hash_": "",
+        "text_": "创世之力"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_12",
+        "subid_hash_": "",
+        "text_": "无瑕咆哮"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_13",
+        "subid_hash_": "",
+        "text_": "神工之翼"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_14",
+        "subid_hash_": "",
+        "text_": "异象弧光"
+      }
+    }
+  ]
+}
