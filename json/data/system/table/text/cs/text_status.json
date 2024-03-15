@@ -1,4 +1,4 @@
-﻿{
+{
   "rows_": [
     {
       "column_": {
@@ -352,6 +352,20 @@
     },
     {
       "column_": {
+        "id_hash_": "TXT_STTTL_MAXHPDEBUFF",
+        "subid_hash_": "",
+        "text_": "最大HP减少"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_BARRIER",
+        "subid_hash_": "",
+        "text_": "屏障"
+      }
+    },
+    {
+      "column_": {
         "id_hash_": "TXT_STATE_ATTACKBUFF",
         "subid_hash_": "",
         "text_": "攻击力提升的状态"
@@ -600,6 +614,20 @@
         "id_hash_": "TXT_STATE_DOUBLETAP",
         "subid_hash_": "",
         "text_": "拉卡姆的攻击得到强化的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_MAXHPDEBUFF",
+        "subid_hash_": "",
+        "text_": "最大HP减少的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_BARRIER",
+        "subid_hash_": "",
+        "text_": "可免受一定伤害的状态"
       }
     },
     {

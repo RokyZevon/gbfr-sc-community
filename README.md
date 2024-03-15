@@ -35,15 +35,28 @@
 
 ### 特殊行动
 
-| 官方版   | wiki 版  |
-| -------- | -------- |
-| 凌驾法则 | 理之超越 |
+| 官方版       | wiki 版      |
+| ------------ | ------------ |
+| 凌驾法则     | 理之超越     |
+| 永恒拒绝之剑 | 永远拒绝之剑 |
+
+### 道具
+
+| 官方版   | wiki 版    |
+| -------- | ---------- |
+| 终焉暗晶 | 终末之暗晶 |
 
 ## 使用方法
+
+### 手动
 
 0. 从 [Github Releases](https://github.com/RokyZevon/gbfr-sc-community/releases) 或 [Nexus](https://www.nexusmods.com/granbluefantasyrelink/mods/18?tab=files) 下载最新的 zip 文件并解压, 也可直接使用源码里的 mod 文件夹
 1. 备份游戏根目录下的 `data.i` 文件 (虽然理论上没关系，但保险起见最好也备份下存档)
 2. 将 `mod` 文件夹下的内容拷贝至游戏根目录
+
+### Reloaded II
+
+1. 请参照 [Relink Modding Site](https://nenkai.github.io/relink-modding/getting_started/mod_manager/)
 
 ## 还原方法
 

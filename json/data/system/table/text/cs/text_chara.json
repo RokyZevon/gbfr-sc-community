@@ -1,4 +1,4 @@
-﻿{
+{
   "rows_": [
     {
       "column_": {
@@ -1451,6 +1451,34 @@
     },
     {
       "column_": {
+        "id_hash_": "TXT_EM7700",
+        "subid_hash_": "",
+        "text_": "路西法"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE7700",
+        "subid_hash_": "",
+        "text_": "完全否认之剑"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE7701",
+        "subid_hash_": "",
+        "text_": "绝对否定之剑"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE7702",
+        "subid_hash_": "",
+        "text_": "永远拒绝之剑"
+      }
+    },
+    {
+      "column_": {
         "id_hash_": "TXT_PL0000",
         "subid_hash_": "",
         "text_": "古兰"
@@ -1594,6 +1622,13 @@
         "id_hash_": "TXT_PL1900",
         "subid_hash_": "",
         "text_": "伊德"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL2100",
+        "subid_hash_": "",
+        "text_": "圣德芬"
       }
     },
     {
