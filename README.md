@@ -48,6 +48,10 @@
 
 ## 使用方法
 
+### Relink Mod Organizer
+
+1. 请参照我的 [Relink Mod Organizer](https://github.com/RokyZevon/RelinkModOrganizer) 的 [中文说明](https://github.com/RokyZevon/RelinkModOrganizer/blob/master/README_zh.md)
+
 ### 手动
 
 0. 从 [Github Releases](https://github.com/RokyZevon/gbfr-sc-community/releases) 或 [Nexus](https://www.nexusmods.com/granbluefantasyrelink/mods/18?tab=files) 下载最新的 zip 文件并解压, 也可直接使用源码里的 mod 文件夹
