@@ -66,4 +66,7 @@
 ## 致谢
 
 - [GBFRDataTools](https://github.com/Nenkai/GBFRDataTools)
-- [MsgPacker](https://github.com/WistfulHopes/MsgPacker)
+
+## 其它
+
+- msg / json 之间的转换使用的是 [MsgPacker](https://github.com/RokyZevon/MsgPacker)

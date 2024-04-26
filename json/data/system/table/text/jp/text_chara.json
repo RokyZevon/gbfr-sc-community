@@ -1,1 +1,3950 @@
-{"rows_":[{"column_":{"id_hash_":"TXT_EM0000","subid_hash_":"","text_":"ゴブリン突撃兵"}},{"column_":{"id_hash_":"TXT_EM0000_01","subid_hash_":"","text_":"ゴブリンバンディット"}},{"column_":{"id_hash_":"TXT_EM0000_02","subid_hash_":"","text_":"ゴブリン強襲兵"}},{"column_":{"id_hash_":"TXT_EM0000_03","subid_hash_":"","text_":"ゴブリンギャザラー"}},{"column_":{"id_hash_":"TXT_EM0000_04","subid_hash_":"","text_":"ヒドゥンアーミー"}},{"column_":{"id_hash_":"TXT_EM0000_05","subid_hash_":"","text_":"カリオン・サヴェッジトライブ"}},{"column_":{"id_hash_":"TXT_EM0001","subid_hash_":"","text_":"ゴブリン呪術兵"}},{"column_":{"id_hash_":"TXT_EM0001_01","subid_hash_":"","text_":"ゴブリンウィッチ"}},{"column_":{"id_hash_":"TXT_EM0001_02","subid_hash_":"","text_":"パイロマニア"}},{"column_":{"id_hash_":"TXT_EM0002","subid_hash_":"","text_":"ゴブリン重装兵"}},{"column_":{"id_hash_":"TXT_EM0002_01","subid_hash_":"","text_":"マッドカバード・ソードマン"}},{"column_":{"id_hash_":"TXT_EM0003","subid_hash_":"","text_":"ゴブリン弓兵"}},{"column_":{"id_hash_":"TXT_EM0003_01","subid_hash_":"","text_":"トリガーハッピー"}},{"column_":{"id_hash_":"TXT_EM0004","subid_hash_":"","text_":"ゴブリンソルジャー"}},{"column_":{"id_hash_":"TXT_EM0004_01","subid_hash_":"","text_":"ゴブリングラディエーター"}},{"column_":{"id_hash_":"TXT_EM0004_02","subid_hash_":"","text_":"荒くれ鬼 ボルド"}},{"column_":{"id_hash_":"TXT_EM0004_03","subid_hash_":"","text_":"渇望のジャナフ"}},{"column_":{"id_hash_":"TXT_EM0004_04","subid_hash_":"","text_":"砂喰らいのギムザ"}},{"column_":{"id_hash_":"TXT_EM0005","subid_hash_":"","text_":"ゴブリンウォーリア"}},{"column_":{"id_hash_":"TXT_EM0005_01","subid_hash_":"","text_":"大盾のマッドビート"}},{"column_":{"id_hash_":"TXT_EM0005_02","subid_hash_":"","text_":"ゴブリンウォーリアA"}},{"column_":{"id_hash_":"TXT_EM0005_03","subid_hash_":"","text_":"ゴブリンウォーリアB"}},{"column_":{"id_hash_":"TXT_EM0100","subid_hash_":"","text_":"スケルトン"}},{"column_":{"id_hash_":"TXT_EM0100_01","subid_hash_":"","text_":"苔生した骸兵"}},{"column_":{"id_hash_":"TXT_EM0101","subid_hash_":"","text_":"ボーンフロスティ"}},{"column_":{"id_hash_":"TXT_EM0101_01","subid_hash_":"","text_":"朽ちた聖騎士"}},{"column_":{"id_hash_":"TXT_EM0101_02","subid_hash_":"","text_":"呪氷の剣兵"}},{"column_":{"id_hash_":"TXT_EM0102","subid_hash_":"","text_":"ゲラシーン"}},{"column_":{"id_hash_":"TXT_EM0103","subid_hash_":"","text_":"スカルミリオーネ"}},{"column_":{"id_hash_":"TXT_EM0103_01","subid_hash_":"","text_":"スカルミリオーネA"}},{"column_":{"id_hash_":"TXT_EM0103_02","subid_hash_":"","text_":"スカルミリオーネB"}},{"column_":{"id_hash_":"TXT_EM0200","subid_hash_":"","text_":"ラウンドウルフ"}},{"column_":{"id_hash_":"TXT_EM0200_01","subid_hash_":"","text_":"デザートウルフ"}},{"column_":{"id_hash_":"TXT_EM0200_02","subid_hash_":"","text_":"ガロウ"}},{"column_":{"id_hash_":"TXT_EM0201","subid_hash_":"","text_":"ゴブリンライダー"}},{"column_":{"id_hash_":"TXT_EM0201_11","subid_hash_":"","text_":"クリムゾンランナー"}},{"column_":{"id_hash_":"TXT_EM0300","subid_hash_":"","text_":"ホーンバード"}},{"column_":{"id_hash_":"TXT_EM0300_01","subid_hash_":"","text_":"オミノスバード"}},{"column_":{"id_hash_":"TXT_EM0300_02","subid_hash_":"","text_":"ワイルドクロウ"}},{"column_":{"id_hash_":"TXT_EM0300_03","subid_hash_":"","text_":"マインピッカー"}},{"column_":{"id_hash_":"TXT_EM0400","subid_hash_":"","text_":"ワイバーン"}},{"column_":{"id_hash_":"TXT_EM0400_01","subid_hash_":"","text_":"エルダーワイバーン"}},{"column_":{"id_hash_":"TXT_EM0400_02","subid_hash_":"","text_":"フォンダーミアン・リザード"}},{"column_":{"id_hash_":"TXT_EM0400_03","subid_hash_":"","text_":"ワイバーンロード"}},{"column_":{"id_hash_":"TXT_EM0400_04","subid_hash_":"","text_":"テンペラストーンイーター"}},{"column_":{"id_hash_":"TXT_EM0400_05","subid_hash_":"","text_":"カース"}},{"column_":{"id_hash_":"TXT_EM0500","subid_hash_":"","text_":"ストンダイル"}},{"column_":{"id_hash_":"TXT_EM0500_01","subid_hash_":"","text_":"ストンダイルA"}},{"column_":{"id_hash_":"TXT_EM0500_02","subid_hash_":"","text_":"ストンダイルB"}},{"column_":{"id_hash_":"TXT_EM0500_03","subid_hash_":"","text_":"アリゲイディス・ジョン"}},{"column_":{"id_hash_":"TXT_EM0500_04","subid_hash_":"","text_":"アリゲイディス・ジェーン"}},{"column_":{"id_hash_":"TXT_EM0501","subid_hash_":"","text_":"ブリズダイル"}},{"column_":{"id_hash_":"TXT_EM0501_01","subid_hash_":"","text_":"ブリズダイルA"}},{"column_":{"id_hash_":"TXT_EM0501_02","subid_hash_":"","text_":"ブリズダイルB"}},{"column_":{"id_hash_":"TXT_EM0501_03","subid_hash_":"","text_":"トッテンウォーカー"}},{"column_":{"id_hash_":"TXT_EM0502","subid_hash_":"","text_":"フレイダイル"}},{"column_":{"id_hash_":"TXT_EM0502_01","subid_hash_":"","text_":"フレイダイルA"}},{"column_":{"id_hash_":"TXT_EM0502_02","subid_hash_":"","text_":"フレイダイルB"}},{"column_":{"id_hash_":"TXT_EM0600","subid_hash_":"","text_":"スライム"}},{"column_":{"id_hash_":"TXT_EM0601","subid_hash_":"","text_":"シルバースライム"}},{"column_":{"id_hash_":"TXT_EM0602","subid_hash_":"","text_":"ゴールドスライム"}},{"column_":{"id_hash_":"TXT_EM0603","subid_hash_":"","text_":"キングシルバースライム"}},{"column_":{"id_hash_":"TXT_EM0604","subid_hash_":"","text_":"キングゴールドスライム"}},{"column_":{"id_hash_":"TXT_EM0605","subid_hash_":"","text_":"プリズミックスライム"}},{"column_":{"id_hash_":"TXT_EM0700","subid_hash_":"","text_":""}},{"column_":{"id_hash_":"TXT_EM0701","subid_hash_":"","text_":"シアエガ"}},{"column_":{"id_hash_":"TXT_EM0701_01","subid_hash_":"","text_":"モクモクレン"}},{"column_":{"id_hash_":"TXT_EM0702","subid_hash_":"","text_":""}},{"column_":{"id_hash_":"TXT_EM0703","subid_hash_":"","text_":""}},{"column_":{"id_hash_":"TXT_EM0704","subid_hash_":"","text_":""}},{"column_":{"id_hash_":"TXT_EM0706","subid_hash_":"","text_":"ナザルボンジュ"}},{"column_":{"id_hash_":"TXT_EM0706_01","subid_hash_":"","text_":"ナザルボンジュA"}},{"column_":{"id_hash_":"TXT_EM0706_02","subid_hash_":"","text_":"ナザルボンジュB"}},{"column_":{"id_hash_":"TXT_EM0706_03","subid_hash_":"","text_":"見つめし者"}},{"column_":{"id_hash_":"TXT_EM0800","subid_hash_":"","text_":"フレイムシード"}},{"column_":{"id_hash_":"TXT_EM0800_01","subid_hash_":"","text_":"オーディアル・フレイムシード"}},{"column_":{"id_hash_":"TXT_EM0800_02","subid_hash_":"","text_":"シラヌイ"}},{"column_":{"id_hash_":"TXT_EM0801","subid_hash_":"","text_":"アクアシード"}},{"column_":{"id_hash_":"TXT_EM0801_01","subid_hash_":"","text_":"オーディアル・アクアシード\n"}},{"column_":{"id_hash_":"TXT_EM0802","subid_hash_":"","text_":"アースシード"}},{"column_":{"id_hash_":"TXT_EM0802_01","subid_hash_":"","text_":"オーディアル・アースシード\n"}},{"column_":{"id_hash_":"TXT_EM0803","subid_hash_":"","text_":"ウィンドシード"}},{"column_":{"id_hash_":"TXT_EM0804","subid_hash_":"","text_":"ホーリーシード"}},{"column_":{"id_hash_":"TXT_EM0804_01","subid_hash_":"","text_":"オーディアル・ホーリーシード"}},{"column_":{"id_hash_":"TXT_EM0805","subid_hash_":"","text_":"ダークシード"}},{"column_":{"id_hash_":"TXT_EM0805_01","subid_hash_":"","text_":"オーディアル・ダークシード\n"}},{"column_":{"id_hash_":"TXT_EM0805_02","subid_hash_":"","text_":"闇の坩堝"}},{"column_":{"id_hash_":"TXT_EM0805_03","subid_hash_":"","text_":"ダーククラウド"}},{"column_":{"id_hash_":"TXT_EM0900","subid_hash_":"","text_":"火の精霊"}},{"column_":{"id_hash_":"TXT_EM0900_01","subid_hash_":"","text_":"オーディアル・ファイアエレメンタル"}},{"column_":{"id_hash_":"TXT_EM0900_02","subid_hash_":"","text_":"フォンダーミアン・エレメンタル"}},{"column_":{"id_hash_":"TXT_EM0900_03","subid_hash_":"","text_":"ヴァヨイ・ライトエレメンタル"}},{"column_":{"id_hash_":"TXT_EM0900_04","subid_hash_":"","text_":"ホアカリ"}},{"column_":{"id_hash_":"TXT_EM0900_05","subid_hash_":"","text_":"レッド・ファントム"}},{"column_":{"id_hash_":"TXT_EM0900_06","subid_hash_":"","text_":"ルビー・ファントム"}},{"column_":{"id_hash_":"TXT_EM0900_07","subid_hash_":"","text_":"ヒートシマー"}},{"column_":{"id_hash_":"TXT_EM0901","subid_hash_":"","text_":"ウインドスタチュー"}},{"column_":{"id_hash_":"TXT_EM0902","subid_hash_":"","text_":"水の精霊"}},{"column_":{"id_hash_":"TXT_EM0902_01","subid_hash_":"","text_":"オーディアル・アクアエレメンタル"}},{"column_":{"id_hash_":"TXT_EM0902_02","subid_hash_":"","text_":"ネジュリシアン・エレメンタル"}},{"column_":{"id_hash_":"TXT_EM0902_03","subid_hash_":"","text_":"ヴァヨイ・シャドウエレメンタル"}},{"column_":{"id_hash_":"TXT_EM0902_04","subid_hash_":"","text_":"ホノオリ"}},{"column_":{"id_hash_":"TXT_EM0902_05","subid_hash_":"","text_":"ブルー・ファントム"}},{"column_":{"id_hash_":"TXT_EM0902_06","subid_hash_":"","text_":"アクアマリン・ファントム"}},{"column_":{"id_hash_":"TXT_EM0903","subid_hash_":"","text_":"アーススタチュー"}},{"column_":{"id_hash_":"TXT_EM1000","subid_hash_":"","text_":"アヴィアス・セイバー"}},{"column_":{"id_hash_":"TXT_EM1000_01","subid_hash_":"","text_":"アヴィアス・トルーパー"}},{"column_":{"id_hash_":"TXT_EM1001","subid_hash_":"","text_":"アヴィアス・ランサー"}},{"column_":{"id_hash_":"TXT_EM1002","subid_hash_":"","text_":"アヴィアス・アーチャー"}},{"column_":{"id_hash_":"TXT_EM1003","subid_hash_":"","text_":"アヴィアス・フラッグビーラー"}},{"column_":{"id_hash_":"TXT_EM1003_01","subid_hash_":"","text_":"アヴィアス・オナーガード"}},{"column_":{"id_hash_":"TXT_EM1004","subid_hash_":"","text_":"神罰官ルーク"}},{"column_":{"id_hash_":"TXT_EM1004_01","subid_hash_":"","text_":"アヴィアス・ドレッドノート"}},{"column_":{"id_hash_":"TXT_EM1004_02","subid_hash_":"","text_":"救済騎士ガルシア"}},{"column_":{"id_hash_":"TXT_EM1004_03","subid_hash_":"","text_":"恐れ知らずのライネル"}},{"column_":{"id_hash_":"TXT_EM1005","subid_hash_":"","text_":"葬将アヴァラン"}},{"column_":{"id_hash_":"TXT_EM1005_01","subid_hash_":"","text_":"断罪者バルガス"}},{"column_":{"id_hash_":"TXT_EM1005_02","subid_hash_":"","text_":"アヴィアス・リベンジャー"}},{"column_":{"id_hash_":"TXT_EM1005_03","subid_hash_":"","text_":"妄執の騎士ダーレス"}},{"column_":{"id_hash_":"TXT_EM1006","subid_hash_":"","text_":"アヴィア教団兵"}},{"column_":{"id_hash_":"TXT_EM1100","subid_hash_":"","text_":"刃重衆"}},{"column_":{"id_hash_":"TXT_EM1200","subid_hash_":"","text_":"ヴァザーラプトル"}},{"column_":{"id_hash_":"TXT_EM1300","subid_hash_":"","text_":"ドロイタ・センチネル"}},{"column_":{"id_hash_":"TXT_EM1301","subid_hash_":"","text_":"ドロイタ・マザー"}},{"column_":{"id_hash_":"TXT_EM1301_01","subid_hash_":"","text_":"強襲型ドロイタマザー"}},{"column_":{"id_hash_":"TXT_EM1301_02","subid_hash_":"","text_":"試作型ドロイタ「サイクロプス」"}},{"column_":{"id_hash_":"TXT_EM1303","subid_hash_":"","text_":"ドロイタ・バルサム"}},{"column_":{"id_hash_":"TXT_EM1303_01","subid_hash_":"","text_":"トーピード・バルサム"}},{"column_":{"id_hash_":"TXT_EM1500","subid_hash_":"","text_":"ロックゴーレム"}},{"column_":{"id_hash_":"TXT_EM1500_01","subid_hash_":"","text_":"ロックゴーレムA"}},{"column_":{"id_hash_":"TXT_EM1500_02","subid_hash_":"","text_":"ロックゴーレムB"}},{"column_":{"id_hash_":"TXT_EM1502","subid_hash_":"","text_":""}},{"column_":{"id_hash_":"TXT_EM1600","subid_hash_":"","text_":"グリフォン"}},{"column_":{"id_hash_":"TXT_EM1600_01","subid_hash_":"","text_":"幻鳥ペリュトン"}},{"column_":{"id_hash_":"TXT_EM1600_02","subid_hash_":"","text_":"グリフォンA"}},{"column_":{"id_hash_":"TXT_EM1600_03","subid_hash_":"","text_":"グリフォンB"}},{"column_":{"id_hash_":"TXT_EM1600_04","subid_hash_":"","text_":"ゴブリンイーター"}},{"column_":{"id_hash_":"TXT_EM1600_05","subid_hash_":"","text_":"ブラックラプター"}},{"column_":{"id_hash_":"TXT_EM1800","subid_hash_":"","text_":"エンシェントドラゴン"}},{"column_":{"id_hash_":"TXT_EM1800_01","subid_hash_":"","text_":"燻り狂えるバンダースナッチ"}},{"column_":{"id_hash_":"TXT_EM1800_02","subid_hash_":"","text_":"暴竜ガラムッド"}},{"column_":{"id_hash_":"TXT_EM1801","subid_hash_":"","text_":"火竜ヴレッザレク"}},{"column_":{"id_hash_":"TXT_EM1802","subid_hash_":"","text_":"氷竜ウィリヌス"}},{"column_":{"id_hash_":"TXT_EM1803","subid_hash_":"","text_":"地竜ドルベイル"}},{"column_":{"id_hash_":"TXT_EM1804","subid_hash_":"","text_":"風竜イールシアス"}},{"column_":{"id_hash_":"TXT_EM1805","subid_hash_":"","text_":"白竜ラディス"}},{"column_":{"id_hash_":"TXT_EM1806","subid_hash_":"","text_":"黒竜イーヴィル"}},{"column_":{"id_hash_":"TXT_EM1900","subid_hash_":"","text_":"タイユタール"}},{"column_":{"id_hash_":"TXT_EM1900_01","subid_hash_":"","text_":"タイユタールA"}},{"column_":{"id_hash_":"TXT_EM1900_02","subid_hash_":"","text_":"タイユタールB"}},{"column_":{"id_hash_":"TXT_EM1900_03","subid_hash_":"","text_":"タイユタール Mk-II"}},{"column_":{"id_hash_":"TXT_EM2000","subid_hash_":"","text_":"ガランツァ"}},{"column_":{"id_hash_":"TXT_EM2100","subid_hash_":"","text_":"マギラフリラ"}},{"column_":{"id_hash_":"TXT_WE2110","subid_hash_":"","text_":"フライクーゲル"}},{"column_":{"id_hash_":"TXT_WE2111","subid_hash_":"","text_":"ミョルニル"}},{"column_":{"id_hash_":"TXT_WE2112","subid_hash_":"","text_":"カドゥケウス"}},{"column_":{"id_hash_":"TXT_WE2113","subid_hash_":"","text_":"ゲイボルグ"}},{"column_":{"id_hash_":"TXT_EM2200_01","subid_hash_":"","text_":"謎の剣士"}},{"column_":{"id_hash_":"TXT_EM2400","subid_hash_":"","text_":"リリス"}},{"column_":{"id_hash_":"TXT_EM2500","subid_hash_":"","text_":"スニッパー"}},{"column_":{"id_hash_":"TXT_EM2600","subid_hash_":"","text_":"コブラ"}},{"column_":{"id_hash_":"TXT_EM2600_01","subid_hash_":"","text_":"サンドリーパー"}},{"column_":{"id_hash_":"TXT_EM2700","subid_hash_":"","text_":"トッくん"}},{"column_":{"id_hash_":"TXT_EM2800","subid_hash_":"","text_":"禍つ影"}},{"column_":{"id_hash_":"TXT_EM2800_01","subid_hash_":"","text_":"透明な殺意"}},{"column_":{"id_hash_":"TXT_EM2800_02","subid_hash_":"","text_":"禍つ残像"}},{"column_":{"id_hash_":"TXT_EM3100","subid_hash_":"","text_":"セスラカ"}},{"column_":{"id_hash_":"TXT_WE3100","subid_hash_":"","text_":"ファイアフライ"}},{"column_":{"id_hash_":"TXT_WE3101","subid_hash_":"","text_":"ハチソン・ジェネレータ"}},{"column_":{"id_hash_":"TXT_EM7000","subid_hash_":"","text_":"プロトバハムート"}},{"column_":{"id_hash_":"TXT_WE7000","subid_hash_":"","text_":"スコタージ"}},{"column_":{"id_hash_":"TXT_WE7001","subid_hash_":"","text_":"フォティア"}},{"column_":{"id_hash_":"TXT_WE7002","subid_hash_":"","text_":"ヒュドール"}},{"column_":{"id_hash_":"TXT_WE7003","subid_hash_":"","text_":"エザフォス"}},{"column_":{"id_hash_":"TXT_WE7004","subid_hash_":"","text_":"アネモス"}},{"column_":{"id_hash_":"TXT_EM7100","subid_hash_":"","text_":"ヴォルカンボーラ"}},{"column_":{"id_hash_":"TXT_EM7110","subid_hash_":"","text_":"ヴォルカンボーラ・ニヒラ"}},{"column_":{"id_hash_":"TXT_EM7200","subid_hash_":"","text_":"フラカーン"}},{"column_":{"id_hash_":"TXT_EM7210","subid_hash_":"","text_":"フラカーン・ニヒラ"}},{"column_":{"id_hash_":"TXT_EM7300","subid_hash_":"","text_":"マナガルム"}},{"column_":{"id_hash_":"TXT_EM7310","subid_hash_":"","text_":"マナガルム・ニヒラ"}},{"column_":{"id_hash_":"TXT_WE7300","subid_hash_":"","text_":"ネレイド"}},{"column_":{"id_hash_":"TXT_WE7300_01","subid_hash_":"","text_":"ハリメデ"}},{"column_":{"id_hash_":"TXT_EM7400","subid_hash_":"","text_":"エクスカリオン"}},{"column_":{"id_hash_":"TXT_EM7401","subid_hash_":"","text_":"タラス・リアクター"}},{"column_":{"id_hash_":"TXT_EM7404","subid_hash_":"","text_":"エクスカリオン・スパインコア"}},{"column_":{"id_hash_":"TXT_EM7406","subid_hash_":"","text_":"アトラスプラグ"}},{"column_":{"id_hash_":"TXT_EM7406_01","subid_hash_":"","text_":"ソラシックプラグ"}},{"column_":{"id_hash_":"TXT_EM7406_02","subid_hash_":"","text_":"スカピュラプラグ"}},{"column_":{"id_hash_":"TXT_EM7406_03","subid_hash_":"","text_":"ランバープラグ"}},{"column_":{"id_hash_":"TXT_EM7406_04","subid_hash_":"","text_":"スープラスパイナボルト"}},{"column_":{"id_hash_":"TXT_EM7406_05","subid_hash_":"","text_":"インフラスパイナボルト"}},{"column_":{"id_hash_":"TXT_EM7406_06","subid_hash_":"","text_":"テレスボルト"}},{"column_":{"id_hash_":"TXT_EM7406_07","subid_hash_":"","text_":"ラティスミスボルト"}},{"column_":{"id_hash_":"TXT_EM7406_08","subid_hash_":"","text_":"プライマルシリンダー"}},{"column_":{"id_hash_":"TXT_EM7407","subid_hash_":"","text_":"デルトイド・リアクター"}},{"column_":{"id_hash_":"TXT_EM7407_01","subid_hash_":"","text_":"フォーアーム・リアクター"}},{"column_":{"id_hash_":"TXT_EM7408","subid_hash_":"","text_":"コクサ・リアクター"}},{"column_":{"id_hash_":"TXT_EM7409","subid_hash_":"","text_":"ブレスト・リアクター"}},{"column_":{"id_hash_":"TXT_EM7500","subid_hash_":"","text_":"アンラ・マンユ"}},{"column_":{"id_hash_":"TXT_EM7500_01","subid_hash_":"","text_":"アンラ・マンユ（完全体）"}},{"column_":{"id_hash_":"TXT_EM7500_02","subid_hash_":"","text_":"アンラ・マンユ（リリス融合体）"}},{"column_":{"id_hash_":"TXT_EM7520","subid_hash_":"","text_":"ダエーワ"}},{"column_":{"id_hash_":"TXT_EM7530","subid_hash_":"","text_":"アカ・マナフ"}},{"column_":{"id_hash_":"TXT_EM7600","subid_hash_":"","text_":"バハムート・オルタ"}},{"column_":{"id_hash_":"TXT_EM7603","subid_hash_":"","text_":"神撃核"}},{"column_":{"id_hash_":"TXT_EM7610","subid_hash_":"","text_":"マグナバハムート・オルタ"}},{"column_":{"id_hash_":"TXT_EM7700","subid_hash_":"","text_":"ルシファー"}},{"column_":{"id_hash_":"TXT_WE7700","subid_hash_":"","text_":"完全否認の剣"}},{"column_":{"id_hash_":"TXT_WE7701","subid_hash_":"","text_":"絶対否定の剣"}},{"column_":{"id_hash_":"TXT_WE7702","subid_hash_":"","text_":"永遠拒絶の剣"}},{"column_":{"id_hash_":"TXT_PL0000","subid_hash_":"","text_":"グラン"}},{"column_":{"id_hash_":"TXT_PL000B","subid_hash_":"","text_":"LookDev"}},{"column_":{"id_hash_":"TXT_PL0100","subid_hash_":"","text_":"ジータ"}},{"column_":{"id_hash_":"TXT_PL0200","subid_hash_":"","text_":"カタリナ"}},{"column_":{"id_hash_":"TXT_PL0300","subid_hash_":"","text_":"ラカム"}},{"column_":{"id_hash_":"TXT_PL0400","subid_hash_":"","text_":"イオ"}},{"column_":{"id_hash_":"TXT_PL0500","subid_hash_":"","text_":"オイゲン"}},{"column_":{"id_hash_":"TXT_PL0600","subid_hash_":"","text_":"ロゼッタ"}},{"column_":{"id_hash_":"TXT_PL0700","subid_hash_":"","text_":"フェリ"}},{"column_":{"id_hash_":"TXT_PL0800","subid_hash_":"","text_":"ランスロット"}},{"column_":{"id_hash_":"TXT_PL0900","subid_hash_":"","text_":"ヴェイン"}},{"column_":{"id_hash_":"TXT_PL1000","subid_hash_":"","text_":"パーシヴァル"}},{"column_":{"id_hash_":"TXT_PL1100","subid_hash_":"","text_":"ジークフリート"}},{"column_":{"id_hash_":"TXT_PL1200","subid_hash_":"","text_":"シャルロッテ"}},{"column_":{"id_hash_":"TXT_PL1300","subid_hash_":"","text_":"ヨダルラーハ"}},{"column_":{"id_hash_":"TXT_PL1400","subid_hash_":"","text_":"ナルメア"}},{"column_":{"id_hash_":"TXT_PL1500","subid_hash_":"","text_":"ガンダゴウザ"}},{"column_":{"id_hash_":"TXT_PL1600","subid_hash_":"","text_":"ゼタ"}},{"column_":{"id_hash_":"TXT_PL1700","subid_hash_":"","text_":"バザラガ"}},{"column_":{"id_hash_":"TXT_PL1800","subid_hash_":"","text_":"カリオストロ"}},{"column_":{"id_hash_":"TXT_PL1900","subid_hash_":"","text_":"イド"}},{"column_":{"id_hash_":"TXT_PL2100","subid_hash_":"","text_":"サンダルフォン"}},{"column_":{"id_hash_":"TXT_PL2400","subid_hash_":"","text_":""}},{"column_":{"id_hash_":"TXT_NP0000","subid_hash_":"","text_":"ルリア"}},{"column_":{"id_hash_":"TXT_NP0100","subid_hash_":"","text_":"ビィ"}},{"column_":{"id_hash_":"TXT_NP0200","subid_hash_":"","text_":"シェロカルテ"}},{"column_":{"id_hash_":"TXT_NP0300","subid_hash_":"","text_":"ローラン"}},{"column_":{"id_hash_":"TXT_NP0400","subid_hash_":"","text_":"イストリアス"}},{"column_":{"id_hash_":"TXT_NP0600","subid_hash_":"","text_":"ザスバ"}},{"column_":{"id_hash_":"TXT_NP0702","subid_hash_":"","text_":"ハンペン"}},{"column_":{"id_hash_":"TXT_NP1202","subid_hash_":"","text_":"ダガー"}},{"column_":{"id_hash_":"TXT_NP1402","subid_hash_":"","text_":"ゴリさん"}},{"column_":{"id_hash_":"TXT_NP1602","subid_hash_":"","text_":"ダディ"}},{"column_":{"id_hash_":"TXT_NP1200_a","subid_hash_":"","text_":"うろたえる男"}},{"column_":{"id_hash_":"TXT_NP0700_a","subid_hash_":"","text_":"律儀な作業員"}},{"column_":{"id_hash_":"TXT_NP0700_b","subid_hash_":"","text_":"面倒見のいい男"}},{"column_":{"id_hash_":"TXT_NP1600_a","subid_hash_":"","text_":"動揺した男"}},{"column_":{"id_hash_":"TXT_NP0700_c","subid_hash_":"","text_":"騎空艇技師"}},{"column_":{"id_hash_":"TXT_NP1600_d","subid_hash_":"","text_":"仲間を気遣う男"}},{"column_":{"id_hash_":"TXT_NP1200_g","subid_hash_":"","text_":"喧嘩っ早い男"}},{"column_":{"id_hash_":"TXT_NP1000_b","subid_hash_":"","text_":"戸惑う母親"}},{"column_":{"id_hash_":"TXT_NP0800_a","subid_hash_":"","text_":"柔和な爺さん"}},{"column_":{"id_hash_":"TXT_NP1700_e","subid_hash_":"","text_":"注意深い女"}},{"column_":{"id_hash_":"TXT_NP1500_c","subid_hash_":"","text_":"怖がりな女"}},{"column_":{"id_hash_":"TXT_NP0700_r","subid_hash_":"","text_":"偉そうな男"}},{"column_":{"id_hash_":"TXT_NP0700_s","subid_hash_":"","text_":"気さくな男"}},{"column_":{"id_hash_":"TXT_NP0700_t","subid_hash_":"","text_":"粗暴な男"}},{"column_":{"id_hash_":"TXT_NP0700_u","subid_hash_":"","text_":"エキセントリックな男"}},{"column_":{"id_hash_":"TXT_NP1000_l","subid_hash_":"","text_":"活発な明るい女"}},{"column_":{"id_hash_":"TXT_NP1000_m","subid_hash_":"","text_":"自信家の女"}},{"column_":{"id_hash_":"TXT_NP1000_n","subid_hash_":"","text_":"おっとりした女"}},{"column_":{"id_hash_":"TXT_NP1000_o","subid_hash_":"","text_":"男勝りな女"}},{"column_":{"id_hash_":"TXT_NP1000_p","subid_hash_":"","text_":"チャラい女"}},{"column_":{"id_hash_":"TXT_NP2000_d","subid_hash_":"","text_":"やんちゃな男の子"}},{"column_":{"id_hash_":"TXT_NP2000_e","subid_hash_":"","text_":"大人しい男の子"}},{"column_":{"id_hash_":"TXT_NP2100_c","subid_hash_":"","text_":"まじめな女の子"}},{"column_":{"id_hash_":"TXT_NP2100_d","subid_hash_":"","text_":"朗らかな女の子"}},{"column_":{"id_hash_":"TXT_NP0700_v","subid_hash_":"","text_":"東北弁の男"}},{"column_":{"id_hash_":"TXT_NP1000_q","subid_hash_":"","text_":"大阪弁の女"}},{"column_":{"id_hash_":"TXT_NP1800_a","subid_hash_":"","text_":"マロース氷僧院A"}},{"column_":{"id_hash_":"TXT_NP1800_b","subid_hash_":"","text_":"マロース氷僧院B"}},{"column_":{"id_hash_":"TXT_NP1900","subid_hash_":"","text_":"シードホルム兵"}},{"column_":{"id_hash_":"TXT_NP1900_a","subid_hash_":"","text_":"シードホルム兵A"}},{"column_":{"id_hash_":"TXT_NP1900_b","subid_hash_":"","text_":"シードホルム兵B"}},{"column_":{"id_hash_":"TXT_NP1900_c","subid_hash_":"","text_":"シードホルム兵C"}},{"column_":{"id_hash_":"TXT_NP1900_d","subid_hash_":"","text_":"シードホルム兵D"}},{"column_":{"id_hash_":"TXT_NP1900_e","subid_hash_":"","text_":"シードホルム兵E"}},{"column_":{"id_hash_":"TXT_NP1900_f","subid_hash_":"","text_":"シードホルム兵F"}},{"column_":{"id_hash_":"TXT_NP1900_g","subid_hash_":"","text_":"シードホルム兵G"}},{"column_":{"id_hash_":"TXT_NP1600_e","subid_hash_":"","text_":"責任感が強く物静かな男性"}},{"column_":{"id_hash_":"TXT_NP0700_J","subid_hash_":"","text_":"要領を得ない男"}},{"column_":{"id_hash_":"TXT_NP1700_f","subid_hash_":"","text_":"思わせぶりな女"}},{"column_":{"id_hash_":"TXT_NP1200_h","subid_hash_":"","text_":"トレビアンな感じの男"}},{"column_":{"id_hash_":"TXT_np2200_a","subid_hash_":"","text_":"騎空団連合受付_フォルカ"}},{"column_":{"id_hash_":"TXT_np2200_b","subid_hash_":"","text_":"騎空団連合受付_シードホルム"}},{"column_":{"id_hash_":"TXT_NP2200_c","subid_hash_":"","text_":"騎空団連合受付"}},{"column_":{"id_hash_":"TXT_NP0900","subid_hash_":"","text_":"ヒューマン男の子"}},{"column_":{"id_hash_":"TXT_NP1300","subid_hash_":"","text_":"エルーン女"}},{"column_":{"id_hash_":"TXT_NP2000_a","subid_hash_":"","text_":"男の子"}},{"column_":{"id_hash_":"TXT_NP2100_a","subid_hash_":"","text_":"女の子"}},{"column_":{"id_hash_":"TXT_NP1300_a","subid_hash_":"","text_":"泣きじゃくる女"}},{"column_":{"id_hash_":"TXT_NP1700_a","subid_hash_":"","text_":"放心した女"}},{"column_":{"id_hash_":"TXT_NP1600_b","subid_hash_":"","text_":"勇敢な男"}},{"column_":{"id_hash_":"TXT_NP1000_a","subid_hash_":"","text_":"脱力した女"}},{"column_":{"id_hash_":"TXT_NP1500_a","subid_hash_":"","text_":"騎空士マニア"}},{"column_":{"id_hash_":"TXT_NP1400_a","subid_hash_":"","text_":"疲れ切った男"}},{"column_":{"id_hash_":"TXT_NP2100_b","subid_hash_":"","text_":"臆病な女の子"}},{"column_":{"id_hash_":"TXT_NP1600_c","subid_hash_":"","text_":"熱血な男"}},{"column_":{"id_hash_":"TXT_NP1200_b","subid_hash_":"","text_":"焦燥した男"}},{"column_":{"id_hash_":"TXT_NP1000_f","subid_hash_":"","text_":"不安そうな女"}},{"column_":{"id_hash_":"TXT_NP2000_b","subid_hash_":"","text_":"勝気な男の子"}},{"column_":{"id_hash_":"TXT_NP1300_b","subid_hash_":"","text_":"手を振る女"}},{"column_":{"id_hash_":"TXT_NP1300_c","subid_hash_":"","text_":"談笑する女A"}},{"column_":{"id_hash_":"TXT_NP1700_b","subid_hash_":"","text_":"談笑する女B"}},{"column_":{"id_hash_":"TXT_NP0700_q","subid_hash_":"","text_":"買い物するカップル（男）"}},{"column_":{"id_hash_":"TXT_NP1000_c","subid_hash_":"","text_":"買い物するカップル（女）"}},{"column_":{"id_hash_":"TXT_NP1000_d","subid_hash_":"","text_":"相談しあう男女（女）"}},{"column_":{"id_hash_":"TXT_NP0700_d","subid_hash_":"","text_":"相談しあう男女（男）"}},{"column_":{"id_hash_":"TXT_NP0700_e","subid_hash_":"","text_":"帰りたがる男"}},{"column_":{"id_hash_":"TXT_NP1000_e","subid_hash_":"","text_":"驚く女"}},{"column_":{"id_hash_":"TXT_NP1200_c","subid_hash_":"","text_":"女に声をかける男"}},{"column_":{"id_hash_":"TXT_NP1300_d","subid_hash_":"","text_":"声を掛けられる女"}},{"column_":{"id_hash_":"TXT_NP0700_f","subid_hash_":"","text_":"子供を叱る男"}},{"column_":{"id_hash_":"TXT_NP2000_c","subid_hash_":"","text_":"わがままを言う男の子"}},{"column_":{"id_hash_":"TXT_NP1500_b","subid_hash_":"","text_":"お出かけする男女（女）"}},{"column_":{"id_hash_":"TXT_NP1400_c","subid_hash_":"","text_":"お出かけする男女（男）"}},{"column_":{"id_hash_":"TXT_NP0700_g","subid_hash_":"","text_":"呼び込みする店員A"}},{"column_":{"id_hash_":"TXT_NP1000_g","subid_hash_":"","text_":"呼び込みする店員B"}},{"column_":{"id_hash_":"TXT_NP1300_e","subid_hash_":"","text_":"呼び込みする店員C"}},{"column_":{"id_hash_":"TXT_NP1700_c","subid_hash_":"","text_":"談笑する女性陣A"}},{"column_":{"id_hash_":"TXT_NP1700_d","subid_hash_":"","text_":"談笑する女性陣B"}},{"column_":{"id_hash_":"TXT_NP0700_h","subid_hash_":"","text_":"世間話する男性陣A"}},{"column_":{"id_hash_":"TXT_NP0700_i","subid_hash_":"","text_":"世間話する男性陣B"}},{"column_":{"id_hash_":"TXT_NP1200_d","subid_hash_":"","text_":"疲れている男性陣A"}},{"column_":{"id_hash_":"TXT_NP1200_f","subid_hash_":"","text_":"疲れている男性陣B"}},{"column_":{"id_hash_":"TXT_NP1400_d","subid_hash_":"","text_":"主人公編_ハーヴィン男性"}},{"column_":{"id_hash_":"TXT_NP2000_f","subid_hash_":"","text_":"タルケン"}},{"column_":{"id_hash_":"TXT_NP2100_e","subid_hash_":"","text_":"キーノ"}},{"column_":{"id_hash_":"TXT_NP1600_f","subid_hash_":"","text_":"カタリナ編_ドラフ男"}},{"column_":{"id_hash_":"TXT_NP1400_e","subid_hash_":"","text_":"カタリナ編_ハーヴィン男"}},{"column_":{"id_hash_":"TXT_NP1200_i","subid_hash_":"","text_":"カタリナ編_エルーン男"}},{"column_":{"id_hash_":"TXT_NP1000_h","subid_hash_":"","text_":"カタリナ編_ヒューマン女"}},{"column_":{"id_hash_":"TXT_NP1200_j","subid_hash_":"","text_":"ケント"}},{"column_":{"id_hash_":"TXT_NP0700_k","subid_hash_":"","text_":"操舵士の青年"}},{"column_":{"id_hash_":"TXT_NP1700_g","subid_hash_":"","text_":"メカニックの女性"}},{"column_":{"id_hash_":"TXT_NP1400_f","subid_hash_":"","text_":"卸売りの商人"}},{"column_":{"id_hash_":"TXT_NP2000_g","subid_hash_":"","text_":"レフ"}},{"column_":{"id_hash_":"TXT_NP0700_l","subid_hash_":"","text_":"イオ編_父親"}},{"column_":{"id_hash_":"TXT_NP1000_i","subid_hash_":"","text_":"イオ編_母親"}},{"column_":{"id_hash_":"TXT_NP1400_i","subid_hash_":"","text_":"生真面目な男"}},{"column_":{"id_hash_":"TXT_NP1700_h","subid_hash_":"","text_":"世話好きな女"}},{"column_":{"id_hash_":"TXT_NP1200_k","subid_hash_":"","text_":"フォルカ自警団団員A"}},{"column_":{"id_hash_":"TXT_NP1600_g","subid_hash_":"","text_":"カルセダ"}},{"column_":{"id_hash_":"TXT_NP1000_j","subid_hash_":"","text_":"メルフィラ"}},{"column_":{"id_hash_":"TXT_NP2600","subid_hash_":"","text_":"カール"}},{"column_":{"id_hash_":"TXT_NP0700_m","subid_hash_":"","text_":"ルドウィン"}},{"column_":{"id_hash_":"TXT_NP0800_b","subid_hash_":"","text_":"ハンス"}},{"column_":{"id_hash_":"TXT_NP2000_h","subid_hash_":"","text_":"ダンチョー"}},{"column_":{"id_hash_":"TXT_NP2000_i","subid_hash_":"","text_":"アイス"}},{"column_":{"id_hash_":"TXT_NP2100_f","subid_hash_":"","text_":"パンチ"}},{"column_":{"id_hash_":"TXT_NP2100_g","subid_hash_":"","text_":"ハカセ"}},{"column_":{"id_hash_":"TXT_NP2500","subid_hash_":"","text_":"ヘルツェロイデ"}},{"column_":{"id_hash_":"TXT_NP0700_n","subid_hash_":"","text_":"パーシヴァル編_村人A"}},{"column_":{"id_hash_":"TXT_NP1500_d","subid_hash_":"","text_":"パーシヴァル編_村人B"}},{"column_":{"id_hash_":"TXT_NP1600_h","subid_hash_":"","text_":"パーシヴァル編_村人C"}},{"column_":{"id_hash_":"TXT_NP1600_i","subid_hash_":"","text_":"フォルカ自警団団長"}},{"column_":{"id_hash_":"TXT_NP1400_g","subid_hash_":"","text_":"フォルカ自警団団員B"}},{"column_":{"id_hash_":"TXT_NP1400_h","subid_hash_":"","text_":"ハンペンの子分"}},{"column_":{"id_hash_":"TXT_NP0700_o","subid_hash_":"","text_":"嫌味な貴族"}},{"column_":{"id_hash_":"TXT_NP0800_c","subid_hash_":"","text_":"釣神"}},{"column_":{"id_hash_":"TXT_NP1200_l","subid_hash_":"","text_":"ヨダルラーハ編_エルーン男"}},{"column_":{"id_hash_":"TXT_NP1700_i","subid_hash_":"","text_":"ヨダルラーハ編_ドラフ女"}},{"column_":{"id_hash_":"TXT_NP1000_k","subid_hash_":"","text_":"ヨダルラーハ編_ヒューマン女"}},{"column_":{"id_hash_":"TXT_NP2000_j","subid_hash_":"","text_":"ヨダルラーハ編_男の子"}},{"column_":{"id_hash_":"TXT_NP0700_p","subid_hash_":"","text_":"謎のレフェリー"}},{"column_":{"id_hash_":"TXT_NP1200_m","subid_hash_":"","text_":"ハイメル"}},{"column_":{"id_hash_":"TXT_NP1300_g","subid_hash_":"","text_":"シュネー"}},{"column_":{"id_hash_":"TXT_NP1500_e","subid_hash_":"","text_":"シロル"}},{"column_":{"id_hash_":"TXT_NP1600_j","subid_hash_":"","text_":"勤勉な男"}},{"column_":{"id_hash_":"TXT_NP1300_f","subid_hash_":"","text_":"慌ただしい女"}},{"column_":{"id_hash_":"TXT_NP1600_k","subid_hash_":"","text_":"厳格な鍛冶屋"}},{"column_":{"id_hash_":"TXT_NP1600_l","subid_hash_":"","text_":"鍛冶屋_シードホルム"}},{"column_":{"id_hash_":"TXT_NP1400_j","subid_hash_":"","text_":"ザスバの手下（南）"}},{"column_":{"id_hash_":"TXT_NP1600_m","subid_hash_":"","text_":"ザスバの手下（北）"}},{"column_":{"id_hash_":"TXT_NP0700_w","subid_hash_":"","text_":"ザスバの手下（門番）"}},{"column_":{"id_hash_":"TXT_NP0800_d","subid_hash_":"","text_":"怯えた爺さん"}},{"column_":{"id_hash_":"TXT_NP0700_x","subid_hash_":"","text_":"腰の引けた男"}},{"column_":{"id_hash_":"TXT_NP1300_h","subid_hash_":"","text_":"怖がる女"}},{"column_":{"id_hash_":"TXT_NP0700_y","subid_hash_":"","text_":"臆病な行商人"}},{"column_":{"id_hash_":"TXT_NP1000_r","subid_hash_":"","text_":"状況が飲み込めない女"}},{"column_":{"id_hash_":"TXT_NP1300_i","subid_hash_":"","text_":"怖さに震える女"}},{"column_":{"id_hash_":"TXT_NP1600_n","subid_hash_":"","text_":"不安を感じる男"}},{"column_":{"id_hash_":"TXT_NP1200_o","subid_hash_":"","text_":"慌ただしく走る男"}},{"column_":{"id_hash_":"TXT_NP1600_o","subid_hash_":"","text_":"怯えて走る男"}},{"column_":{"id_hash_":"TXT_NP1200_p","subid_hash_":"","text_":"驚く男"}},{"column_":{"id_hash_":"TXT_NP1600_p","subid_hash_":"","text_":"混乱する男"}},{"column_":{"id_hash_":"TXT_NP0700_z","subid_hash_":"","text_":"思案する男"}},{"column_":{"id_hash_":"TXT_NP1900_i","subid_hash_":"","text_":"負傷した男"}},{"column_":{"id_hash_":"TXT_NP1900_j","subid_hash_":"","text_":"痛みに耐える兵士"}},{"column_":{"id_hash_":"TXT_NP1000_s","subid_hash_":"","text_":"街を憂う女"}},{"column_":{"id_hash_":"TXT_NP0700","subid_hash_":"","text_":"朗らかな商人"}},{"column_":{"id_hash_":"TXT_NP2700","subid_hash_":"","text_":"若い騎空士"}},{"column_":{"id_hash_":"TXT_NP2000_k","subid_hash_":"","text_":"ヴァン"}},{"column_":{"id_hash_":"TXT_NP1300_j","subid_hash_":"","text_":"イレーヌ"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_00","subid_hash_":"","text_":"フォルカ自警団"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_01","subid_hash_":"","text_":"フォルカ木こり組合"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_02","subid_hash_":"","text_":"父想いの少年"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_03","subid_hash_":"","text_":"テンペール鉱員組合"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_04","subid_hash_":"","text_":"フォルカ旅客艇協会"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_05","subid_hash_":"","text_":"頑強な僧兵"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_06","subid_hash_":"","text_":"不眠気味の巡礼者"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_07","subid_hash_":"","text_":"“伝説”の謳い手"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_08","subid_hash_":"","text_":"熱心なゴーレム研究者"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_09","subid_hash_":"","text_":"シードホルム軍"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_10","subid_hash_":"","text_":"妖艶な占い師"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_11","subid_hash_":"","text_":"紳士的な行商人"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_12","subid_hash_":"","text_":"フォルカ騎空艇整備組合"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_13","subid_hash_":"","text_":"匿名希望の酒屋"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_14","subid_hash_":"","text_":"赤字覚悟のコイン収集家"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_15","subid_hash_":"","text_":"フォンダーム観測員"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_16","subid_hash_":"","text_":"汗かきの料理人"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_17","subid_hash_":"","text_":"至高の料理を求める男"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_18","subid_hash_":"","text_":"匿名の騎空団"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_19","subid_hash_":"","text_":"騎空団連合ラファール"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_20","subid_hash_":"","text_":"シードホルム北門守備隊"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_21","subid_hash_":"","text_":"シードホルム航路保全協会"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_22","subid_hash_":"","text_":"花の都のデザイナー"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_23","subid_hash_":"","text_":"騎空団連合 花都支部長"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_24","subid_hash_":"","text_":"ロマン志向の画家"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_25","subid_hash_":"","text_":"シードホルム軍第八部隊"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_26","subid_hash_":"","text_":"シードホルム軍第二部隊隊長"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_27","subid_hash_":"","text_":"謳い手と画家の夫婦"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_28","subid_hash_":"","text_":"シードホルム軍の新任隊長"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_29","subid_hash_":"","text_":"権威ある大司書"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_30","subid_hash_":"","text_":"シードホルム軍先遣隊隊長"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_31","subid_hash_":"","text_":"竜の使徒を名乗る者"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_32","subid_hash_":"","text_":"逃げ延びてきた巡礼者"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_33","subid_hash_":"","text_":"心折れた騎空士"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_34","subid_hash_":"","text_":"姉御肌の鍛冶職人"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_35","subid_hash_":"","text_":"計算高い商人"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_36","subid_hash_":"","text_":"研究熱心な考古学者"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_37","subid_hash_":"","text_":"歴史的建造物保護を謳う識者"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_38","subid_hash_":"","text_":"親友を失った騎空士"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_39","subid_hash_":"","text_":"元白狼兵団書記官"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_40","subid_hash_":"","text_":"刃重衆一同"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_41","subid_hash_":"","text_":"マロース氷僧院"}},{"column_":{"id_hash_":"TXT_NAME_NP9000_42","subid_hash_":"","text_":"シードホルム軍将校"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_00","subid_hash_":"","text_":"引退間近の冒険家"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_01","subid_hash_":"","text_":"スニッパーボーイ"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_02","subid_hash_":"","text_":"名うての薬師"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_03","subid_hash_":"","text_":"頼りない行商人"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_04","subid_hash_":"","text_":"石に目が無い女"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_05","subid_hash_":"","text_":"野心的な学芸員"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_06","subid_hash_":"","text_":"物思いに浸る老人"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_07","subid_hash_":"","text_":"新しもの好きな魔術学生"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_08","subid_hash_":"","text_":"寝不足の旅人"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_09","subid_hash_":"","text_":"チョイ悪な兵士"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_10","subid_hash_":"","text_":"夢見がちな建築家"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_11","subid_hash_":"","text_":"訛りが抜けない男"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_12","subid_hash_":"","text_":"強面の左官職人"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_13","subid_hash_":"","text_":"ザスバ一家の下っ端"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_14","subid_hash_":"","text_":"思い悩む商人"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_15","subid_hash_":"","text_":"心配する兵士"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_16","subid_hash_":"","text_":"好奇心旺盛な美食家"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_17","subid_hash_":"","text_":"物好きな司書"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_18","subid_hash_":"","text_":"欲張りな昆虫蒐集家"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_19","subid_hash_":"","text_":"貧しい見習い剣士"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_20","subid_hash_":"","text_":"とある冒険家の相棒"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_21","subid_hash_":"","text_":"バイオレンスな僧兵"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_22","subid_hash_":"","text_":"せっかちな女"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_23","subid_hash_":"","text_":"通りすがりの騎空艇技師"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_24","subid_hash_":"","text_":"自警団を束ねる教官"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_26","subid_hash_":"","text_":"しがない騎空艇技師"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_27","subid_hash_":"","text_":"気難しい鍛冶屋"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_28","subid_hash_":"","text_":"先鋭的な機械技師"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_29","subid_hash_":"","text_":"几帳面な庭師"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_30","subid_hash_":"","text_":"せっかちな騎空艇技師"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_31","subid_hash_":"","text_":"陰気な青年"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_32","subid_hash_":"","text_":"酔狂な魔物研究家"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_33","subid_hash_":"","text_":"生態環境を研究する学者"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_34","subid_hash_":"","text_":"涙も枯れた未亡人"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_35","subid_hash_":"","text_":"挑戦的な鍛冶職人"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_36","subid_hash_":"","text_":"活発で明るい女"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_37","subid_hash_":"","text_":"悩める僧兵"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_38","subid_hash_":"","text_":"明日から旅人"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_39","subid_hash_":"","text_":"汗っかきな機械技師"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_40","subid_hash_":"","text_":"休暇を楽しむ軍人"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_41","subid_hash_":"","text_":"そそっかしい母親"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_42","subid_hash_":"","text_":"顔の広い商人"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_43","subid_hash_":"","text_":"見習い錬金術師"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_44","subid_hash_":"","text_":"凄みのある彫刻家"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_45","subid_hash_":"","text_":"気前のいい行商人"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_46","subid_hash_":"","text_":"引退した傭兵"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_47","subid_hash_":"","text_":"名も無い騎空士"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_48","subid_hash_":"","text_":"見習い魔術師"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_49","subid_hash_":"","text_":"怪しげな男"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_50","subid_hash_":"","text_":"心優しい僧兵"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_51","subid_hash_":"","text_":"呑気な牛飼い"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_52","subid_hash_":"","text_":"意欲的な盤上遊戯製作者"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_53","subid_hash_":"","text_":"活動的な観光組合長"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_54","subid_hash_":"","text_":"逃亡した元アヴィア教団兵"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_55","subid_hash_":"","text_":"シードホルム衛兵隊長"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_56","subid_hash_":"","text_":"才覚のある商人"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_57","subid_hash_":"","text_":"日和見商人"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_58","subid_hash_":"","text_":"真面目な僧兵"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_59","subid_hash_":"","text_":"前のめりな魔術機工技師"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_60","subid_hash_":"","text_":"研究熱心な魔導士"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_61","subid_hash_":"","text_":"旅の預言者"}},{"column_":{"id_hash_":"TXT_NAME_NP9100_62","subid_hash_":"","text_":"研究熱心な魔術師"}},{"column_":{"id_hash_":"TXT_NP9900","subid_hash_":"","text_":"幻兵"}},{"column_":{"id_hash_":"TXT_NP9904","subid_hash_":"","text_":"豪快な男"}},{"column_":{"id_hash_":"TXT_NP9905","subid_hash_":"","text_":"村人"}},{"column_":{"id_hash_":"TXT_NP9910","subid_hash_":"","text_":"悲しみに暮れる男"}},{"column_":{"id_hash_":"TXT_NP9911","subid_hash_":"","text_":"何かを畏れる女"}},{"column_":{"id_hash_":"TXT_NP9912","subid_hash_":"","text_":"安堵する女"}},{"column_":{"id_hash_":"TXT_NP9913","subid_hash_":"","text_":"信心深い翁"}},{"column_":{"id_hash_":"TXT_NP9927","subid_hash_":"","text_":"助けられた島民Ａ"}},{"column_":{"id_hash_":"TXT_NP9928","subid_hash_":"","text_":"助けられた島民Ｂ"}},{"column_":{"id_hash_":"TXT_NP9929","subid_hash_":"","text_":"モヒカン（無線）"}},{"column_":{"id_hash_":"TXT_NP9930","subid_hash_":"","text_":"バンダナ（無線）"}},{"column_":{"id_hash_":"TXT_NP9931","subid_hash_":"","text_":"教団兵"}},{"column_":{"id_hash_":"TXT_NP9932","subid_hash_":"","text_":"教団兵１"}},{"column_":{"id_hash_":"TXT_NP9933","subid_hash_":"","text_":"教団兵２"}},{"column_":{"id_hash_":"TXT_NP9935","subid_hash_":"","text_":"教団兵Ａ"}},{"column_":{"id_hash_":"TXT_NP9936","subid_hash_":"","text_":"教団兵Ｂ"}},{"column_":{"id_hash_":"TXT_NP9046","subid_hash_":"","text_":"気さくな男性"}},{"column_":{"id_hash_":"TXT_NP9047","subid_hash_":"","text_":"臆病な手下"}},{"column_":{"id_hash_":"TXT_NP9048","subid_hash_":"","text_":"ザスバの手下A"}},{"column_":{"id_hash_":"TXT_NP9049","subid_hash_":"","text_":"ザスバの手下B"}},{"column_":{"id_hash_":"TXT_NP9050","subid_hash_":"","text_":"ザスバの手下C"}},{"column_":{"id_hash_":"TXT_NP9054","subid_hash_":"","text_":"教団兵C"}},{"column_":{"id_hash_":"TXT_NP9055","subid_hash_":"","text_":"教団兵D"}},{"column_":{"id_hash_":"TXT_NP9056","subid_hash_":"","text_":"教団騎士（赤）"}},{"column_":{"id_hash_":"TXT_NP9057","subid_hash_":"","text_":"教団騎士（青）"}},{"column_":{"id_hash_":"TXT_NP9058","subid_hash_":"","text_":"旗槍兵E"}},{"column_":{"id_hash_":"TXT_NP9059","subid_hash_":"","text_":"旗槍兵F"}},{"column_":{"id_hash_":"TXT_NP9060","subid_hash_":"","text_":"旗槍兵G"}},{"column_":{"id_hash_":"TXT_NP9062","subid_hash_":"","text_":"ザスバの手下"}},{"column_":{"id_hash_":"TXT_NP9066","subid_hash_":"","text_":"朗らかな男"}},{"column_":{"id_hash_":"TXT_SC_UNKNOWN","subid_hash_":"","text_":"？？？"}},{"column_":{"id_hash_":"TXT_SC_MYSTERIOUS_MAN","subid_hash_":"","text_":"謎の男"}},{"column_":{"id_hash_":"TXT_SC_PL1900_CHILD","subid_hash_":"","text_":"イド（少年）"}},{"column_":{"id_hash_":"TXT_SC_VOICE_TRANSMITTER","subid_hash_":"","text_":"伝声機"}},{"column_":{"id_hash_":"TXT_SC_INBOARD_WARNING","subid_hash_":"","text_":"艦内警報"}},{"column_":{"id_hash_":"TXT_SC_EM1000_A","subid_hash_":"","text_":"アヴィア教団兵（伝声管）"}},{"column_":{"id_hash_":"TXT_SC_EM0000","subid_hash_":"","text_":"ゴブリン"}},{"column_":{"id_hash_":"TXT_SC_EM0000_A","subid_hash_":"","text_":"ゴブリンＡ"}},{"column_":{"id_hash_":"TXT_SC_EM0000_B","subid_hash_":"","text_":"ゴブリンＢ"}},{"column_":{"id_hash_":"TXT_SC_EM0000_C","subid_hash_":"","text_":"ゴブリンＣ"}},{"column_":{"id_hash_":"TXT_SC_WN0200","subid_hash_":"","text_":"ゴトル"}},{"column_":{"id_hash_":"TXT_SC_NP0300_01_DUMMY","subid_hash_":"","text_":"ローラン（通信）"}},{"column_":{"id_hash_":"TXT_SC_NP0300_02_DUMMY","subid_hash_":"","text_":"ローラン（無線）"}},{"column_":{"id_hash_":"TXT_SC_NP0600_DUMMY","subid_hash_":"","text_":"ザスバ（通信）"}},{"column_":{"id_hash_":"TXT_SC_PLAYER","subid_hash_":"","text_":""}},{"column_":{"id_hash_":"TXT_SC_PLAYER","subid_hash_":"note_list01","text_":"主人公"}},{"column_":{"id_hash_":"TXT_SC_PLAYER","subid_hash_":"note_list04","text_":"主人公"}},{"column_":{"id_hash_":"TXT_SC_PLAYER","subid_hash_":"note_info03_data04","text_":"主人公"}},{"column_":{"id_hash_":"TXT_SC_PLAYER","subid_hash_":"note_info03_data01_chr","text_":"主人公"}},{"column_":{"id_hash_":"TXT_SC_PLAYER","subid_hash_":"note_info03_data01_ctgr","text_":"主人公"}},{"column_":{"id_hash_":"TXT_SC_PLAYER","subid_hash_":"window_assist01","text_":"主人公"}},{"column_":{"id_hash_":"TXT_SC_LOADING_PLAYER","subid_hash_":"","text_":"(主人公)"}},{"column_":{"id_hash_":"TXT_SC_PLAYER_NP0000","subid_hash_":"","text_":"とルリア"}},{"column_":{"id_hash_":"TXT_BA7200","subid_hash_":"","text_":"ノッカー"}},{"column_":{"id_hash_":"TXT_BA7210","subid_hash_":"","text_":"災禍の残滓"}},{"column_":{"id_hash_":"TXT_BA7201","subid_hash_":"","text_":"ウォッチャー"}},{"column_":{"id_hash_":"TXT_BA7211","subid_hash_":"","text_":"災禍の扉"}},{"column_":{"id_hash_":"TXT_BA0350","subid_hash_":"","text_":"猫"}},{"column_":{"id_hash_":"TXT_BA2103","subid_hash_":"","text_":"戦術アンカー"}},{"column_":{"id_hash_":"TXT_BH0002","subid_hash_":"","text_":"商人の積み荷"}},{"column_":{"id_hash_":"TXT_BH0003","subid_hash_":"","text_":"祈り場"}},{"column_":{"id_hash_":"TXT_BH0004","subid_hash_":"","text_":"バリケード"}},{"column_":{"id_hash_":"TXT_BH2002","subid_hash_":"","text_":"20mmエーテル機関砲"}},{"column_":{"id_hash_":"TXT_BH2005","subid_hash_":"","text_":"コントロールユニット"}}]}
+{
+  "rows_": [
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0000",
+        "subid_hash_": "",
+        "text_": "ゴブリン突撃兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0000_01",
+        "subid_hash_": "",
+        "text_": "ゴブリンバンディット"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0000_02",
+        "subid_hash_": "",
+        "text_": "ゴブリン強襲兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0000_03",
+        "subid_hash_": "",
+        "text_": "ゴブリンギャザラー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0000_04",
+        "subid_hash_": "",
+        "text_": "ヒドゥンアーミー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0000_05",
+        "subid_hash_": "",
+        "text_": "カリオン・サヴェッジトライブ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0001",
+        "subid_hash_": "",
+        "text_": "ゴブリン呪術兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0001_01",
+        "subid_hash_": "",
+        "text_": "ゴブリンウィッチ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0001_02",
+        "subid_hash_": "",
+        "text_": "パイロマニア"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0002",
+        "subid_hash_": "",
+        "text_": "ゴブリン重装兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0002_01",
+        "subid_hash_": "",
+        "text_": "マッドカバード・ソードマン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0003",
+        "subid_hash_": "",
+        "text_": "ゴブリン弓兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0003_01",
+        "subid_hash_": "",
+        "text_": "トリガーハッピー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0004",
+        "subid_hash_": "",
+        "text_": "ゴブリンソルジャー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0004_01",
+        "subid_hash_": "",
+        "text_": "ゴブリングラディエーター"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0004_02",
+        "subid_hash_": "",
+        "text_": "荒くれ鬼 ボルド"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0004_03",
+        "subid_hash_": "",
+        "text_": "渇望のジャナフ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0004_04",
+        "subid_hash_": "",
+        "text_": "砂喰らいのギムザ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0005",
+        "subid_hash_": "",
+        "text_": "ゴブリンウォーリア"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0005_01",
+        "subid_hash_": "",
+        "text_": "大盾のマッドビート"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0005_02",
+        "subid_hash_": "",
+        "text_": "ゴブリンウォーリアA"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0005_03",
+        "subid_hash_": "",
+        "text_": "ゴブリンウォーリアB"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0100",
+        "subid_hash_": "",
+        "text_": "スケルトン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0100_01",
+        "subid_hash_": "",
+        "text_": "苔生した骸兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0101",
+        "subid_hash_": "",
+        "text_": "ボーンフロスティ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0101_01",
+        "subid_hash_": "",
+        "text_": "朽ちた聖騎士"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0101_02",
+        "subid_hash_": "",
+        "text_": "呪氷の剣兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0102",
+        "subid_hash_": "",
+        "text_": "ゲラシーン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0103",
+        "subid_hash_": "",
+        "text_": "スカルミリオーネ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0103_01",
+        "subid_hash_": "",
+        "text_": "スカルミリオーネA"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0103_02",
+        "subid_hash_": "",
+        "text_": "スカルミリオーネB"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0200",
+        "subid_hash_": "",
+        "text_": "ラウンドウルフ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0200_01",
+        "subid_hash_": "",
+        "text_": "デザートウルフ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0200_02",
+        "subid_hash_": "",
+        "text_": "ガロウ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0201",
+        "subid_hash_": "",
+        "text_": "ゴブリンライダー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0201_11",
+        "subid_hash_": "",
+        "text_": "クリムゾンランナー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0300",
+        "subid_hash_": "",
+        "text_": "ホーンバード"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0300_01",
+        "subid_hash_": "",
+        "text_": "オミノスバード"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0300_02",
+        "subid_hash_": "",
+        "text_": "ワイルドクロウ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0300_03",
+        "subid_hash_": "",
+        "text_": "マインピッカー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0400",
+        "subid_hash_": "",
+        "text_": "ワイバーン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0400_01",
+        "subid_hash_": "",
+        "text_": "エルダーワイバーン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0400_02",
+        "subid_hash_": "",
+        "text_": "フォンダーミアン・リザード"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0400_03",
+        "subid_hash_": "",
+        "text_": "ワイバーンロード"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0400_04",
+        "subid_hash_": "",
+        "text_": "テンペラストーンイーター"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0400_05",
+        "subid_hash_": "",
+        "text_": "カース"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0500",
+        "subid_hash_": "",
+        "text_": "ストンダイル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0500_01",
+        "subid_hash_": "",
+        "text_": "ストンダイルA"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0500_02",
+        "subid_hash_": "",
+        "text_": "ストンダイルB"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0500_03",
+        "subid_hash_": "",
+        "text_": "アリゲイディス・ジョン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0500_04",
+        "subid_hash_": "",
+        "text_": "アリゲイディス・ジェーン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0501",
+        "subid_hash_": "",
+        "text_": "ブリズダイル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0501_01",
+        "subid_hash_": "",
+        "text_": "ブリズダイルA"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0501_02",
+        "subid_hash_": "",
+        "text_": "ブリズダイルB"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0501_03",
+        "subid_hash_": "",
+        "text_": "トッテンウォーカー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0502",
+        "subid_hash_": "",
+        "text_": "フレイダイル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0502_01",
+        "subid_hash_": "",
+        "text_": "フレイダイルA"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0502_02",
+        "subid_hash_": "",
+        "text_": "フレイダイルB"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0600",
+        "subid_hash_": "",
+        "text_": "スライム"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0601",
+        "subid_hash_": "",
+        "text_": "シルバースライム"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0602",
+        "subid_hash_": "",
+        "text_": "ゴールドスライム"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0603",
+        "subid_hash_": "",
+        "text_": "キングシルバースライム"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0604",
+        "subid_hash_": "",
+        "text_": "キングゴールドスライム"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0605",
+        "subid_hash_": "",
+        "text_": "プリズミックスライム"
+      }
+    },
+    { "column_": { "id_hash_": "TXT_EM0700", "subid_hash_": "", "text_": "" } },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0701",
+        "subid_hash_": "",
+        "text_": "シアエガ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0701_01",
+        "subid_hash_": "",
+        "text_": "モクモクレン"
+      }
+    },
+    { "column_": { "id_hash_": "TXT_EM0702", "subid_hash_": "", "text_": "" } },
+    { "column_": { "id_hash_": "TXT_EM0703", "subid_hash_": "", "text_": "" } },
+    { "column_": { "id_hash_": "TXT_EM0704", "subid_hash_": "", "text_": "" } },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0705",
+        "subid_hash_": "",
+        "text_": "アーリマン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0706",
+        "subid_hash_": "",
+        "text_": "ナザルボンジュ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0706_01",
+        "subid_hash_": "",
+        "text_": "ナザルボンジュA"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0706_02",
+        "subid_hash_": "",
+        "text_": "ナザルボンジュB"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0706_03",
+        "subid_hash_": "",
+        "text_": "見つめし者"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0800",
+        "subid_hash_": "",
+        "text_": "フレイムシード"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0800_01",
+        "subid_hash_": "",
+        "text_": "オーディアル・フレイムシード"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0800_02",
+        "subid_hash_": "",
+        "text_": "シラヌイ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0801",
+        "subid_hash_": "",
+        "text_": "アクアシード"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0801_01",
+        "subid_hash_": "",
+        "text_": "オーディアル・アクアシード\n"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0802",
+        "subid_hash_": "",
+        "text_": "アースシード"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0802_01",
+        "subid_hash_": "",
+        "text_": "オーディアル・アースシード\n"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0803",
+        "subid_hash_": "",
+        "text_": "ウィンドシード"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0804",
+        "subid_hash_": "",
+        "text_": "ホーリーシード"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0804_01",
+        "subid_hash_": "",
+        "text_": "オーディアル・ホーリーシード"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0805",
+        "subid_hash_": "",
+        "text_": "ダークシード"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0805_01",
+        "subid_hash_": "",
+        "text_": "オーディアル・ダークシード\n"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0805_02",
+        "subid_hash_": "",
+        "text_": "闇の坩堝"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0805_03",
+        "subid_hash_": "",
+        "text_": "ダーククラウド"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0900",
+        "subid_hash_": "",
+        "text_": "火の精霊"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0900_01",
+        "subid_hash_": "",
+        "text_": "オーディアル・ファイアエレメンタル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0900_02",
+        "subid_hash_": "",
+        "text_": "フォンダーミアン・エレメンタル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0900_03",
+        "subid_hash_": "",
+        "text_": "ヴァヨイ・ライトエレメンタル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0900_04",
+        "subid_hash_": "",
+        "text_": "ホアカリ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0900_05",
+        "subid_hash_": "",
+        "text_": "レッド・ファントム"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0900_06",
+        "subid_hash_": "",
+        "text_": "ルビー・ファントム"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0900_07",
+        "subid_hash_": "",
+        "text_": "ヒートシマー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0901",
+        "subid_hash_": "",
+        "text_": "ウインドスタチュー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0902",
+        "subid_hash_": "",
+        "text_": "水の精霊"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0902_01",
+        "subid_hash_": "",
+        "text_": "オーディアル・アクアエレメンタル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0902_02",
+        "subid_hash_": "",
+        "text_": "ネジュリシアン・エレメンタル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0902_03",
+        "subid_hash_": "",
+        "text_": "ヴァヨイ・シャドウエレメンタル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0902_04",
+        "subid_hash_": "",
+        "text_": "ホノオリ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0902_05",
+        "subid_hash_": "",
+        "text_": "ブルー・ファントム"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0902_06",
+        "subid_hash_": "",
+        "text_": "アクアマリン・ファントム"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM0903",
+        "subid_hash_": "",
+        "text_": "アーススタチュー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1000",
+        "subid_hash_": "",
+        "text_": "アヴィアス・セイバー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1000_01",
+        "subid_hash_": "",
+        "text_": "アヴィアス・トルーパー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1001",
+        "subid_hash_": "",
+        "text_": "アヴィアス・ランサー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1002",
+        "subid_hash_": "",
+        "text_": "アヴィアス・アーチャー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1003",
+        "subid_hash_": "",
+        "text_": "アヴィアス・フラッグビーラー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1003_01",
+        "subid_hash_": "",
+        "text_": "アヴィアス・オナーガード"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1004",
+        "subid_hash_": "",
+        "text_": "神罰官ルーク"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1004_01",
+        "subid_hash_": "",
+        "text_": "アヴィアス・ドレッドノート"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1004_02",
+        "subid_hash_": "",
+        "text_": "救済騎士ガルシア"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1004_03",
+        "subid_hash_": "",
+        "text_": "恐れ知らずのライネル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1005",
+        "subid_hash_": "",
+        "text_": "葬将アヴァラン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1005_01",
+        "subid_hash_": "",
+        "text_": "断罪者バルガス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1005_02",
+        "subid_hash_": "",
+        "text_": "アヴィアス・リベンジャー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1005_03",
+        "subid_hash_": "",
+        "text_": "妄執の騎士ダーレス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1006",
+        "subid_hash_": "",
+        "text_": "アヴィア教団兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1100",
+        "subid_hash_": "",
+        "text_": "刃重衆"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1200",
+        "subid_hash_": "",
+        "text_": "ヴァザーラプトル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1300",
+        "subid_hash_": "",
+        "text_": "ドロイタ・センチネル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1301",
+        "subid_hash_": "",
+        "text_": "ドロイタ・マザー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1301_01",
+        "subid_hash_": "",
+        "text_": "強襲型ドロイタマザー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1301_02",
+        "subid_hash_": "",
+        "text_": "試作型ドロイタ「サイクロプス」"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1303",
+        "subid_hash_": "",
+        "text_": "ドロイタ・バルサム"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1303_01",
+        "subid_hash_": "",
+        "text_": "トーピード・バルサム"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1500",
+        "subid_hash_": "",
+        "text_": "ロックゴーレム"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1500_01",
+        "subid_hash_": "",
+        "text_": "ロックゴーレムA"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1500_02",
+        "subid_hash_": "",
+        "text_": "ロックゴーレムB"
+      }
+    },
+    { "column_": { "id_hash_": "TXT_EM1502", "subid_hash_": "", "text_": "" } },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1600",
+        "subid_hash_": "",
+        "text_": "グリフォン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1600_01",
+        "subid_hash_": "",
+        "text_": "幻鳥ペリュトン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1600_02",
+        "subid_hash_": "",
+        "text_": "グリフォンA"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1600_03",
+        "subid_hash_": "",
+        "text_": "グリフォンB"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1600_04",
+        "subid_hash_": "",
+        "text_": "ゴブリンイーター"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1600_05",
+        "subid_hash_": "",
+        "text_": "ブラックラプター"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1700",
+        "subid_hash_": "",
+        "text_": "ベヒーモス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1800",
+        "subid_hash_": "",
+        "text_": "エンシェントドラゴン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1800_01",
+        "subid_hash_": "",
+        "text_": "燻り狂えるバンダースナッチ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1800_02",
+        "subid_hash_": "",
+        "text_": "暴竜ガラムッド"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1801",
+        "subid_hash_": "",
+        "text_": "火竜ヴレッザレク"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1802",
+        "subid_hash_": "",
+        "text_": "氷竜ウィリヌス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1803",
+        "subid_hash_": "",
+        "text_": "地竜ドルベイル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1804",
+        "subid_hash_": "",
+        "text_": "風竜イールシアス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1805",
+        "subid_hash_": "",
+        "text_": "白竜ラディス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1806",
+        "subid_hash_": "",
+        "text_": "黒竜イーヴィル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1900",
+        "subid_hash_": "",
+        "text_": "タイユタール"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1900_01",
+        "subid_hash_": "",
+        "text_": "タイユタールA"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1900_02",
+        "subid_hash_": "",
+        "text_": "タイユタールB"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1900_03",
+        "subid_hash_": "",
+        "text_": "タイユタール Mk-II"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM2000",
+        "subid_hash_": "",
+        "text_": "ガランツァ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM2100",
+        "subid_hash_": "",
+        "text_": "マギラフリラ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE2110",
+        "subid_hash_": "",
+        "text_": "フライクーゲル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE2111",
+        "subid_hash_": "",
+        "text_": "ミョルニル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE2112",
+        "subid_hash_": "",
+        "text_": "カドゥケウス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE2113",
+        "subid_hash_": "",
+        "text_": "ゲイボルグ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM2200_01",
+        "subid_hash_": "",
+        "text_": "謎の剣士"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM2400",
+        "subid_hash_": "",
+        "text_": "リリス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM2500",
+        "subid_hash_": "",
+        "text_": "スニッパー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM2600",
+        "subid_hash_": "",
+        "text_": "コブラ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM2600_01",
+        "subid_hash_": "",
+        "text_": "サンドリーパー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM2700",
+        "subid_hash_": "",
+        "text_": "トッくん"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM2800",
+        "subid_hash_": "",
+        "text_": "禍つ影"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM2800_01",
+        "subid_hash_": "",
+        "text_": "透明な殺意"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM2800_02",
+        "subid_hash_": "",
+        "text_": "禍つ残像"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM3100",
+        "subid_hash_": "",
+        "text_": "セスラカ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE3100",
+        "subid_hash_": "",
+        "text_": "ファイアフライ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE3101",
+        "subid_hash_": "",
+        "text_": "ハチソン・ジェネレータ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7000",
+        "subid_hash_": "",
+        "text_": "プロトバハムート"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE7000",
+        "subid_hash_": "",
+        "text_": "スコタージ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE7001",
+        "subid_hash_": "",
+        "text_": "フォティア"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE7002",
+        "subid_hash_": "",
+        "text_": "ヒュドール"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE7003",
+        "subid_hash_": "",
+        "text_": "エザフォス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE7004",
+        "subid_hash_": "",
+        "text_": "アネモス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7100",
+        "subid_hash_": "",
+        "text_": "ヴォルカンボーラ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7110",
+        "subid_hash_": "",
+        "text_": "ヴォルカンボーラ・ニヒラ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7200",
+        "subid_hash_": "",
+        "text_": "フラカーン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7210",
+        "subid_hash_": "",
+        "text_": "フラカーン・ニヒラ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7300",
+        "subid_hash_": "",
+        "text_": "マナガルム"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7310",
+        "subid_hash_": "",
+        "text_": "マナガルム・ニヒラ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE7300",
+        "subid_hash_": "",
+        "text_": "ネレイド"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE7300_01",
+        "subid_hash_": "",
+        "text_": "ハリメデ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7400",
+        "subid_hash_": "",
+        "text_": "エクスカリオン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7401",
+        "subid_hash_": "",
+        "text_": "タラス・リアクター"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7404",
+        "subid_hash_": "",
+        "text_": "エクスカリオン・スパインコア"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7406",
+        "subid_hash_": "",
+        "text_": "アトラスプラグ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7406_01",
+        "subid_hash_": "",
+        "text_": "ソラシックプラグ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7406_02",
+        "subid_hash_": "",
+        "text_": "スカピュラプラグ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7406_03",
+        "subid_hash_": "",
+        "text_": "ランバープラグ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7406_04",
+        "subid_hash_": "",
+        "text_": "スープラスパイナボルト"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7406_05",
+        "subid_hash_": "",
+        "text_": "インフラスパイナボルト"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7406_06",
+        "subid_hash_": "",
+        "text_": "テレスボルト"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7406_07",
+        "subid_hash_": "",
+        "text_": "ラティスミスボルト"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7406_08",
+        "subid_hash_": "",
+        "text_": "プライマルシリンダー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7407",
+        "subid_hash_": "",
+        "text_": "デルトイド・リアクター"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7407_01",
+        "subid_hash_": "",
+        "text_": "フォーアーム・リアクター"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7408",
+        "subid_hash_": "",
+        "text_": "コクサ・リアクター"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7409",
+        "subid_hash_": "",
+        "text_": "ブレスト・リアクター"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7500",
+        "subid_hash_": "",
+        "text_": "アンラ・マンユ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7500_01",
+        "subid_hash_": "",
+        "text_": "アンラ・マンユ（完全体）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7500_02",
+        "subid_hash_": "",
+        "text_": "アンラ・マンユ（リリス融合体）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7520",
+        "subid_hash_": "",
+        "text_": "ダエーワ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7530",
+        "subid_hash_": "",
+        "text_": "アカ・マナフ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7600",
+        "subid_hash_": "",
+        "text_": "バハムート・オルタ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7603",
+        "subid_hash_": "",
+        "text_": "神撃核"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7610",
+        "subid_hash_": "",
+        "text_": "マグナバハムート・オルタ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM7700",
+        "subid_hash_": "",
+        "text_": "ルシファー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE7700",
+        "subid_hash_": "",
+        "text_": "完全否認の剣"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE7701",
+        "subid_hash_": "",
+        "text_": "絶対否定の剣"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WE7702",
+        "subid_hash_": "",
+        "text_": "永遠拒絶の剣"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL0000",
+        "subid_hash_": "",
+        "text_": "グラン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL000B",
+        "subid_hash_": "",
+        "text_": "LookDev"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL0100",
+        "subid_hash_": "",
+        "text_": "ジータ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL0200",
+        "subid_hash_": "",
+        "text_": "カタリナ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL0300",
+        "subid_hash_": "",
+        "text_": "ラカム"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL0400",
+        "subid_hash_": "",
+        "text_": "イオ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL0500",
+        "subid_hash_": "",
+        "text_": "オイゲン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL0600",
+        "subid_hash_": "",
+        "text_": "ロゼッタ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL0700",
+        "subid_hash_": "",
+        "text_": "フェリ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL0800",
+        "subid_hash_": "",
+        "text_": "ランスロット"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL0900",
+        "subid_hash_": "",
+        "text_": "ヴェイン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL1000",
+        "subid_hash_": "",
+        "text_": "パーシヴァル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL1100",
+        "subid_hash_": "",
+        "text_": "ジークフリート"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL1200",
+        "subid_hash_": "",
+        "text_": "シャルロッテ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL1300",
+        "subid_hash_": "",
+        "text_": "ヨダルラーハ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL1400",
+        "subid_hash_": "",
+        "text_": "ナルメア"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL1500",
+        "subid_hash_": "",
+        "text_": "ガンダゴウザ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL1600",
+        "subid_hash_": "",
+        "text_": "ゼタ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL1700",
+        "subid_hash_": "",
+        "text_": "バザラガ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL1800",
+        "subid_hash_": "",
+        "text_": "カリオストロ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL1900",
+        "subid_hash_": "",
+        "text_": "イド"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL2100",
+        "subid_hash_": "",
+        "text_": "サンダルフォン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL2200",
+        "subid_hash_": "",
+        "text_": "シエテ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL2300",
+        "subid_hash_": "",
+        "text_": "ソーン"
+      }
+    },
+    { "column_": { "id_hash_": "TXT_PL2400", "subid_hash_": "", "text_": "" } },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0000",
+        "subid_hash_": "",
+        "text_": "ルリア"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0100",
+        "subid_hash_": "",
+        "text_": "ビィ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0200",
+        "subid_hash_": "",
+        "text_": "シェロカルテ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0300",
+        "subid_hash_": "",
+        "text_": "ローラン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0400",
+        "subid_hash_": "",
+        "text_": "イストリアス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0600",
+        "subid_hash_": "",
+        "text_": "ザスバ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0702",
+        "subid_hash_": "",
+        "text_": "ハンペン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1202",
+        "subid_hash_": "",
+        "text_": "ダガー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1402",
+        "subid_hash_": "",
+        "text_": "ゴリさん"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1602",
+        "subid_hash_": "",
+        "text_": "ダディ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_a",
+        "subid_hash_": "",
+        "text_": "うろたえる男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_a",
+        "subid_hash_": "",
+        "text_": "律儀な作業員"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_b",
+        "subid_hash_": "",
+        "text_": "面倒見のいい男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_a",
+        "subid_hash_": "",
+        "text_": "動揺した男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_c",
+        "subid_hash_": "",
+        "text_": "騎空艇技師"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_d",
+        "subid_hash_": "",
+        "text_": "仲間を気遣う男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_g",
+        "subid_hash_": "",
+        "text_": "喧嘩っ早い男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_b",
+        "subid_hash_": "",
+        "text_": "戸惑う母親"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0800_a",
+        "subid_hash_": "",
+        "text_": "柔和な爺さん"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1700_e",
+        "subid_hash_": "",
+        "text_": "注意深い女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1500_c",
+        "subid_hash_": "",
+        "text_": "怖がりな女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_r",
+        "subid_hash_": "",
+        "text_": "偉そうな男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_s",
+        "subid_hash_": "",
+        "text_": "気さくな男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_t",
+        "subid_hash_": "",
+        "text_": "粗暴な男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_u",
+        "subid_hash_": "",
+        "text_": "エキセントリックな男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_l",
+        "subid_hash_": "",
+        "text_": "活発な明るい女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_m",
+        "subid_hash_": "",
+        "text_": "自信家の女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_n",
+        "subid_hash_": "",
+        "text_": "おっとりした女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_o",
+        "subid_hash_": "",
+        "text_": "男勝りな女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_p",
+        "subid_hash_": "",
+        "text_": "チャラい女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2000_d",
+        "subid_hash_": "",
+        "text_": "やんちゃな男の子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2000_e",
+        "subid_hash_": "",
+        "text_": "大人しい男の子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2100_c",
+        "subid_hash_": "",
+        "text_": "まじめな女の子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2100_d",
+        "subid_hash_": "",
+        "text_": "朗らかな女の子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_v",
+        "subid_hash_": "",
+        "text_": "東北弁の男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_q",
+        "subid_hash_": "",
+        "text_": "大阪弁の女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1800_a",
+        "subid_hash_": "",
+        "text_": "マロース氷僧院A"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1800_b",
+        "subid_hash_": "",
+        "text_": "マロース氷僧院B"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1900",
+        "subid_hash_": "",
+        "text_": "シードホルム兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1900_a",
+        "subid_hash_": "",
+        "text_": "シードホルム兵A"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1900_b",
+        "subid_hash_": "",
+        "text_": "シードホルム兵B"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1900_c",
+        "subid_hash_": "",
+        "text_": "シードホルム兵C"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1900_d",
+        "subid_hash_": "",
+        "text_": "シードホルム兵D"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1900_e",
+        "subid_hash_": "",
+        "text_": "シードホルム兵E"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1900_f",
+        "subid_hash_": "",
+        "text_": "シードホルム兵F"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1900_g",
+        "subid_hash_": "",
+        "text_": "シードホルム兵G"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_e",
+        "subid_hash_": "",
+        "text_": "責任感が強く物静かな男性"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_J",
+        "subid_hash_": "",
+        "text_": "要領を得ない男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1700_f",
+        "subid_hash_": "",
+        "text_": "思わせぶりな女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_h",
+        "subid_hash_": "",
+        "text_": "トレビアンな感じの男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_np2200_a",
+        "subid_hash_": "",
+        "text_": "騎空団連合受付_フォルカ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_np2200_b",
+        "subid_hash_": "",
+        "text_": "騎空団連合受付_シードホルム"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2200_c",
+        "subid_hash_": "",
+        "text_": "騎空団連合受付"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0900",
+        "subid_hash_": "",
+        "text_": "ヒューマン男の子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1300",
+        "subid_hash_": "",
+        "text_": "エルーン女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2000_a",
+        "subid_hash_": "",
+        "text_": "男の子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2100_a",
+        "subid_hash_": "",
+        "text_": "女の子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1300_a",
+        "subid_hash_": "",
+        "text_": "泣きじゃくる女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1700_a",
+        "subid_hash_": "",
+        "text_": "放心した女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_b",
+        "subid_hash_": "",
+        "text_": "勇敢な男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_a",
+        "subid_hash_": "",
+        "text_": "脱力した女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1500_a",
+        "subid_hash_": "",
+        "text_": "騎空士マニア"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1400_a",
+        "subid_hash_": "",
+        "text_": "疲れ切った男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2100_b",
+        "subid_hash_": "",
+        "text_": "臆病な女の子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_c",
+        "subid_hash_": "",
+        "text_": "熱血な男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_b",
+        "subid_hash_": "",
+        "text_": "焦燥した男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_f",
+        "subid_hash_": "",
+        "text_": "不安そうな女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2000_b",
+        "subid_hash_": "",
+        "text_": "勝気な男の子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1300_b",
+        "subid_hash_": "",
+        "text_": "手を振る女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1300_c",
+        "subid_hash_": "",
+        "text_": "談笑する女A"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1700_b",
+        "subid_hash_": "",
+        "text_": "談笑する女B"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_q",
+        "subid_hash_": "",
+        "text_": "買い物するカップル（男）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_c",
+        "subid_hash_": "",
+        "text_": "買い物するカップル（女）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_d",
+        "subid_hash_": "",
+        "text_": "相談しあう男女（女）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_d",
+        "subid_hash_": "",
+        "text_": "相談しあう男女（男）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_e",
+        "subid_hash_": "",
+        "text_": "帰りたがる男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_e",
+        "subid_hash_": "",
+        "text_": "驚く女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_c",
+        "subid_hash_": "",
+        "text_": "女に声をかける男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1300_d",
+        "subid_hash_": "",
+        "text_": "声を掛けられる女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_f",
+        "subid_hash_": "",
+        "text_": "子供を叱る男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2000_c",
+        "subid_hash_": "",
+        "text_": "わがままを言う男の子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1500_b",
+        "subid_hash_": "",
+        "text_": "お出かけする男女（女）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1400_c",
+        "subid_hash_": "",
+        "text_": "お出かけする男女（男）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_g",
+        "subid_hash_": "",
+        "text_": "呼び込みする店員A"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_g",
+        "subid_hash_": "",
+        "text_": "呼び込みする店員B"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1300_e",
+        "subid_hash_": "",
+        "text_": "呼び込みする店員C"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1700_c",
+        "subid_hash_": "",
+        "text_": "談笑する女性陣A"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1700_d",
+        "subid_hash_": "",
+        "text_": "談笑する女性陣B"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_h",
+        "subid_hash_": "",
+        "text_": "世間話する男性陣A"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_i",
+        "subid_hash_": "",
+        "text_": "世間話する男性陣B"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_d",
+        "subid_hash_": "",
+        "text_": "疲れている男性陣A"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_f",
+        "subid_hash_": "",
+        "text_": "疲れている男性陣B"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1400_d",
+        "subid_hash_": "",
+        "text_": "主人公編_ハーヴィン男性"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2000_f",
+        "subid_hash_": "",
+        "text_": "タルケン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2100_e",
+        "subid_hash_": "",
+        "text_": "キーノ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_f",
+        "subid_hash_": "",
+        "text_": "カタリナ編_ドラフ男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1400_e",
+        "subid_hash_": "",
+        "text_": "カタリナ編_ハーヴィン男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_i",
+        "subid_hash_": "",
+        "text_": "カタリナ編_エルーン男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_h",
+        "subid_hash_": "",
+        "text_": "カタリナ編_ヒューマン女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_j",
+        "subid_hash_": "",
+        "text_": "ケント"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_k",
+        "subid_hash_": "",
+        "text_": "操舵士の青年"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1700_g",
+        "subid_hash_": "",
+        "text_": "メカニックの女性"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1400_f",
+        "subid_hash_": "",
+        "text_": "卸売りの商人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2000_g",
+        "subid_hash_": "",
+        "text_": "レフ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_l",
+        "subid_hash_": "",
+        "text_": "イオ編_父親"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_i",
+        "subid_hash_": "",
+        "text_": "イオ編_母親"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1400_i",
+        "subid_hash_": "",
+        "text_": "生真面目な男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1700_h",
+        "subid_hash_": "",
+        "text_": "世話好きな女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_k",
+        "subid_hash_": "",
+        "text_": "フォルカ自警団団員A"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_g",
+        "subid_hash_": "",
+        "text_": "カルセダ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_j",
+        "subid_hash_": "",
+        "text_": "メルフィラ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2600",
+        "subid_hash_": "",
+        "text_": "カール"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_m",
+        "subid_hash_": "",
+        "text_": "ルドウィン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0800_b",
+        "subid_hash_": "",
+        "text_": "ハンス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2000_h",
+        "subid_hash_": "",
+        "text_": "ダンチョー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2000_i",
+        "subid_hash_": "",
+        "text_": "アイス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2100_f",
+        "subid_hash_": "",
+        "text_": "パンチ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2100_g",
+        "subid_hash_": "",
+        "text_": "ハカセ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2500",
+        "subid_hash_": "",
+        "text_": "ヘルツェロイデ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_n",
+        "subid_hash_": "",
+        "text_": "パーシヴァル編_村人A"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1500_d",
+        "subid_hash_": "",
+        "text_": "パーシヴァル編_村人B"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_h",
+        "subid_hash_": "",
+        "text_": "パーシヴァル編_村人C"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_i",
+        "subid_hash_": "",
+        "text_": "フォルカ自警団団長"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1400_g",
+        "subid_hash_": "",
+        "text_": "フォルカ自警団団員B"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1400_h",
+        "subid_hash_": "",
+        "text_": "ハンペンの子分"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_o",
+        "subid_hash_": "",
+        "text_": "嫌味な貴族"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0800_c",
+        "subid_hash_": "",
+        "text_": "釣神"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_l",
+        "subid_hash_": "",
+        "text_": "ヨダルラーハ編_エルーン男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1700_i",
+        "subid_hash_": "",
+        "text_": "ヨダルラーハ編_ドラフ女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_k",
+        "subid_hash_": "",
+        "text_": "ヨダルラーハ編_ヒューマン女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2000_j",
+        "subid_hash_": "",
+        "text_": "ヨダルラーハ編_男の子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_p",
+        "subid_hash_": "",
+        "text_": "謎のレフェリー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_m",
+        "subid_hash_": "",
+        "text_": "ハイメル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1300_g",
+        "subid_hash_": "",
+        "text_": "シュネー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1500_e",
+        "subid_hash_": "",
+        "text_": "シロル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_j",
+        "subid_hash_": "",
+        "text_": "勤勉な男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1300_f",
+        "subid_hash_": "",
+        "text_": "慌ただしい女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_k",
+        "subid_hash_": "",
+        "text_": "厳格な鍛冶屋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_l",
+        "subid_hash_": "",
+        "text_": "鍛冶屋_シードホルム"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1400_j",
+        "subid_hash_": "",
+        "text_": "ザスバの手下（南）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_m",
+        "subid_hash_": "",
+        "text_": "ザスバの手下（北）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_w",
+        "subid_hash_": "",
+        "text_": "ザスバの手下（門番）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0800_d",
+        "subid_hash_": "",
+        "text_": "怯えた爺さん"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_x",
+        "subid_hash_": "",
+        "text_": "腰の引けた男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1300_h",
+        "subid_hash_": "",
+        "text_": "怖がる女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_y",
+        "subid_hash_": "",
+        "text_": "臆病な行商人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_r",
+        "subid_hash_": "",
+        "text_": "状況が飲み込めない女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1300_i",
+        "subid_hash_": "",
+        "text_": "怖さに震える女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_n",
+        "subid_hash_": "",
+        "text_": "不安を感じる男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_o",
+        "subid_hash_": "",
+        "text_": "慌ただしく走る男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_o",
+        "subid_hash_": "",
+        "text_": "怯えて走る男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1200_p",
+        "subid_hash_": "",
+        "text_": "驚く男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_p",
+        "subid_hash_": "",
+        "text_": "混乱する男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700_z",
+        "subid_hash_": "",
+        "text_": "思案する男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1900_i",
+        "subid_hash_": "",
+        "text_": "負傷した男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1900_j",
+        "subid_hash_": "",
+        "text_": "痛みに耐える兵士"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1000_s",
+        "subid_hash_": "",
+        "text_": "街を憂う女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP0700",
+        "subid_hash_": "",
+        "text_": "朗らかな商人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2700",
+        "subid_hash_": "",
+        "text_": "若い騎空士"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2000_k",
+        "subid_hash_": "",
+        "text_": "ヴァン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1300_j",
+        "subid_hash_": "",
+        "text_": "イレーヌ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2800",
+        "subid_hash_": "",
+        "text_": "ウーノ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1700_j",
+        "subid_hash_": "",
+        "text_": "内気な商人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_00",
+        "subid_hash_": "",
+        "text_": "フォルカ自警団"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_01",
+        "subid_hash_": "",
+        "text_": "フォルカ木こり組合"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_02",
+        "subid_hash_": "",
+        "text_": "父想いの少年"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_03",
+        "subid_hash_": "",
+        "text_": "テンペール鉱員組合"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_04",
+        "subid_hash_": "",
+        "text_": "フォルカ旅客艇協会"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_05",
+        "subid_hash_": "",
+        "text_": "頑強な僧兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_06",
+        "subid_hash_": "",
+        "text_": "不眠気味の巡礼者"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_07",
+        "subid_hash_": "",
+        "text_": "“伝説”の謳い手"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_08",
+        "subid_hash_": "",
+        "text_": "熱心なゴーレム研究者"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_09",
+        "subid_hash_": "",
+        "text_": "シードホルム軍"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_10",
+        "subid_hash_": "",
+        "text_": "妖艶な占い師"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_11",
+        "subid_hash_": "",
+        "text_": "紳士的な行商人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_12",
+        "subid_hash_": "",
+        "text_": "フォルカ騎空艇整備組合"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_13",
+        "subid_hash_": "",
+        "text_": "匿名希望の酒屋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_14",
+        "subid_hash_": "",
+        "text_": "赤字覚悟のコイン収集家"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_15",
+        "subid_hash_": "",
+        "text_": "フォンダーム観測員"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_16",
+        "subid_hash_": "",
+        "text_": "汗かきの料理人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_17",
+        "subid_hash_": "",
+        "text_": "至高の料理を求める男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_18",
+        "subid_hash_": "",
+        "text_": "匿名の騎空団"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_19",
+        "subid_hash_": "",
+        "text_": "騎空団連合ラファール"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_20",
+        "subid_hash_": "",
+        "text_": "シードホルム北門守備隊"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_21",
+        "subid_hash_": "",
+        "text_": "シードホルム航路保全協会"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_22",
+        "subid_hash_": "",
+        "text_": "花の都のデザイナー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_23",
+        "subid_hash_": "",
+        "text_": "騎空団連合 花都支部長"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_24",
+        "subid_hash_": "",
+        "text_": "ロマン志向の画家"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_25",
+        "subid_hash_": "",
+        "text_": "シードホルム軍第八部隊"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_26",
+        "subid_hash_": "",
+        "text_": "シードホルム軍第二部隊隊長"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_27",
+        "subid_hash_": "",
+        "text_": "謳い手と画家の夫婦"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_28",
+        "subid_hash_": "",
+        "text_": "シードホルム軍の新任隊長"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_29",
+        "subid_hash_": "",
+        "text_": "権威ある大司書"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_30",
+        "subid_hash_": "",
+        "text_": "シードホルム軍先遣隊隊長"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_31",
+        "subid_hash_": "",
+        "text_": "竜の使徒を名乗る者"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_32",
+        "subid_hash_": "",
+        "text_": "逃げ延びてきた巡礼者"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_33",
+        "subid_hash_": "",
+        "text_": "心折れた騎空士"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_34",
+        "subid_hash_": "",
+        "text_": "姉御肌の鍛冶職人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_35",
+        "subid_hash_": "",
+        "text_": "計算高い商人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_36",
+        "subid_hash_": "",
+        "text_": "研究熱心な考古学者"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_37",
+        "subid_hash_": "",
+        "text_": "歴史的建造物保護を謳う識者"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_38",
+        "subid_hash_": "",
+        "text_": "親友を失った騎空士"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_39",
+        "subid_hash_": "",
+        "text_": "元白狼兵団書記官"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_40",
+        "subid_hash_": "",
+        "text_": "刃重衆一同"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_41",
+        "subid_hash_": "",
+        "text_": "マロース氷僧院"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9000_42",
+        "subid_hash_": "",
+        "text_": "シードホルム軍将校"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_00",
+        "subid_hash_": "",
+        "text_": "引退間近の冒険家"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_01",
+        "subid_hash_": "",
+        "text_": "スニッパーボーイ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_02",
+        "subid_hash_": "",
+        "text_": "名うての薬師"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_03",
+        "subid_hash_": "",
+        "text_": "頼りない行商人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_04",
+        "subid_hash_": "",
+        "text_": "石に目が無い女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_05",
+        "subid_hash_": "",
+        "text_": "野心的な学芸員"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_06",
+        "subid_hash_": "",
+        "text_": "物思いに浸る老人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_07",
+        "subid_hash_": "",
+        "text_": "新しもの好きな魔術学生"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_08",
+        "subid_hash_": "",
+        "text_": "寝不足の旅人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_09",
+        "subid_hash_": "",
+        "text_": "チョイ悪な兵士"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_10",
+        "subid_hash_": "",
+        "text_": "夢見がちな建築家"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_11",
+        "subid_hash_": "",
+        "text_": "訛りが抜けない男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_12",
+        "subid_hash_": "",
+        "text_": "強面の左官職人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_13",
+        "subid_hash_": "",
+        "text_": "ザスバ一家の下っ端"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_14",
+        "subid_hash_": "",
+        "text_": "思い悩む商人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_15",
+        "subid_hash_": "",
+        "text_": "心配する兵士"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_16",
+        "subid_hash_": "",
+        "text_": "好奇心旺盛な美食家"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_17",
+        "subid_hash_": "",
+        "text_": "物好きな司書"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_18",
+        "subid_hash_": "",
+        "text_": "欲張りな昆虫蒐集家"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_19",
+        "subid_hash_": "",
+        "text_": "貧しい見習い剣士"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_20",
+        "subid_hash_": "",
+        "text_": "とある冒険家の相棒"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_21",
+        "subid_hash_": "",
+        "text_": "バイオレンスな僧兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_22",
+        "subid_hash_": "",
+        "text_": "せっかちな女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_23",
+        "subid_hash_": "",
+        "text_": "通りすがりの騎空艇技師"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_24",
+        "subid_hash_": "",
+        "text_": "自警団を束ねる教官"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_26",
+        "subid_hash_": "",
+        "text_": "しがない騎空艇技師"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_27",
+        "subid_hash_": "",
+        "text_": "気難しい鍛冶屋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_28",
+        "subid_hash_": "",
+        "text_": "先鋭的な機械技師"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_29",
+        "subid_hash_": "",
+        "text_": "几帳面な庭師"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_30",
+        "subid_hash_": "",
+        "text_": "せっかちな騎空艇技師"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_31",
+        "subid_hash_": "",
+        "text_": "陰気な青年"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_32",
+        "subid_hash_": "",
+        "text_": "酔狂な魔物研究家"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_33",
+        "subid_hash_": "",
+        "text_": "生態環境を研究する学者"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_34",
+        "subid_hash_": "",
+        "text_": "涙も枯れた未亡人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_35",
+        "subid_hash_": "",
+        "text_": "挑戦的な鍛冶職人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_36",
+        "subid_hash_": "",
+        "text_": "活発で明るい女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_37",
+        "subid_hash_": "",
+        "text_": "悩める僧兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_38",
+        "subid_hash_": "",
+        "text_": "明日から旅人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_39",
+        "subid_hash_": "",
+        "text_": "汗っかきな機械技師"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_40",
+        "subid_hash_": "",
+        "text_": "休暇を楽しむ軍人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_41",
+        "subid_hash_": "",
+        "text_": "そそっかしい母親"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_42",
+        "subid_hash_": "",
+        "text_": "顔の広い商人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_43",
+        "subid_hash_": "",
+        "text_": "見習い錬金術師"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_44",
+        "subid_hash_": "",
+        "text_": "凄みのある彫刻家"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_45",
+        "subid_hash_": "",
+        "text_": "気前のいい行商人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_46",
+        "subid_hash_": "",
+        "text_": "引退した傭兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_47",
+        "subid_hash_": "",
+        "text_": "名も無い騎空士"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_48",
+        "subid_hash_": "",
+        "text_": "見習い魔術師"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_49",
+        "subid_hash_": "",
+        "text_": "怪しげな男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_50",
+        "subid_hash_": "",
+        "text_": "心優しい僧兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_51",
+        "subid_hash_": "",
+        "text_": "呑気な牛飼い"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_52",
+        "subid_hash_": "",
+        "text_": "意欲的な盤上遊戯製作者"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_53",
+        "subid_hash_": "",
+        "text_": "活動的な観光組合長"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_54",
+        "subid_hash_": "",
+        "text_": "逃亡した元アヴィア教団兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_55",
+        "subid_hash_": "",
+        "text_": "シードホルム衛兵隊長"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_56",
+        "subid_hash_": "",
+        "text_": "才覚のある商人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_57",
+        "subid_hash_": "",
+        "text_": "日和見商人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_58",
+        "subid_hash_": "",
+        "text_": "真面目な僧兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_59",
+        "subid_hash_": "",
+        "text_": "前のめりな魔術機工技師"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_60",
+        "subid_hash_": "",
+        "text_": "研究熱心な魔導士"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_61",
+        "subid_hash_": "",
+        "text_": "旅の預言者"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NAME_NP9100_62",
+        "subid_hash_": "",
+        "text_": "研究熱心な魔術師"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9900",
+        "subid_hash_": "",
+        "text_": "幻兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9904",
+        "subid_hash_": "",
+        "text_": "豪快な男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9905",
+        "subid_hash_": "",
+        "text_": "村人"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9910",
+        "subid_hash_": "",
+        "text_": "悲しみに暮れる男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9911",
+        "subid_hash_": "",
+        "text_": "何かを畏れる女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9912",
+        "subid_hash_": "",
+        "text_": "安堵する女"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9913",
+        "subid_hash_": "",
+        "text_": "信心深い翁"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9927",
+        "subid_hash_": "",
+        "text_": "助けられた島民Ａ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9928",
+        "subid_hash_": "",
+        "text_": "助けられた島民Ｂ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9929",
+        "subid_hash_": "",
+        "text_": "モヒカン（無線）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9930",
+        "subid_hash_": "",
+        "text_": "バンダナ（無線）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9931",
+        "subid_hash_": "",
+        "text_": "教団兵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9932",
+        "subid_hash_": "",
+        "text_": "教団兵１"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9933",
+        "subid_hash_": "",
+        "text_": "教団兵２"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9935",
+        "subid_hash_": "",
+        "text_": "教団兵Ａ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9936",
+        "subid_hash_": "",
+        "text_": "教団兵Ｂ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9046",
+        "subid_hash_": "",
+        "text_": "気さくな男性"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9047",
+        "subid_hash_": "",
+        "text_": "臆病な手下"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9048",
+        "subid_hash_": "",
+        "text_": "ザスバの手下A"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9049",
+        "subid_hash_": "",
+        "text_": "ザスバの手下B"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9050",
+        "subid_hash_": "",
+        "text_": "ザスバの手下C"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9054",
+        "subid_hash_": "",
+        "text_": "教団兵C"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9055",
+        "subid_hash_": "",
+        "text_": "教団兵D"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9056",
+        "subid_hash_": "",
+        "text_": "教団騎士（赤）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9057",
+        "subid_hash_": "",
+        "text_": "教団騎士（青）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9058",
+        "subid_hash_": "",
+        "text_": "旗槍兵E"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9059",
+        "subid_hash_": "",
+        "text_": "旗槍兵F"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9060",
+        "subid_hash_": "",
+        "text_": "旗槍兵G"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9062",
+        "subid_hash_": "",
+        "text_": "ザスバの手下"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP9066",
+        "subid_hash_": "",
+        "text_": "朗らかな男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_UNKNOWN",
+        "subid_hash_": "",
+        "text_": "？？？"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_MYSTERIOUS_MAN",
+        "subid_hash_": "",
+        "text_": "謎の男"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_PL1900_CHILD",
+        "subid_hash_": "",
+        "text_": "イド（少年）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_VOICE_TRANSMITTER",
+        "subid_hash_": "",
+        "text_": "伝声機"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_INBOARD_WARNING",
+        "subid_hash_": "",
+        "text_": "艦内警報"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_EM1000_A",
+        "subid_hash_": "",
+        "text_": "アヴィア教団兵（伝声管）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_EM0000",
+        "subid_hash_": "",
+        "text_": "ゴブリン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_EM0000_A",
+        "subid_hash_": "",
+        "text_": "ゴブリンＡ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_EM0000_B",
+        "subid_hash_": "",
+        "text_": "ゴブリンＢ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_EM0000_C",
+        "subid_hash_": "",
+        "text_": "ゴブリンＣ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_WN0200",
+        "subid_hash_": "",
+        "text_": "ゴトル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_NP0300_01_DUMMY",
+        "subid_hash_": "",
+        "text_": "ローラン（通信）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_NP0300_02_DUMMY",
+        "subid_hash_": "",
+        "text_": "ローラン（無線）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_NP0600_DUMMY",
+        "subid_hash_": "",
+        "text_": "ザスバ（通信）"
+      }
+    },
+    {
+      "column_": { "id_hash_": "TXT_SC_PLAYER", "subid_hash_": "", "text_": "" }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_PLAYER",
+        "subid_hash_": "note_list01",
+        "text_": "主人公"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_PLAYER",
+        "subid_hash_": "note_list04",
+        "text_": "主人公"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_PLAYER",
+        "subid_hash_": "note_info03_data04",
+        "text_": "主人公"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_PLAYER",
+        "subid_hash_": "note_info03_data01_chr",
+        "text_": "主人公"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_PLAYER",
+        "subid_hash_": "note_info03_data01_ctgr",
+        "text_": "主人公"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_PLAYER",
+        "subid_hash_": "window_assist01",
+        "text_": "主人公"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_LOADING_PLAYER",
+        "subid_hash_": "",
+        "text_": "(主人公)"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SC_PLAYER_NP0000",
+        "subid_hash_": "",
+        "text_": "とルリア"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BA7200",
+        "subid_hash_": "",
+        "text_": "ノッカー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BA7210",
+        "subid_hash_": "",
+        "text_": "災禍の残滓"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BA7201",
+        "subid_hash_": "",
+        "text_": "ウォッチャー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BA7211",
+        "subid_hash_": "",
+        "text_": "災禍の扉"
+      }
+    },
+    {
+      "column_": { "id_hash_": "TXT_BA0350", "subid_hash_": "", "text_": "猫" }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BA2103",
+        "subid_hash_": "",
+        "text_": "戦術アンカー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BH0002",
+        "subid_hash_": "",
+        "text_": "商人の積み荷"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BH0003",
+        "subid_hash_": "",
+        "text_": "祈り場"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BH0004",
+        "subid_hash_": "",
+        "text_": "バリケード"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BH2002",
+        "subid_hash_": "",
+        "text_": "20mmエーテル機関砲"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BH2005",
+        "subid_hash_": "",
+        "text_": "コントロールユニット"
+      }
+    }
+  ]
+}

@@ -1,1 +1,1005 @@
-{"rows_":[{"column_":{"id_hash_":"TXT_STTTL_RESIST","subid_hash_":"","text_":"RESIST"}},{"column_":{"id_hash_":"TXT_STTTL_ATTACKBUFF","subid_hash_":"","text_":"攻撃UP"}},{"column_":{"id_hash_":"TXT_STTTL_ATTACKBUFF_1","subid_hash_":"","text_":"攻撃UP（{0}%）"}},{"column_":{"id_hash_":"TXT_STTTL_ATTACKBUFF_2","subid_hash_":"","text_":"攻撃UP（{0}%～{1}%）"}},{"column_":{"id_hash_":"TXT_STTTL_DEFFENCEBUFF","subid_hash_":"","text_":"防御UP"}},{"column_":{"id_hash_":"TXT_STTTL_DEFFENCEBUFF_1","subid_hash_":"","text_":"防御UP（{0}%）"}},{"column_":{"id_hash_":"TXT_STTTL_DEFFENCEBUFF_2","subid_hash_":"","text_":"防御UP（{0}%～{1}%）"}},{"column_":{"id_hash_":"TXT_STTTL_ATTACKDEBUFF","subid_hash_":"","text_":"攻撃DOWN"}},{"column_":{"id_hash_":"TXT_STTTL_ATTACKDEBUFF_1","subid_hash_":"","text_":"攻撃DOWN（{0}%）"}},{"column_":{"id_hash_":"TXT_STTTL_ATTACKDEBUFF_2","subid_hash_":"","text_":"攻撃DOWN（{0}%～{1}%）"}},{"column_":{"id_hash_":"TXT_STTTL_DEFFENCEDEBUFF","subid_hash_":"","text_":"防御DOWN"}},{"column_":{"id_hash_":"TXT_STTTL_DEFFENCEDEBUFF_1","subid_hash_":"","text_":"防御DOWN（{0}%）"}},{"column_":{"id_hash_":"TXT_STTTL_DEFFENCEDEBUFF_2","subid_hash_":"","text_":"防御DOWN（{0}%～{1}%）"}},{"column_":{"id_hash_":"TXT_STTTL_DAMAGECUT","subid_hash_":"","text_":"被ダメージカット"}},{"column_":{"id_hash_":"TXT_STTTL_DAMAGECUT_1","subid_hash_":"","text_":"被ダメージカット（{0}%）"}},{"column_":{"id_hash_":"TXT_STTTL_DAMAGECUT_2","subid_hash_":"","text_":"被ダメージカット（{0}%～{1}%）"}},{"column_":{"id_hash_":"TXT_STTTL_REGENERATE","subid_hash_":"","text_":"再生"}},{"column_":{"id_hash_":"TXT_STTTL_INVINCIBLE","subid_hash_":"","text_":"無敵"}},{"column_":{"id_hash_":"TXT_STTTL_DOUBLEATTACK","subid_hash_":"","text_":"追撃"}},{"column_":{"id_hash_":"TXT_STTTL_HYPERARMOR","subid_hash_":"","text_":"怯み無効"}},{"column_":{"id_hash_":"TXT_STTTL_ILLUSUION","subid_hash_":"","text_":"幻影"}},{"column_":{"id_hash_":"TXT_STTTL_COVER","subid_hash_":"","text_":"かばう"}},{"column_":{"id_hash_":"TXT_STTTL_COVERED","subid_hash_":"","text_":"セーフティ"}},{"column_":{"id_hash_":"TXT_STTTL_MANIGANS","subid_hash_":"","text_":"マニガンス"}},{"column_":{"id_hash_":"TXT_STTTL_PL1200ATTACKBUFF","subid_hash_":"","text_":"ヴァリアントスタンス"}},{"column_":{"id_hash_":"TXT_STTTL_PL1300ATTACKBUFF","subid_hash_":"","text_":"刀逡巡"}},{"column_":{"id_hash_":"TXT_STTTL_EM0001BUFF","subid_hash_":"","text_":""}},{"column_":{"id_hash_":"TXT_STTTL_CLEARAILMENT","subid_hash_":"","text_":"状態異常解除"}},{"column_":{"id_hash_":"TXT_STTTL_VEIL","subid_hash_":"","text_":"弱体無効"}},{"column_":{"id_hash_":"TXT_STTTL_DRAINATTACKBUFF","subid_hash_":"","text_":"吸収"}},{"column_":{"id_hash_":"TXT_STTTL_JUSTCOMBINATION","subid_hash_":"","text_":"竜気解放"}},{"column_":{"id_hash_":"TXT_STTTL_GUTS","subid_hash_":"","text_":"ガッツ"}},{"column_":{"id_hash_":"TXT_STTTL_STRENGTH","subid_hash_":"","text_":"ストレングス"}},{"column_":{"id_hash_":"TXT_STTTL_STRENGTH_1","subid_hash_":"","text_":"ストレングス（最大{0}%）"}},{"column_":{"id_hash_":"TXT_STTTL_ADVERSITY","subid_hash_":"","text_":"逆境"}},{"column_":{"id_hash_":"TXT_STTTL_ADVERSITY_1","subid_hash_":"","text_":"逆境（最大{0}%）"}},{"column_":{"id_hash_":"TXT_STTTL_CRITICALBUFF","subid_hash_":"","text_":"クリティカル確率UP"}},{"column_":{"id_hash_":"TXT_STTTL_CRITICALBUFF_1","subid_hash_":"","text_":"クリティカル確率UP（{0}%）"}},{"column_":{"id_hash_":"TXT_STTTL_PROVOCATION","subid_hash_":"","text_":"敵対心UP"}},{"column_":{"id_hash_":"TXT_STTTL_AUTOREVIVE","subid_hash_":"","text_":"自動復活"}},{"column_":{"id_hash_":"TXT_STTTL_MAGICVORTEX","subid_hash_":"","text_":"魔力の渦"}},{"column_":{"id_hash_":"TXT_STTTL_CONCENTRATION","subid_hash_":"","text_":"コンセントレーション"}},{"column_":{"id_hash_":"TXT_STTTL_IRONMAIDEN","subid_hash_":"","text_":"アイアン・メイデン"}},{"column_":{"id_hash_":"TXT_STTTL_DRAGONMODE","subid_hash_":"","text_":"竜人化"}},{"column_":{"id_hash_":"TXT_STTTL_SUPERMODE","subid_hash_":"","text_":"神威一体"}},{"column_":{"id_hash_":"TXT_STTTL_BOSSARTSAURA","subid_hash_":"","text_":"バーストオーラ"}},{"column_":{"id_hash_":"TXT_STTTL_PHANTASMAGORIA","subid_hash_":"","text_":"ファンタズマゴリア"}},{"column_":{"id_hash_":"TXT_STTTL_UNDEAD","subid_hash_":"","text_":"不死身"}},{"column_":{"id_hash_":"TXT_STTTL_EM1806AURABUFF","subid_hash_":"","text_":"アビサルグローリー"}},{"column_":{"id_hash_":"TXT_STTTL_DOUBLETAP","subid_hash_":"","text_":"ダブルタップ"}},{"column_":{"id_hash_":"TXT_STTTL_MAXHPDEBUFF","subid_hash_":"","text_":"最大HP減少"}},{"column_":{"id_hash_":"TXT_STTTL_BARRIER","subid_hash_":"","text_":"バリア"}},{"column_":{"id_hash_":"TXT_STATE_ATTACKBUFF","subid_hash_":"","text_":"攻撃力が上昇した状態"}},{"column_":{"id_hash_":"TXT_STATE_DEFFENCEBUFF","subid_hash_":"","text_":"防御力が上昇した状態"}},{"column_":{"id_hash_":"TXT_STATE_ATTACKDEBUFF","subid_hash_":"","text_":"攻撃力が減少した状態"}},{"column_":{"id_hash_":"TXT_STATE_DEFFENCEDEBUFF","subid_hash_":"","text_":"防御力が減少した状態"}},{"column_":{"id_hash_":"TXT_STATE_DAMAGECUT","subid_hash_":"","text_":"被ダメージを軽減する状態"}},{"column_":{"id_hash_":"TXT_STATE_REGENERATE","subid_hash_":"","text_":"一定時間ごとにHPが回復する状態"}},{"column_":{"id_hash_":"TXT_STATE_INVINCIBLE","subid_hash_":"","text_":"被ダメージを無効化する状態"}},{"column_":{"id_hash_":"TXT_STATE_DOUBLEATTACK","subid_hash_":"","text_":"攻撃時に追加ダメージが発生する状態"}},{"column_":{"id_hash_":"TXT_STATE_HYPERARMOR","subid_hash_":"","text_":"被ダメージ時の怯み動作を無効化する状態"}},{"column_":{"id_hash_":"TXT_STATE_ILLUSUION","subid_hash_":"","text_":"一定回数、被ダメージを無効化する状態"}},{"column_":{"id_hash_":"TXT_STATE_COVER","subid_hash_":"","text_":"仲間への攻撃を代わりに引き受ける状態"}},{"column_":{"id_hash_":"TXT_STATE_COVERED","subid_hash_":"","text_":"仲間にかばわれている状態"}},{"column_":{"id_hash_":"TXT_STATE_MANIGANS","subid_hash_":"","text_":""}},{"column_":{"id_hash_":"TXT_STATE_PL1200ATTACKBUFF","subid_hash_":"","text_":""}},{"column_":{"id_hash_":"TXT_STATE_PL1300ATTACKBUFF","subid_hash_":"","text_":""}},{"column_":{"id_hash_":"TXT_STATE_EM0001BUFF","subid_hash_":"","text_":""}},{"column_":{"id_hash_":"TXT_STATE_CLEARAILMENT","subid_hash_":"","text_":""}},{"column_":{"id_hash_":"TXT_STATE_VEIL","subid_hash_":"","text_":"弱体効果を無効化する状態"}},{"column_":{"id_hash_":"TXT_STATE_DRAINATTACKBUFF","subid_hash_":"","text_":"攻撃時に敵のHPを吸収する状態"}},{"column_":{"id_hash_":"TXT_STATE_JUSTCOMBINATION","subid_hash_":"","text_":""}},{"column_":{"id_hash_":"TXT_STATE_GUTS","subid_hash_":"","text_":"大ダメージを受けた時HP１で耐える状態"}},{"column_":{"id_hash_":"TXT_STATE_STRENGTH","subid_hash_":"","text_":"残りHPが多いほど攻撃力が上昇する状態"}},{"column_":{"id_hash_":"TXT_STATE_ADVERSITY","subid_hash_":"","text_":"残りHPが少ないほど攻撃力が上昇する状態"}},{"column_":{"id_hash_":"TXT_STATE_CRITICALBUFF","subid_hash_":"","text_":"クリティカル率が上昇した状態"}},{"column_":{"id_hash_":"TXT_STATE_PROVOCATION","subid_hash_":"","text_":"敵のターゲットになりやすい状態"}},{"column_":{"id_hash_":"TXT_STATE_AUTOREVIVE","subid_hash_":"","text_":"瀕死になった時に自動で蘇生される状態"}},{"column_":{"id_hash_":"TXT_STATE_MAGICVORTEX","subid_hash_":"","text_":"イオの攻撃が強化された状態"}},{"column_":{"id_hash_":"TXT_STATE_CONCENTRATION","subid_hash_":"","text_":"イオの攻撃のチャージ速度が上昇する状態"}},{"column_":{"id_hash_":"TXT_STATE_IRONMAIDEN","subid_hash_":"","text_":"攻撃時、設置した薔薇が追撃を行う状態"}},{"column_":{"id_hash_":"TXT_STATE_DRAGONMODE","subid_hash_":"","text_":"竜の力を引き出し、戦闘能力を高めた状態"}},{"column_":{"id_hash_":"TXT_STATE_SUPERMODE","subid_hash_":"","text_":"竜の力を纏い、戦闘能力を大きく高めた状態"}},{"column_":{"id_hash_":"TXT_STATE_BOSSARTSAURA","subid_hash_":"","text_":"あらゆる攻撃への耐性が大きく上昇した状態"}},{"column_":{"id_hash_":"TXT_STATE_PHANTASMAGORIA","subid_hash_":"","text_":"攻撃/防御/クリティカル率が上昇した状態"}},{"column_":{"id_hash_":"TXT_STATE_UNDEAD","subid_hash_":"","text_":"攻撃力が上昇し、瀕死にならない状態"}},{"column_":{"id_hash_":"TXT_STATE_EM1806AURABUFF","subid_hash_":"","text_":"防御力が上昇し、弱体効果を無効化する状態"}},{"column_":{"id_hash_":"TXT_STATE_DOUBLETAP","subid_hash_":"","text_":"ラカムの攻撃が強化された状態"}},{"column_":{"id_hash_":"TXT_STATE_MAXHPDEBUFF","subid_hash_":"","text_":"最大HPが減少した状態"}},{"column_":{"id_hash_":"TXT_STATE_BARRIER","subid_hash_":"","text_":"被ダメージを一定量無効化する状態"}},{"column_":{"id_hash_":"TXT_STATTL_POISONAILMENT","subid_hash_":"","text_":"毒"}},{"column_":{"id_hash_":"TXT_STATTL_BURNAILMENT","subid_hash_":"","text_":"灼熱"}},{"column_":{"id_hash_":"TXT_STATTL_SLOWAILMENT","subid_hash_":"","text_":"スロウ"}},{"column_":{"id_hash_":"TXT_STATTL_SLOWAILMENT_1","subid_hash_":"","text_":"スロウ（{0}%）"}},{"column_":{"id_hash_":"TXT_STATTL_STUNAILMENT","subid_hash_":"","text_":"気絶"}},{"column_":{"id_hash_":"TXT_STATTL_FROZENAILMENT","subid_hash_":"","text_":"氷結"}},{"column_":{"id_hash_":"TXT_STATTL_FROSTBITEAILMENT","subid_hash_":"","text_":"凍傷"}},{"column_":{"id_hash_":"TXT_STATTL_FROSTBITEAILMENT_1","subid_hash_":"","text_":"凍傷（{0}%）"}},{"column_":{"id_hash_":"TXT_STATTL_STONEAILMENT","subid_hash_":"","text_":"砂だるま"}},{"column_":{"id_hash_":"TXT_STATTL_PARALYZEAILMENT","subid_hash_":"","text_":"麻痺"}},{"column_":{"id_hash_":"TXT_STATTL_WATERBALLAILMENT","subid_hash_":"","text_":"水牢"}},{"column_":{"id_hash_":"TXT_STATTL_WINDDAMAGEAILMENT","subid_hash_":"","text_":""}},{"column_":{"id_hash_":"TXT_STATTL_CONFUSIONAILMENT","subid_hash_":"","text_":""}},{"column_":{"id_hash_":"TXT_STATTL_DARKNESSAILMENT","subid_hash_":"","text_":"紫銀の炎"}},{"column_":{"id_hash_":"TXT_STATTL_BINDAILMENT","subid_hash_":"","text_":"拘束"}},{"column_":{"id_hash_":"TXT_STATTL_CONFINEAILMENT","subid_hash_":"","text_":""}},{"column_":{"id_hash_":"TXT_STATTL_PROVOCATIONAILMENT","subid_hash_":"","text_":"敵対心UP（EM用）"}},{"column_":{"id_hash_":"TXT_STATTL_CAPTUREAILMENT","subid_hash_":"","text_":"拘束"}},{"column_":{"id_hash_":"TXT_STATTL_BANABILITYAILMENT","subid_hash_":"","text_":"アビリティ封印"}},{"column_":{"id_hash_":"TXT_STATTL_BANSPARTSAILMENT","subid_hash_":"","text_":"奥義封印"}},{"column_":{"id_hash_":"TXT_STATTL_DIMENSIONDMGAILMENT","subid_hash_":"","text_":"災禍"}},{"column_":{"id_hash_":"TXT_STATTL_FEARAILMENT","subid_hash_":"","text_":"恐怖"}},{"column_":{"id_hash_":"TXT_STATTL_ARVESSFERMARE","subid_hash_":"","text_":"アルベス・フェルマーレ"}},{"column_":{"id_hash_":"TXT_STATUS_POISONAILMENT","subid_hash_":"","text_":"一定時間ごとにHPが減少する状態"}},{"column_":{"id_hash_":"TXT_STATUS_BURNAILMENT","subid_hash_":"","text_":"一定時間ごとにHPが減少する状態"}},{"column_":{"id_hash_":"TXT_STATUS_SLOWAILMENT","subid_hash_":"","text_":"行動速度が低下した状態"}},{"column_":{"id_hash_":"TXT_STATUS_STUNAILMENT","subid_hash_":"","text_":"あらゆる行動ができない状態"}},{"column_":{"id_hash_":"TXT_STATUS_FROZENAILMENT","subid_hash_":"","text_":"あらゆる行動ができない状態"}},{"column_":{"id_hash_":"TXT_STATUS_FROSTBITEAILMENT","subid_hash_":"","text_":"行動速度が低下し、防御力が減少した状態"}},{"column_":{"id_hash_":"TXT_STATUS_STONEAILMENT","subid_hash_":"","text_":"行動が制限され、移動速度が低下した状態"}},{"column_":{"id_hash_":"TXT_STATUS_PARALYZEAILMENT","subid_hash_":"","text_":"あらゆる行動ができない状態"}},{"column_":{"id_hash_":"TXT_STATUS_WATERBALLAILMENT","subid_hash_":"","text_":"あらゆる行動ができない状態"}},{"column_":{"id_hash_":"TXT_STATUS_WINDDAMAGEAILMENT","subid_hash_":"","text_":""}},{"column_":{"id_hash_":"TXT_STATUS_CONFUSIONAILMENT","subid_hash_":"","text_":""}},{"column_":{"id_hash_":"TXT_STATUS_DARKNESSAILMENT","subid_hash_":"","text_":"次に紫銀の炎を受けると大爆発を起こす状態"}},{"column_":{"id_hash_":"TXT_STATUS_BINDAILMENT","subid_hash_":"","text_":""}},{"column_":{"id_hash_":"TXT_STATUS_CONFINEAILMENT","subid_hash_":"","text_":""}},{"column_":{"id_hash_":"TXT_STATUS_PROVOCATIONAILMENT","subid_hash_":"","text_":""}},{"column_":{"id_hash_":"TXT_STATUS_CAPTUREAILMENT","subid_hash_":"","text_":"あらゆる行動ができない状態"}},{"column_":{"id_hash_":"TXT_STATUS_BANABILITYAILMENT","subid_hash_":"","text_":"アビリティが使用できない状態"}},{"column_":{"id_hash_":"TXT_STATUS_BANSPARTSAILMENT","subid_hash_":"","text_":"奥義が使用できない状態"}},{"column_":{"id_hash_":"TXT_STATUS_DIMENSIONDMGAILMENT","subid_hash_":"","text_":"一定時間ごとにHPが減少する状態"}},{"column_":{"id_hash_":"TXT_STATUS_FEARAILMENT","subid_hash_":"","text_":"行動速度が低下し、防御力が減少した状態"}},{"column_":{"id_hash_":"TXT_STATUS_ARVESSFERMARE","subid_hash_":"","text_":"ゼタからのダメージが増加する状態"}}]}
+{
+  "rows_": [
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_RESIST",
+        "subid_hash_": "",
+        "text_": "RESIST"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_ATTACKBUFF",
+        "subid_hash_": "",
+        "text_": "攻撃UP"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_ATTACKBUFF_1",
+        "subid_hash_": "",
+        "text_": "攻撃UP（{0}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_ATTACKBUFF_2",
+        "subid_hash_": "",
+        "text_": "攻撃UP（{0}%～{1}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DEFFENCEBUFF",
+        "subid_hash_": "",
+        "text_": "防御UP"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DEFFENCEBUFF_1",
+        "subid_hash_": "",
+        "text_": "防御UP（{0}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DEFFENCEBUFF_2",
+        "subid_hash_": "",
+        "text_": "防御UP（{0}%～{1}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_ATTACKDEBUFF",
+        "subid_hash_": "",
+        "text_": "攻撃DOWN"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_ATTACKDEBUFF_1",
+        "subid_hash_": "",
+        "text_": "攻撃DOWN（{0}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_ATTACKDEBUFF_2",
+        "subid_hash_": "",
+        "text_": "攻撃DOWN（{0}%～{1}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DEFFENCEDEBUFF",
+        "subid_hash_": "",
+        "text_": "防御DOWN"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DEFFENCEDEBUFF_1",
+        "subid_hash_": "",
+        "text_": "防御DOWN（{0}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DEFFENCEDEBUFF_2",
+        "subid_hash_": "",
+        "text_": "防御DOWN（{0}%～{1}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DAMAGECUT",
+        "subid_hash_": "",
+        "text_": "被ダメージカット"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DAMAGECUT_1",
+        "subid_hash_": "",
+        "text_": "被ダメージカット（{0}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DAMAGECUT_2",
+        "subid_hash_": "",
+        "text_": "被ダメージカット（{0}%～{1}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_REGENERATE",
+        "subid_hash_": "",
+        "text_": "再生"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_INVINCIBLE",
+        "subid_hash_": "",
+        "text_": "無敵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DOUBLEATTACK",
+        "subid_hash_": "",
+        "text_": "追撃"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_HYPERARMOR",
+        "subid_hash_": "",
+        "text_": "怯み無効"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_ILLUSUION",
+        "subid_hash_": "",
+        "text_": "幻影"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_COVER",
+        "subid_hash_": "",
+        "text_": "かばう"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_COVERED",
+        "subid_hash_": "",
+        "text_": "セーフティ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_MANIGANS",
+        "subid_hash_": "",
+        "text_": "マニガンス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_PL1200ATTACKBUFF",
+        "subid_hash_": "",
+        "text_": "ヴァリアントスタンス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_PL1300ATTACKBUFF",
+        "subid_hash_": "",
+        "text_": "刀逡巡"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_EM0001BUFF",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_CLEARAILMENT",
+        "subid_hash_": "",
+        "text_": "状態異常解除"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_VEIL",
+        "subid_hash_": "",
+        "text_": "弱体無効"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DRAINATTACKBUFF",
+        "subid_hash_": "",
+        "text_": "吸収"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_JUSTCOMBINATION",
+        "subid_hash_": "",
+        "text_": "竜気解放"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_GUTS",
+        "subid_hash_": "",
+        "text_": "ガッツ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_STRENGTH",
+        "subid_hash_": "",
+        "text_": "ストレングス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_STRENGTH_1",
+        "subid_hash_": "",
+        "text_": "ストレングス（最大{0}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_ADVERSITY",
+        "subid_hash_": "",
+        "text_": "逆境"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_ADVERSITY_1",
+        "subid_hash_": "",
+        "text_": "逆境（最大{0}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_CRITICALBUFF",
+        "subid_hash_": "",
+        "text_": "クリティカル確率UP"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_CRITICALBUFF_1",
+        "subid_hash_": "",
+        "text_": "クリティカル確率UP（{0}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_CRITICALBUFF_2",
+        "subid_hash_": "",
+        "text_": "クリティカル確率UP（{0}%～{1}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_PROVOCATION",
+        "subid_hash_": "",
+        "text_": "敵対心UP"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_AUTOREVIVE",
+        "subid_hash_": "",
+        "text_": "自動復活"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_MAGICVORTEX",
+        "subid_hash_": "",
+        "text_": "魔力の渦"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_CONCENTRATION",
+        "subid_hash_": "",
+        "text_": "コンセントレーション"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_IRONMAIDEN",
+        "subid_hash_": "",
+        "text_": "アイアン・メイデン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DRAGONMODE",
+        "subid_hash_": "",
+        "text_": "竜人化"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_SUPERMODE",
+        "subid_hash_": "",
+        "text_": "神威一体"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_BOSSARTSAURA",
+        "subid_hash_": "",
+        "text_": "バーストオーラ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_PHANTASMAGORIA",
+        "subid_hash_": "",
+        "text_": "ファンタズマゴリア"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_UNDEAD",
+        "subid_hash_": "",
+        "text_": "不死身"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_EM1806AURABUFF",
+        "subid_hash_": "",
+        "text_": "アビサルグローリー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DOUBLETAP",
+        "subid_hash_": "",
+        "text_": "ダブルタップ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_MAXHPDEBUFF",
+        "subid_hash_": "",
+        "text_": "最大HP減少"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_BARRIER",
+        "subid_hash_": "",
+        "text_": "バリア"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DAMAGECAPUP",
+        "subid_hash_": "",
+        "text_": "ダメージ上限UP"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DAMAGEUP",
+        "subid_hash_": "",
+        "text_": "与ダメージ強化"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_PL2300KABURAYA",
+        "subid_hash_": "",
+        "text_": "殲雷の鏑矢"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_PL2300BUFF",
+        "subid_hash_": "",
+        "text_": "狙撃"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_ATTACKBUFF",
+        "subid_hash_": "",
+        "text_": "攻撃力が上昇した状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_DEFFENCEBUFF",
+        "subid_hash_": "",
+        "text_": "防御力が上昇した状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_ATTACKDEBUFF",
+        "subid_hash_": "",
+        "text_": "攻撃力が減少した状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_DEFFENCEDEBUFF",
+        "subid_hash_": "",
+        "text_": "防御力が減少した状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_DAMAGECUT",
+        "subid_hash_": "",
+        "text_": "被ダメージを軽減する状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_REGENERATE",
+        "subid_hash_": "",
+        "text_": "一定時間ごとにHPが回復する状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_INVINCIBLE",
+        "subid_hash_": "",
+        "text_": "被ダメージを無効化する状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_DOUBLEATTACK",
+        "subid_hash_": "",
+        "text_": "攻撃時に追加ダメージが発生する状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_HYPERARMOR",
+        "subid_hash_": "",
+        "text_": "被ダメージ時の怯み動作を無効化する状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_ILLUSUION",
+        "subid_hash_": "",
+        "text_": "一定回数、被ダメージを無効化する状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_COVER",
+        "subid_hash_": "",
+        "text_": "仲間への攻撃を代わりに引き受ける状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_COVERED",
+        "subid_hash_": "",
+        "text_": "仲間にかばわれている状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_MANIGANS",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_PL1200ATTACKBUFF",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_PL1300ATTACKBUFF",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_EM0001BUFF",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_CLEARAILMENT",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_VEIL",
+        "subid_hash_": "",
+        "text_": "弱体効果を無効化する状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_DRAINATTACKBUFF",
+        "subid_hash_": "",
+        "text_": "攻撃時に敵のHPを吸収する状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_JUSTCOMBINATION",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_GUTS",
+        "subid_hash_": "",
+        "text_": "大ダメージを受けた時HP１で耐える状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_STRENGTH",
+        "subid_hash_": "",
+        "text_": "残りHPが多いほど攻撃力が上昇する状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_ADVERSITY",
+        "subid_hash_": "",
+        "text_": "残りHPが少ないほど攻撃力が上昇する状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_CRITICALBUFF",
+        "subid_hash_": "",
+        "text_": "クリティカル率が上昇した状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_PROVOCATION",
+        "subid_hash_": "",
+        "text_": "敵のターゲットになりやすい状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_AUTOREVIVE",
+        "subid_hash_": "",
+        "text_": "瀕死になった時に自動で蘇生される状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_MAGICVORTEX",
+        "subid_hash_": "",
+        "text_": "イオの攻撃が強化された状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_CONCENTRATION",
+        "subid_hash_": "",
+        "text_": "イオの攻撃のチャージ速度が上昇する状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_IRONMAIDEN",
+        "subid_hash_": "",
+        "text_": "攻撃時、設置した薔薇が追撃を行う状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_DRAGONMODE",
+        "subid_hash_": "",
+        "text_": "竜の力を引き出し、戦闘能力を高めた状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_SUPERMODE",
+        "subid_hash_": "",
+        "text_": "竜の力を纏い、戦闘能力を大きく高めた状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_BOSSARTSAURA",
+        "subid_hash_": "",
+        "text_": "あらゆる攻撃への耐性が大きく上昇した状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_PHANTASMAGORIA",
+        "subid_hash_": "",
+        "text_": "攻撃/防御/クリティカル率が上昇した状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_UNDEAD",
+        "subid_hash_": "",
+        "text_": "攻撃力が上昇し、瀕死にならない状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_EM1806AURABUFF",
+        "subid_hash_": "",
+        "text_": "防御力が上昇し、弱体効果を無効化する状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_DOUBLETAP",
+        "subid_hash_": "",
+        "text_": "ラカムの攻撃が強化された状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_MAXHPDEBUFF",
+        "subid_hash_": "",
+        "text_": "最大HPが減少した状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_BARRIER",
+        "subid_hash_": "",
+        "text_": "被ダメージを一定量無効化する状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_DAMAGECAPUP",
+        "subid_hash_": "",
+        "text_": "ダメージ上限が上昇した状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_DAMAGEUP",
+        "subid_hash_": "",
+        "text_": "与ダメージが上昇した状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_PL2300KABURAYA",
+        "subid_hash_": "",
+        "text_": "攻撃アビリティの性能が強化された状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_PL2300BUFF",
+        "subid_hash_": "",
+        "text_": "魔眼Lvの上昇量が増加する状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_POISONAILMENT",
+        "subid_hash_": "",
+        "text_": "毒"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_BURNAILMENT",
+        "subid_hash_": "",
+        "text_": "灼熱"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_SLOWAILMENT",
+        "subid_hash_": "",
+        "text_": "スロウ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_SLOWAILMENT_1",
+        "subid_hash_": "",
+        "text_": "スロウ（{0}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_STUNAILMENT",
+        "subid_hash_": "",
+        "text_": "気絶"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_FROZENAILMENT",
+        "subid_hash_": "",
+        "text_": "氷結"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_FROSTBITEAILMENT",
+        "subid_hash_": "",
+        "text_": "凍傷"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_FROSTBITEAILMENT_1",
+        "subid_hash_": "",
+        "text_": "凍傷（{0}%）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_STONEAILMENT",
+        "subid_hash_": "",
+        "text_": "砂だるま"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_PARALYZEAILMENT",
+        "subid_hash_": "",
+        "text_": "麻痺"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_WATERBALLAILMENT",
+        "subid_hash_": "",
+        "text_": "水牢"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_WINDDAMAGEAILMENT",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_CONFUSIONAILMENT",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_DARKNESSAILMENT",
+        "subid_hash_": "",
+        "text_": "紫銀の炎"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_BINDAILMENT",
+        "subid_hash_": "",
+        "text_": "拘束"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_CONFINEAILMENT",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_PROVOCATIONAILMENT",
+        "subid_hash_": "",
+        "text_": "敵対心UP（EM用）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_CAPTUREAILMENT",
+        "subid_hash_": "",
+        "text_": "拘束"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_BANABILITYAILMENT",
+        "subid_hash_": "",
+        "text_": "アビリティ封印"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_BANSPARTSAILMENT",
+        "subid_hash_": "",
+        "text_": "奥義封印"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_DIMENSIONDMGAILMENT",
+        "subid_hash_": "",
+        "text_": "災禍"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_FEARAILMENT",
+        "subid_hash_": "",
+        "text_": "恐怖"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATTL_ARVESSFERMARE",
+        "subid_hash_": "",
+        "text_": "アルベス・フェルマーレ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_POISONAILMENT",
+        "subid_hash_": "",
+        "text_": "一定時間ごとにHPが減少する状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_BURNAILMENT",
+        "subid_hash_": "",
+        "text_": "一定時間ごとにHPが減少する状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_SLOWAILMENT",
+        "subid_hash_": "",
+        "text_": "行動速度が低下した状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_STUNAILMENT",
+        "subid_hash_": "",
+        "text_": "あらゆる行動ができない状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_FROZENAILMENT",
+        "subid_hash_": "",
+        "text_": "あらゆる行動ができない状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_FROSTBITEAILMENT",
+        "subid_hash_": "",
+        "text_": "行動速度が低下し、防御力が減少した状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_STONEAILMENT",
+        "subid_hash_": "",
+        "text_": "行動が制限され、移動速度が低下した状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_PARALYZEAILMENT",
+        "subid_hash_": "",
+        "text_": "あらゆる行動ができない状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_WATERBALLAILMENT",
+        "subid_hash_": "",
+        "text_": "あらゆる行動ができない状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_WINDDAMAGEAILMENT",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_CONFUSIONAILMENT",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_DARKNESSAILMENT",
+        "subid_hash_": "",
+        "text_": "次に紫銀の炎を受けると大爆発を起こす状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_BINDAILMENT",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_CONFINEAILMENT",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_PROVOCATIONAILMENT",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_CAPTUREAILMENT",
+        "subid_hash_": "",
+        "text_": "あらゆる行動ができない状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_BANABILITYAILMENT",
+        "subid_hash_": "",
+        "text_": "アビリティが使用できない状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_BANSPARTSAILMENT",
+        "subid_hash_": "",
+        "text_": "奥義が使用できない状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_DIMENSIONDMGAILMENT",
+        "subid_hash_": "",
+        "text_": "一定時間ごとにHPが減少する状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_FEARAILMENT",
+        "subid_hash_": "",
+        "text_": "行動速度が低下し、防御力が減少した状態"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATUS_ARVESSFERMARE",
+        "subid_hash_": "",
+        "text_": "ゼタからのダメージが増加する状態"
+      }
+    }
+  ]
+}

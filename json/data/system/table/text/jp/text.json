@@ -1290,6 +1290,76 @@
     },
     {
       "column_": {
+        "id_hash_": "TXT_WEP_NAME_PL2200_01",
+        "subid_hash_": "",
+        "text_": "セッテ・ディ・スパーダ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_NAME_PL2200_02",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_NAME_PL2200_03",
+        "subid_hash_": "",
+        "text_": "天枢・極星剣"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_NAME_PL2200_03_MAX",
+        "subid_hash_": "",
+        "text_": "［七煌］天枢・極星剣"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_NAME_PL2200_07",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_NAME_PL2300_01",
+        "subid_hash_": "",
+        "text_": "アルーフネス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_NAME_PL2300_02",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_NAME_PL2300_03",
+        "subid_hash_": "",
+        "text_": "真滅・覇王弓"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_NAME_PL2300_03_MAX",
+        "subid_hash_": "",
+        "text_": "［二諍］真滅・覇王弓"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_NAME_PL2300_07",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
         "id_hash_": "TXT_WEP_NAME_NP0300_01",
         "subid_hash_": "",
         "text_": ""
@@ -2578,6 +2648,76 @@
     },
     {
       "column_": {
+        "id_hash_": "TXT_WEP_EXPLAIN_PL2200_01",
+        "subid_hash_": "",
+        "text_": "見たものが息をするのも忘れるほど、妖しくも美しく輝く刀身を持つ剣。\n鏡が如き刃は使い手の真なる姿を映し出し、覚悟と意思と、戦いの意味を質すという。\nその問いに淀みなく答えることができたなら、剣は十全の力を発揮するだろう。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_EXPLAIN_PL2200_02",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_EXPLAIN_PL2200_03",
+        "subid_hash_": "",
+        "text_": "剣を極めし者は果てなき闘争に身を置かれる。\n掲げる信念を籠めた峻烈な斬撃は、空と星の悪縁を断ち切るかの如く。\n荒々しく無骨にして流麗な刀身に輝く七つの星に立てた誓いは、ただ成就の時を待つ。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_EXPLAIN_PL2200_03_MAX",
+        "subid_hash_": "",
+        "text_": "星の海から力を引き出すたび、剣は徐々に本来あるべき姿へと変容していく。\n最強の剣は、如何に堅牢な守りも無形で柔和な流水であっても切り裂く性質を持つ。\nいわば破壊の化身であり、心無き者が手にした時、この世の破滅の呼び水となる。\n空の支配者にさえ成り得る力を持ちながらも、天星剣王は穏やかに安寧を願う。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_EXPLAIN_PL2200_07",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_EXPLAIN_PL2300_01",
+        "subid_hash_": "",
+        "text_": "狩人が初めて獲物を仕留めた時に授かったという思い入れのある一張。\n数限りない出会いと別れの中、いかなる時も傍にあった弓は決して使い手を裏切らない。\n最強の射手により弾かれる弦の音は、竪琴が旋律を奏でるかのように響く。\nその音色は標的にとっての終幕――其の命運が尽きる瞬間を美しく彩る。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_EXPLAIN_PL2300_02",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_EXPLAIN_PL2300_03",
+        "subid_hash_": "",
+        "text_": "魔眼の狩人が捉えるは天翔ける光条。其はこの世のありとあらゆる不条理と困難を穿つ。\n吹きすさぶ嵐、焼き付ける業火、白銀に染める吹雪でさえその通し矢を妨ぐ事能わず、\nただ孤独だけが心を乱し、一矢を歪める。なればこそ、覇王となりて孤高を極めん。\n化け物となり果て、王とは名ばかりの修羅と成りて。最強の名に如何なる意を成さん。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_EXPLAIN_PL2300_03_MAX",
+        "subid_hash_": "",
+        "text_": "孤独を極めた弓の王は、やがて力の頂へと至る。\n遥か高みより望む世界は、どうしようもなく空虚な灰がかった景色。\n絆の喪失が心の平穏を奪う。弱さを生むから、自ら“ひとり”を選んだはずなのに。\n孤高の狩人を救うは、背中を追い続けてくれた只ひとりの――真の友。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_EXPLAIN_PL2300_07",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
         "id_hash_": "TXT_WEP_EXPLAIN_NP0300_01",
         "subid_hash_": "",
         "text_": ""
@@ -3257,6 +3397,20 @@
     },
     {
       "column_": {
+        "id_hash_": "TXT_ITEM_14_0050",
+        "subid_hash_": "",
+        "text_": "天星のメダリオン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_14_0051",
+        "subid_hash_": "",
+        "text_": "窮極たる器の極意"
+      }
+    },
+    {
+      "column_": {
         "id_hash_": "TXT_ITEM_15_0000",
         "subid_hash_": "",
         "text_": "ラファール・コイン"
@@ -3607,6 +3761,20 @@
     },
     {
       "column_": {
+        "id_hash_": "TXT_ITEM_23_0001",
+        "subid_hash_": "",
+        "text_": "シエテ専用解放チケット"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_23_0002",
+        "subid_hash_": "",
+        "text_": "ソーン専用解放チケット"
+      }
+    },
+    {
+      "column_": {
         "id_hash_": "TXT_ITEM_30_0000",
         "subid_hash_": "",
         "text_": "ウェポンミラージュ"
@@ -3855,6 +4023,34 @@
         "id_hash_": "TXT_ITEM_32_0031",
         "subid_hash_": "",
         "text_": "ウハール・コア"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_32_0040",
+        "subid_hash_": "",
+        "text_": "暴乱の切っ先"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_32_0041",
+        "subid_hash_": "",
+        "text_": "暴乱の兆し"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_32_0042",
+        "subid_hash_": "",
+        "text_": "慟哭の石"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_32_0043",
+        "subid_hash_": "",
+        "text_": "潰えし凶尖"
       }
     },
     {
@@ -4198,6 +4394,13 @@
         "id_hash_": "TXT_ITEM_70_0015",
         "subid_hash_": "",
         "text_": "キャラクターカラーパック３"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_70_0016",
+        "subid_hash_": "",
+        "text_": "キャラクターカラーパック４"
       }
     },
     {
@@ -6967,6 +7170,62 @@
     },
     {
       "column_": {
+        "id_hash_": "TXT_ITEM_INFO_14_0050",
+        "subid_hash_": "",
+        "text_": "特定の依頼で入手できる交換素材\n集めることで貴重な報酬と交換できる"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_14_0050",
+        "subid_hash_": "item_info01",
+        "text_": "特定の依頼で入手できる交換素材\n集めることで貴重な報酬と交換できる"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_14_0050",
+        "subid_hash_": "note_info03_data02",
+        "text_": "特定の依頼で入手できる交換素材\n集めることで貴重な報酬と交換できる"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_14_0050",
+        "subid_hash_": "var00_item_info01",
+        "text_": "特定の依頼で入手できる交換素材\n集めることで貴重な報酬と交換できる"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_14_0051",
+        "subid_hash_": "",
+        "text_": "窮極の力を持つ証となる黄金の燈火\n集めることで貴重な報酬と交換できる"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_14_0051",
+        "subid_hash_": "item_info01",
+        "text_": "窮極の力を持つ証となる黄金の燈火\n集めることで貴重な報酬と交換できる"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_14_0051",
+        "subid_hash_": "note_info03_data02",
+        "text_": "窮極の力を持つ証となる黄金の燈火\n集めることで貴重な報酬と交換できる"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_14_0051",
+        "subid_hash_": "var00_item_info01",
+        "text_": "窮極の力を持つ証となる黄金の燈火\n集めることで貴重な報酬と交換できる"
+      }
+    },
+    {
+      "column_": {
         "id_hash_": "TXT_ITEM_INFO_15_0000",
         "subid_hash_": "",
         "text_": "騎空団連合ラファール発行の記念コイン\nよろず屋シェロと提携しており\n集めることで任意のトレジャーと交換できる"
@@ -7473,56 +7732,56 @@
       "column_": {
         "id_hash_": "TXT_ITEM_INFO_18_0000",
         "subid_hash_": "",
-        "text_": "全てを尽くした激戦の中で、\nルシファーの躰から零れ落ちた漆黒の物質"
+        "text_": "全てを尽くした激戦の中で\nルシファーの躰から零れ落ちた漆黒の物質"
       }
     },
     {
       "column_": {
         "id_hash_": "TXT_ITEM_INFO_18_0000",
         "subid_hash_": "item_info01",
-        "text_": "全てを尽くした激戦の中で、\nルシファーの躰から零れ落ちた漆黒の物質"
+        "text_": "全てを尽くした激戦の中で\nルシファーの躰から零れ落ちた漆黒の物質"
       }
     },
     {
       "column_": {
         "id_hash_": "TXT_ITEM_INFO_18_0000",
         "subid_hash_": "note_info03_data02",
-        "text_": "全てを尽くした激戦の中で、\nルシファーの躰から零れ落ちた漆黒の物質"
+        "text_": "全てを尽くした激戦の中で\nルシファーの躰から零れ落ちた漆黒の物質"
       }
     },
     {
       "column_": {
         "id_hash_": "TXT_ITEM_INFO_18_0000",
         "subid_hash_": "var00_item_info01",
-        "text_": "全てを尽くした激戦の中で、\nルシファーの躰から零れ落ちた漆黒の物質"
+        "text_": "全てを尽くした激戦の中で\nルシファーの躰から零れ落ちた漆黒の物質"
       }
     },
     {
       "column_": {
         "id_hash_": "TXT_ITEM_INFO_18_0001",
         "subid_hash_": "",
-        "text_": "測定できない巨大な力が込められている結晶。\n近くにいるだけで気を奪われそうだ"
+        "text_": "測定できない巨大な力が込められている結晶\n近くにいるだけで気を奪われそうだ"
       }
     },
     {
       "column_": {
         "id_hash_": "TXT_ITEM_INFO_18_0001",
         "subid_hash_": "item_info01",
-        "text_": "測定できない巨大な力が込められている結晶。\n近くにいるだけで気を奪われそうだ"
+        "text_": "測定できない巨大な力が込められている結晶\n近くにいるだけで気を奪われそうだ"
       }
     },
     {
       "column_": {
         "id_hash_": "TXT_ITEM_INFO_18_0001",
         "subid_hash_": "note_info03_data02",
-        "text_": "測定できない巨大な力が込められている結晶。\n近くにいるだけで気を奪われそうだ"
+        "text_": "測定できない巨大な力が込められている結晶\n近くにいるだけで気を奪われそうだ"
       }
     },
     {
       "column_": {
         "id_hash_": "TXT_ITEM_INFO_18_0001",
         "subid_hash_": "var00_item_info01",
-        "text_": "測定できない巨大な力が込められている結晶。\n近くにいるだけで気を奪われそうだ"
+        "text_": "測定できない巨大な力が込められている結晶\n近くにいるだけで気を奪われそうだ"
       }
     },
     {
@@ -8157,6 +8416,62 @@
     },
     {
       "column_": {
+        "id_hash_": "TXT_ITEM_INFO_23_0001",
+        "subid_hash_": "",
+        "text_": "騎空団の団員を招致する案内状\nよろず屋シェロで使えば\nシエテが駆け付けてくれる"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_23_0001",
+        "subid_hash_": "item_info01",
+        "text_": "騎空団の団員を招致する案内状\nよろず屋シェロで使えば\nシエテが駆け付けてくれる"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_23_0001",
+        "subid_hash_": "note_info03_data02",
+        "text_": "騎空団の団員を招致する案内状\nよろず屋シェロで使えば\nシエテが駆け付けてくれる"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_23_0001",
+        "subid_hash_": "var00_item_info01",
+        "text_": "騎空団の団員を招致する案内状\nよろず屋シェロで使えば\nシエテが駆け付けてくれる"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_23_0002",
+        "subid_hash_": "",
+        "text_": "騎空団の団員を招致する案内状\nよろず屋シェロで使えば\nソーンが駆け付けてくれる"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_23_0002",
+        "subid_hash_": "item_info01",
+        "text_": "騎空団の団員を招致する案内状\nよろず屋シェロで使えば\nソーンが駆け付けてくれる"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_23_0002",
+        "subid_hash_": "note_info03_data02",
+        "text_": "騎空団の団員を招致する案内状\nよろず屋シェロで使えば\nソーンが駆け付けてくれる"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_23_0002",
+        "subid_hash_": "var00_item_info01",
+        "text_": "騎空団の団員を招致する案内状\nよろず屋シェロで使えば\nソーンが駆け付けてくれる"
+      }
+    },
+    {
+      "column_": {
         "id_hash_": "TXT_ITEM_INFO_30_0000",
         "subid_hash_": "",
         "text_": "武器が宿した力はひとつ所へ集まり\nやがてこの宝玉に辿り着く\nその輝きは数多の武器へと受け継がれ\n新たな力となる"
@@ -9161,6 +9476,118 @@
         "id_hash_": "TXT_ITEM_INFO_32_0031",
         "subid_hash_": "var00_item_info01",
         "text_": "タイユタール Mk-IIのコアユニット\n旧式とは比較にならないエーテル出力を備え\n搭載された多数兵器を十全に運用可能"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0040",
+        "subid_hash_": "",
+        "text_": "ベヒーモスの獰猛な爪"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0040",
+        "subid_hash_": "item_info01",
+        "text_": "ベヒーモスの獰猛な爪"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0040",
+        "subid_hash_": "note_info03_data02",
+        "text_": "ベヒーモスの獰猛な爪"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0040",
+        "subid_hash_": "var00_item_info01",
+        "text_": "ベヒーモスの獰猛な爪"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0041",
+        "subid_hash_": "",
+        "text_": "ベヒーモスの冥き翼\n永い時を経て滑空機能を失った器官\n進化の過程で破滅的な膂力に特化した\n狂暴な個体のみが残存している"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0041",
+        "subid_hash_": "item_info01",
+        "text_": "ベヒーモスの冥き翼\n永い時を経て滑空機能を失った器官\n進化の過程で破滅的な膂力に特化した\n狂暴な個体のみが残存している"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0041",
+        "subid_hash_": "note_info03_data02",
+        "text_": "ベヒーモスの冥き翼\n永い時を経て滑空機能を失った器官\n進化の過程で破滅的な膂力に特化した\n狂暴な個体のみが残存している"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0041",
+        "subid_hash_": "var00_item_info01",
+        "text_": "ベヒーモスの冥き翼\n永い時を経て滑空機能を失った器官\n進化の過程で破滅的な膂力に特化した\n狂暴な個体のみが残存している"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0042",
+        "subid_hash_": "",
+        "text_": "かつて獣人がベヒーモスに取り付けた頭飾り\n強大な力を有するまで育った個体は\n暴力を以て全ての存在を破壊し尽くす\nその対象は飼い主も例外ではない"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0042",
+        "subid_hash_": "item_info01",
+        "text_": "かつて獣人がベヒーモスに取り付けた頭飾り\n強大な力を有するまで育った個体は\n暴力を以て全ての存在を破壊し尽くす\nその対象は飼い主も例外ではない"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0042",
+        "subid_hash_": "note_info03_data02",
+        "text_": "かつて獣人がベヒーモスに取り付けた頭飾り\n強大な力を有するまで育った個体は\n暴力を以て全ての存在を破壊し尽くす\nその対象は飼い主も例外ではない"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0042",
+        "subid_hash_": "var00_item_info01",
+        "text_": "かつて獣人がベヒーモスに取り付けた頭飾り\n強大な力を有するまで育った個体は\n暴力を以て全ての存在を破壊し尽くす\nその対象は飼い主も例外ではない"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0043",
+        "subid_hash_": "",
+        "text_": "歴戦のベヒーモスの雄大な角\n幾千もの騎空士を屠ってきた凶尖は\n鋼鉄の重鎧すらも容易に貫く"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0043",
+        "subid_hash_": "item_info01",
+        "text_": "歴戦のベヒーモスの雄大な角\n幾千もの騎空士を屠ってきた凶尖は\n鋼鉄の重鎧すらも容易に貫く"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0043",
+        "subid_hash_": "note_info03_data02",
+        "text_": "歴戦のベヒーモスの雄大な角\n幾千もの騎空士を屠ってきた凶尖は\n鋼鉄の重鎧すらも容易に貫く"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0043",
+        "subid_hash_": "var00_item_info01",
+        "text_": "歴戦のベヒーモスの雄大な角\n幾千もの騎空士を屠ってきた凶尖は\n鋼鉄の重鎧すらも容易に貫く"
       }
     },
     {
@@ -10567,28 +10994,28 @@
       "column_": {
         "id_hash_": "TXT_ITEM_INFO_70_0012",
         "subid_hash_": "",
-        "text_": "ジークフリートが、謀略により逆賊の汚名を着せられ、それでも尚、\n先王と国にのために尽力した時に使用した忠義の兜。\n素性を隠して行動を起こさなければいけない時には、今もよく用いられる。"
+        "text_": "ジークフリートが、謀略により逆賊の汚名を着せられ、それでも尚、\n先王と国のために尽力した時に使用した忠義の兜。\n素性を隠して行動を起こさなければいけない時には、今もよく用いられる。"
       }
     },
     {
       "column_": {
         "id_hash_": "TXT_ITEM_INFO_70_0012",
         "subid_hash_": "item_info01",
-        "text_": "ジークフリートが、謀略により逆賊の汚名を着せられ、それでも尚、\n先王と国にのために尽力した時に使用した忠義の兜。\n素性を隠して行動を起こさなければいけない時には、今もよく用いられる。"
+        "text_": "ジークフリートが、謀略により逆賊の汚名を着せられ、それでも尚、\n先王と国のために尽力した時に使用した忠義の兜。\n素性を隠して行動を起こさなければいけない時には、今もよく用いられる。"
       }
     },
     {
       "column_": {
         "id_hash_": "TXT_ITEM_INFO_70_0012",
         "subid_hash_": "note_info03_data02",
-        "text_": "ジークフリートが、謀略により逆賊の汚名を着せられ、それでも尚、\n先王と国にのために尽力した時に使用した忠義の兜。\n素性を隠して行動を起こさなければいけない時には、今もよく用いられる。"
+        "text_": "ジークフリートが、謀略により逆賊の汚名を着せられ、それでも尚、\n先王と国のために尽力した時に使用した忠義の兜。\n素性を隠して行動を起こさなければいけない時には、今もよく用いられる。"
       }
     },
     {
       "column_": {
         "id_hash_": "TXT_ITEM_INFO_70_0012",
         "subid_hash_": "var00_item_info01",
-        "text_": "ジークフリートが、謀略により逆賊の汚名を着せられ、それでも尚、\n先王と国にのために尽力した時に使用した忠義の兜。\n素性を隠して行動を起こさなければいけない時には、今もよく用いられる。"
+        "text_": "ジークフリートが、謀略により逆賊の汚名を着せられ、それでも尚、\n先王と国のために尽力した時に使用した忠義の兜。\n素性を隠して行動を起こさなければいけない時には、今もよく用いられる。"
       }
     },
     {
@@ -10673,6 +11100,34 @@
         "id_hash_": "TXT_ITEM_INFO_70_0015",
         "subid_hash_": "var00_item_info01",
         "text_": "よろず屋シェロの伝手で手に入れた、とある仕立屋のオーダーメイド品。\n衣装のアレンジを担当した職人のメモが同封されている。\n「この度は皆様の、一風変わった衣装パックをご用意しました」\n「とってもドキドキな装いの数々を、ぜひお楽しみ下さいまし♪」"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_70_0017",
+        "subid_hash_": "",
+        "text_": "よろず屋シェロの伝手で手に入れた、とある仕立屋のオーダーメイド品。\n衣装のアレンジを担当した職人のメモが同封されている。\n「この度は皆様の、ゴージャスなフルセット衣装をご用意しました」\n「とってもピカピカで豊かな装いを、ぜひご堪能下さいまし♪」"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_70_0017",
+        "subid_hash_": "item_info01",
+        "text_": "よろず屋シェロの伝手で手に入れた、とある仕立屋のオーダーメイド品。\n衣装のアレンジを担当した職人のメモが同封されている。\n「この度は皆様の、ゴージャスなフルセット衣装をご用意しました」\n「とってもピカピカで豊かな装いを、ぜひご堪能下さいまし♪」"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_70_0017",
+        "subid_hash_": "note_info03_data02",
+        "text_": "よろず屋シェロの伝手で手に入れた、とある仕立屋のオーダーメイド品。\n衣装のアレンジを担当した職人のメモが同封されている。\n「この度は皆様の、ゴージャスなフルセット衣装をご用意しました」\n「とってもピカピカで豊かな装いを、ぜひご堪能下さいまし♪」"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_70_0017",
+        "subid_hash_": "var00_item_info01",
+        "text_": "よろず屋シェロの伝手で手に入れた、とある仕立屋のオーダーメイド品。\n衣装のアレンジを担当した職人のメモが同封されている。\n「この度は皆様の、ゴージャスなフルセット衣装をご用意しました」\n「とってもピカピカで豊かな装いを、ぜひご堪能下さいまし♪」"
       }
     },
     {
@@ -18774,6 +19229,7 @@
         "text_": "クイックチャージ V＋"
       }
     },
+    { "column_": { "id_hash_": "", "subid_hash_": "", "text_": "" } },
     {
       "column_": {
         "id_hash_": "TXT_GEEN_036_23",
@@ -19574,6 +20030,517 @@
     },
     {
       "column_": {
+        "id_hash_": "TXT_GEEN_170_04",
+        "subid_hash_": "",
+        "text_": "剣聖の練気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_170_54",
+        "subid_hash_": "",
+        "text_": "剣聖の閃刃"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_170_64",
+        "subid_hash_": "",
+        "text_": "剣聖の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_170_74",
+        "subid_hash_": "",
+        "text_": "涯ての七星＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_171_04",
+        "subid_hash_": "",
+        "text_": "魔眼の万箭"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_171_54",
+        "subid_hash_": "",
+        "text_": "魔眼の凛翔"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_171_64",
+        "subid_hash_": "",
+        "text_": "魔眼の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_171_74",
+        "subid_hash_": "",
+        "text_": "涯ての二王＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_114_64",
+        "subid_hash_": "",
+        "text_": "ブレイブハート"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_115_64",
+        "subid_hash_": "",
+        "text_": "守護者の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_116_64",
+        "subid_hash_": "",
+        "text_": "操舵士の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_117_64",
+        "subid_hash_": "",
+        "text_": "魔導士の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_118_64",
+        "subid_hash_": "",
+        "text_": "老兵の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_119_64",
+        "subid_hash_": "",
+        "text_": "薔薇の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_125_64",
+        "subid_hash_": "",
+        "text_": "聖騎士の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_128_64",
+        "subid_hash_": "",
+        "text_": "古今無双の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_120_64",
+        "subid_hash_": "",
+        "text_": "幽幻の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_127_64",
+        "subid_hash_": "",
+        "text_": "斬姫の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_121_64",
+        "subid_hash_": "",
+        "text_": "白竜の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_122_64",
+        "subid_hash_": "",
+        "text_": "勇士の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_123_64",
+        "subid_hash_": "",
+        "text_": "王者の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_124_64",
+        "subid_hash_": "",
+        "text_": "竜殺しの戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_129_64",
+        "subid_hash_": "",
+        "text_": "極致の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_126_64",
+        "subid_hash_": "",
+        "text_": "変幻自在の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_131_64",
+        "subid_hash_": "",
+        "text_": "真紅の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_132_64",
+        "subid_hash_": "",
+        "text_": "冥闇の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_130_64",
+        "subid_hash_": "",
+        "text_": "オルタナティブハート"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_170_90",
+        "subid_hash_": "",
+        "text_": "剣聖の覚醒＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_171_90",
+        "subid_hash_": "",
+        "text_": "魔眼の覚醒＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_170_91",
+        "subid_hash_": "",
+        "text_": "剣聖の練気＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_170_92",
+        "subid_hash_": "",
+        "text_": "剣聖の閃刃＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_170_93",
+        "subid_hash_": "",
+        "text_": "剣聖の戦気＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_171_91",
+        "subid_hash_": "",
+        "text_": "魔眼の万箭＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_171_92",
+        "subid_hash_": "",
+        "text_": "魔眼の凛翔＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_171_93",
+        "subid_hash_": "",
+        "text_": "魔眼の戦気＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_114_93",
+        "subid_hash_": "",
+        "text_": "ブレイブハート＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_115_93",
+        "subid_hash_": "",
+        "text_": "守護者の戦気＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_116_93",
+        "subid_hash_": "",
+        "text_": "操舵士の戦気＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_117_93",
+        "subid_hash_": "",
+        "text_": "魔導士の戦気＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_118_93",
+        "subid_hash_": "",
+        "text_": "老兵の戦気＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_119_93",
+        "subid_hash_": "",
+        "text_": "薔薇の戦気＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_125_93",
+        "subid_hash_": "",
+        "text_": "聖騎士の戦気＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_128_93",
+        "subid_hash_": "",
+        "text_": "古今無双の戦気＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_120_93",
+        "subid_hash_": "",
+        "text_": "幽幻の戦気＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_127_93",
+        "subid_hash_": "",
+        "text_": "斬姫の戦気＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_121_93",
+        "subid_hash_": "",
+        "text_": "白竜の戦気＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_122_93",
+        "subid_hash_": "",
+        "text_": "勇士の戦気＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_123_93",
+        "subid_hash_": "",
+        "text_": "王者の戦気＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_124_93",
+        "subid_hash_": "",
+        "text_": "竜殺しの戦気＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_129_93",
+        "subid_hash_": "",
+        "text_": "極致の戦気＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_126_93",
+        "subid_hash_": "",
+        "text_": "変幻自在の戦気＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_131_93",
+        "subid_hash_": "",
+        "text_": "真紅の戦気＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_132_93",
+        "subid_hash_": "",
+        "text_": "冥闇の戦気＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_130_93",
+        "subid_hash_": "",
+        "text_": "オルタナティブハート＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_164_00",
+        "subid_hash_": "",
+        "text_": "アルティメット・カニジーン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_165_04",
+        "subid_hash_": "",
+        "text_": "トレジャーボーナス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_166_00",
+        "subid_hash_": "",
+        "text_": "金剛"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_166_01",
+        "subid_hash_": "",
+        "text_": "金剛 II"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_166_02",
+        "subid_hash_": "",
+        "text_": "金剛 III"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_166_03",
+        "subid_hash_": "",
+        "text_": "金剛 IV"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_166_04",
+        "subid_hash_": "",
+        "text_": "金剛 V"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_166_22",
+        "subid_hash_": "",
+        "text_": "金剛 III＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_166_23",
+        "subid_hash_": "",
+        "text_": "金剛 IV＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_166_24",
+        "subid_hash_": "",
+        "text_": "金剛 V＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_167_04",
+        "subid_hash_": "",
+        "text_": "オートポーション"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_168_00",
+        "subid_hash_": "",
+        "text_": "約定"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_168_01",
+        "subid_hash_": "",
+        "text_": "約定 II"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_168_02",
+        "subid_hash_": "",
+        "text_": "約定 III"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_168_03",
+        "subid_hash_": "",
+        "text_": "約定 IV"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_168_04",
+        "subid_hash_": "",
+        "text_": "約定 V"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_168_22",
+        "subid_hash_": "",
+        "text_": "約定 III＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_168_23",
+        "subid_hash_": "",
+        "text_": "約定 IV＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_168_24",
+        "subid_hash_": "",
+        "text_": "約定 V＋"
+      }
+    },
+    {
+      "column_": {
         "id_hash_": "TXT_GEEN_210_94",
         "subid_hash_": "",
         "text_": "守護 V＋"
@@ -19598,6 +20565,34 @@
         "id_hash_": "TXT_GEEN_213_94",
         "subid_hash_": "",
         "text_": "ガード性能 V＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_220_94",
+        "subid_hash_": "",
+        "text_": "フラジャイルドッジ＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_221_94",
+        "subid_hash_": "",
+        "text_": "ダメージ上限 V＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_222_94",
+        "subid_hash_": "",
+        "text_": "ポーション所持数 V＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_223_94",
+        "subid_hash_": "",
+        "text_": "暴君 V＋"
       }
     },
     {
@@ -29255,6 +30250,230 @@
     },
     {
       "column_": {
+        "id_hash_": "TXT_AB_PL2200_01",
+        "subid_hash_": "",
+        "text_": "バリード"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_01_CG",
+        "subid_hash_": "",
+        "text_": "バリード"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_02",
+        "subid_hash_": "",
+        "text_": "インフィニート・クレアーレ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_02_CG",
+        "subid_hash_": "",
+        "text_": "インフィニート・\nクレアーレ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_03",
+        "subid_hash_": "",
+        "text_": "ロンピエンド"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_03_CG",
+        "subid_hash_": "",
+        "text_": "ロンピエンド"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_04",
+        "subid_hash_": "",
+        "text_": "イスピラツィオーネ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_04_CG",
+        "subid_hash_": "",
+        "text_": "イスピラツィオーネ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_05",
+        "subid_hash_": "",
+        "text_": "プリジオン・デ・アルマス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_05_CG",
+        "subid_hash_": "",
+        "text_": "プリジオン・\nデ・アルマス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_06",
+        "subid_hash_": "",
+        "text_": "デスぺダザール"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_06_CG",
+        "subid_hash_": "",
+        "text_": "デスぺダザール"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_07",
+        "subid_hash_": "",
+        "text_": "テンペスターレ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_07_CG",
+        "subid_hash_": "",
+        "text_": "テンペスターレ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_08",
+        "subid_hash_": "",
+        "text_": "七星の煌めき"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_08_CG",
+        "subid_hash_": "",
+        "text_": "七星の煌めき"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_01",
+        "subid_hash_": "",
+        "text_": "マーキュライト"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_01_CG",
+        "subid_hash_": "",
+        "text_": "マーキュライト"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_02",
+        "subid_hash_": "",
+        "text_": "ディプラヴィティ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_02_CG",
+        "subid_hash_": "",
+        "text_": "ディプラヴィティ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_03",
+        "subid_hash_": "",
+        "text_": "クリンチャー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_03_CG",
+        "subid_hash_": "",
+        "text_": "クリンチャー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_04",
+        "subid_hash_": "",
+        "text_": "ヴェリエンス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_04_CG",
+        "subid_hash_": "",
+        "text_": "ヴェリエンス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_05",
+        "subid_hash_": "",
+        "text_": "フェアタイレン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_05_CG",
+        "subid_hash_": "",
+        "text_": "フェアタイレン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_06",
+        "subid_hash_": "",
+        "text_": "キリングレイン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_06_CG",
+        "subid_hash_": "",
+        "text_": "キリングレイン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_07",
+        "subid_hash_": "",
+        "text_": "ピアレス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_07_CG",
+        "subid_hash_": "",
+        "text_": "ピアレス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_08",
+        "subid_hash_": "",
+        "text_": "二王の諍い"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_08_CG",
+        "subid_hash_": "",
+        "text_": "二王の諍い"
+      }
+    },
+    {
+      "column_": {
         "id_hash_": "TXT_AB_PL2400_01",
         "subid_hash_": "",
         "text_": ""
@@ -29740,7 +30959,7 @@
       "column_": {
         "id_hash_": "TXT_ABIF_PL0400_06",
         "subid_hash_": "",
-        "text_": "自分の攻撃のチャージ速度を上昇させ、\nさらに怯み無効を付与するエリアを作り出す。\nエリアは自分にのみ有効。"
+        "text_": "自分の攻撃のチャージ速度を上昇させ、\n怯み無効/弱体無効を付与、さらに\n魔力の渦Lvの上昇量が増加するエリアを作り出す。"
       }
     },
     {
@@ -30623,6 +31842,118 @@
         "id_hash_": "TXT_ABIF_PL2000_04",
         "subid_hash_": "",
         "text_": "竜人イドアビリティ4説明文"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2200_01",
+        "subid_hash_": "",
+        "text_": "前方の敵に高速接近する攻撃。\n剣光Lvが一定以上の場合、\n剣神との同時攻撃によりヒット数が増加する。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2200_02",
+        "subid_hash_": "",
+        "text_": "前方の敵に無数の剣を飛ばして攻撃する。\n剣光Lvが一定以上の場合、剣の数が増加する。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2200_03",
+        "subid_hash_": "",
+        "text_": "後方に回避したのち、前方の敵に飛び掛かり斬りつける攻撃。\nスタン値が高い。剣光Lvが一定以上の場合、\n剣神との同時攻撃によりヒット数が増加する。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2200_04",
+        "subid_hash_": "",
+        "text_": "自分に敵対心UP/防御UP効果を付与する。\n剣光Lvが一定以上の場合、さらに弱体無効を付与する。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2200_05",
+        "subid_hash_": "",
+        "text_": "剣を突き立て、前方扇状範囲の敵を攻撃する。\nスロウ効果を付与する。剣光Lvが一定以上の場合、\n剣神との同時攻撃によりダメージが増加する。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2200_06",
+        "subid_hash_": "",
+        "text_": "敵を素早く連続で斬りつける攻撃。\n剣光Lvが一定以上の場合、\n剣神との同時攻撃によりヒット数が増加する。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2200_07",
+        "subid_hash_": "",
+        "text_": "自分にクリティカル確率UP/攻撃UP効果を付与し、\nさらに自分の剣神ゲージを最大にする。\n剣光Lvが一定以上の場合、効果量が増加する。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2200_08",
+        "subid_hash_": "",
+        "text_": "自身と仲間全員の奥義ゲージを最大にする。戦闘開始から\n一定時間経過後、一度だけ使用可能。クールタイム短縮効果\nを受けず、瀕死時には使用可能までの時間がリセットされる。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2300_01",
+        "subid_hash_": "",
+        "text_": "自身に攻撃UP/幻影効果を付与する。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2300_02",
+        "subid_hash_": "",
+        "text_": "前方の敵に多数の矢を放つ。\nボタン長押しで攻撃動作を延長でき、攻撃DOWN/\n防御DOWN/灼熱/毒/スロウ効果を順に付与する。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2300_03",
+        "subid_hash_": "",
+        "text_": "前方の敵に強力な矢を一発放つ。\n敵が受けている弱体効果の数に応じてダメージが上昇する。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2300_04",
+        "subid_hash_": "",
+        "text_": "飛び上がりながら三発の矢で攻撃し、後方に回避する。\n回避時、で回避方向を調整できる。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2300_05",
+        "subid_hash_": "",
+        "text_": "自身の周囲全方向に矢を放つ攻撃。\nヒットした敵を浮かせ、隙を作り出す。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2300_06",
+        "subid_hash_": "",
+        "text_": "範囲内に矢を降り注がせる攻撃。スタン値が高い。\n長押し中に発動位置を指定可能。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2300_07",
+        "subid_hash_": "",
+        "text_": "自身に怯み無効/狙撃効果を付与する。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2300_08",
+        "subid_hash_": "",
+        "text_": "前方の敵に攻撃し、弱体効果を延長する。戦闘開始から\n一定時間経過後、一度だけ使用可能。クールタイム短縮効果\nを受けず、瀕死時には使用可能までの時間がリセットされる。"
       }
     },
     {
@@ -32048,6 +33379,230 @@
     },
     {
       "column_": {
+        "id_hash_": "TXT_SKILL_170_00",
+        "subid_hash_": "",
+        "text_": "剣聖の練気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_170_01",
+        "subid_hash_": "",
+        "text_": "剣聖の閃刃"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_170_02",
+        "subid_hash_": "",
+        "text_": "剣聖の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_170_03",
+        "subid_hash_": "",
+        "text_": "涯ての七星"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_171_00",
+        "subid_hash_": "",
+        "text_": "魔眼の万箭"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_171_01",
+        "subid_hash_": "",
+        "text_": "魔眼の凛翔"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_171_02",
+        "subid_hash_": "",
+        "text_": "魔眼の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_171_03",
+        "subid_hash_": "",
+        "text_": "涯ての二王"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_114_02",
+        "subid_hash_": "",
+        "text_": "ブレイブハート"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_115_02",
+        "subid_hash_": "",
+        "text_": "守護者の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_116_02",
+        "subid_hash_": "",
+        "text_": "操舵士の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_117_02",
+        "subid_hash_": "",
+        "text_": "魔導士の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_118_02",
+        "subid_hash_": "",
+        "text_": "老兵の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_119_02",
+        "subid_hash_": "",
+        "text_": "薔薇の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_125_02",
+        "subid_hash_": "",
+        "text_": "聖騎士の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_128_02",
+        "subid_hash_": "",
+        "text_": "古今無双の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_120_02",
+        "subid_hash_": "",
+        "text_": "幽幻の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_127_02",
+        "subid_hash_": "",
+        "text_": "斬姫の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_121_02",
+        "subid_hash_": "",
+        "text_": "白竜の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_122_02",
+        "subid_hash_": "",
+        "text_": "勇士の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_123_02",
+        "subid_hash_": "",
+        "text_": "王者の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_124_02",
+        "subid_hash_": "",
+        "text_": "竜殺しの戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_129_02",
+        "subid_hash_": "",
+        "text_": "極致の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_126_02",
+        "subid_hash_": "",
+        "text_": "変幻自在の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_131_02",
+        "subid_hash_": "",
+        "text_": "真紅の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_132_02",
+        "subid_hash_": "",
+        "text_": "冥闇の戦気"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_130_02",
+        "subid_hash_": "",
+        "text_": "オルタナティブハート"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_164_00",
+        "subid_hash_": "",
+        "text_": "アルティメット・カニジーン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_165_00",
+        "subid_hash_": "",
+        "text_": "トレジャーボーナス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_166_00",
+        "subid_hash_": "",
+        "text_": "金剛"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_167_00",
+        "subid_hash_": "",
+        "text_": "オートポーション"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_168_00",
+        "subid_hash_": "",
+        "text_": "与ダメージ強化"
+      }
+    },
+    {
+      "column_": {
         "id_hash_": "TXT_SKILL_SUMMARY_COMMON",
         "subid_hash_": "",
         "text_": "※「+」の付いたジーンには追加のスキルがあります"
@@ -32855,7 +34410,7 @@
       "column_": {
         "id_hash_": "TXT_SKILL_SUMMARY_114_00",
         "subid_hash_": "",
-        "text_": "Class Lvが上昇するたび\nアビリティのクールタイムが短縮される\n専用"
+        "text_": "クラスアーツによる\nアビリティのクールタイム短縮量が増加する\n専用"
       }
     },
     {
@@ -33304,6 +34859,230 @@
         "id_hash_": "TXT_SKILL_SUMMARY_162_00",
         "subid_hash_": "",
         "text_": "与ダメージ上限が上昇\nSlvが最大の時に奥義性能強化"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_170_00",
+        "subid_hash_": "",
+        "text_": "剣神召喚中にアビリティを使用すると\n剣光Lvが上昇する\nシエテ専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_170_01",
+        "subid_hash_": "",
+        "text_": "剣神召喚中\n攻撃力 / スタン値 / ダメージ上限が上昇する\nシエテ専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_170_02",
+        "subid_hash_": "",
+        "text_": "剣神との連携攻撃フィニッシュをヒットさせると\n一定時間自身に複数の強化効果を付与する\nシエテ専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_170_03",
+        "subid_hash_": "",
+        "text_": "最大HPの上限が45000になる代わりに\n攻撃力とダメージ上限が上昇する\nシエテ専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_171_00",
+        "subid_hash_": "",
+        "text_": "魔眼Lvが最大の状態でマルチロックショットを全弾放つと\n一定時間与ダメージ強化効果を付与し\nさらに一定の確率で追撃を付与する。ソーン専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_171_01",
+        "subid_hash_": "",
+        "text_": "通常攻撃の連射速度が上昇し\n射撃時の移動速度が上昇する\nソーン専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_171_02",
+        "subid_hash_": "",
+        "text_": "チャージ攻撃のチャージ時間を短縮し、与ダメージが強化され\nスタン値が上昇。さらに一定の確率で弱体効果を付与する\nソーン専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_171_03",
+        "subid_hash_": "",
+        "text_": "最大HPの上限が45000になる代わりに\n攻撃力とダメージ上限が上昇する\nソーン専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_114_02",
+        "subid_hash_": "",
+        "text_": "Class Lvが上昇するたび与ダメージが強化される\nClass Lvが I に戻るまで効果は持続する\n専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_115_02",
+        "subid_hash_": "",
+        "text_": "奥義発動時に味方全体に追加効果を付与する\nカタリナ専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_116_02",
+        "subid_hash_": "",
+        "text_": "一定時間内にリズミックトリガーを3回成功させると\n与ダメージ強化効果が付与される\nラカム専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_117_02",
+        "subid_hash_": "",
+        "text_": "魔力の渦Lv最大時のチャージ攻撃後に一定時間\n与ダメージ強化効果を付与。さらに確率で魔力の渦を消費せず\nその場合コンセントレーション効果が付与される。イオ専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_118_02",
+        "subid_hash_": "",
+        "text_": "エイムモード中のチャージ攻撃と、その攻撃で\n起爆させたグレネードの与ダメージが強化される\nオイゲン専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_119_02",
+        "subid_hash_": "",
+        "text_": "薔薇ゲージの減少速度が上昇するかわりに、設置する薔薇が\n付与する各種ステータスと自動攻撃の与ダメージが強化される\nロゼッタ専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_125_02",
+        "subid_hash_": "",
+        "text_": "ノーブル・スタンス状態でのノーブル・ストラテジー後\n状態を維持して攻撃を続けられる、さらに\nノーブル・スタンス状態で与ダメージが強化。シャルロッテ専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_128_02",
+        "subid_hash_": "",
+        "text_": "チャージ時間が長くなるかわりに\n正拳突きの与ダメージが強化される\nガンダゴウザ専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_120_02",
+        "subid_hash_": "",
+        "text_": "攻撃ですべてのペットの総攻撃がヒットした際\n一定時間与ダメージ強化効果が付与され\nさらに一定確率でペットが消滅しない。フェリ専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_127_02",
+        "subid_hash_": "",
+        "text_": "奥義ゲージ上昇量が下がるかわりにジャスト切り替え時\n一定時間与ダメージ強化効果、追撃効果が付与される\nナルメア専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_121_02",
+        "subid_hash_": "",
+        "text_": "コンボフィニッシュヒット時もしくは\nヴィルベルヴィント中ジャスト回避成功で\n一定時間与ダメージ強化効果を付与する。ランスロット専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_122_02",
+        "subid_hash_": "",
+        "text_": "攻撃の与ダメージが強化、さらにビートゲージを\n消費しない攻撃のガードでのビートゲージ上昇量が増加する\nヴェイン専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_123_02",
+        "subid_hash_": "",
+        "text_": "短縮チャージ成功時与ダメージが強化される\nチャージパリィの成功時、一定時間追撃効果を付与する\nパーシヴァル専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_124_02",
+        "subid_hash_": "",
+        "text_": "防御力が減少するかわりにジャスト攻撃（ / 攻撃）の\n与ダメージが強化される\nジークフリート専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_129_02",
+        "subid_hash_": "",
+        "text_": "コンボフィニッシュ時に一定時間与ダメージ強化効果を付与\n効果時間中に異なるコンボフィニッシュをヒットさせると\n効果が一段階上昇する。カリオストロ専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_126_02",
+        "subid_hash_": "",
+        "text_": "剣戟残心でのコンボ短縮が最短のとき与ダメージが強化される\nヨダルラーハ専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_131_02",
+        "subid_hash_": "",
+        "text_": "カウンター成功時対象にアルベス・フェルマーレ効果を付与\nさらにアルベス・フェルマーレが付与されている敵に対して\n与ダメージが強化されクリティカル確率が上昇する。ゼタ専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_132_02",
+        "subid_hash_": "",
+        "text_": "グロウノスゲージが1以上の時でHPを消費しゲージを上昇させ\nさらに一定時間与ダメージ強化効果が付与される\nバザラガ専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_130_02",
+        "subid_hash_": "",
+        "text_": "オルタナティブゲージの減少速度が上昇する代わりに\n竜人化状態と神威一体状態中、与ダメージ強化効果が付与され\nゲージが無くなるまで変身状態を維持できる。イド専用"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_164_00",
+        "subid_hash_": "",
+        "text_": "リトルスニッパーを保護した数に応じて\nSlvが上昇し、その効果を得る"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_165_00",
+        "subid_hash_": "",
+        "text_": "リザルトに表示されるトレジャーを全て+1する（初回報酬は除く）\nクエスト限定\nオンラインプレイ時、他プレイヤーには影響しない"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_166_00",
+        "subid_hash_": "",
+        "text_": "最大HPが割合で大きく増加する\n最大HPが多いほど、効果量が高くなる"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_167_00",
+        "subid_hash_": "",
+        "text_": "HPが一定以下のときポーションを自動で使用する\n※アシストモード・フルアシストモード中は効果を発揮しない\nさらに各種ポーションと蘇生薬の所持上限数を+1する"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_168_00",
+        "subid_hash_": "",
+        "text_": "敵へ与えるダメージが上昇する\nこの効果はダメージが上限に到達している場合でも適用される"
       }
     },
     {
@@ -34753,6 +36532,230 @@
         "id_hash_": "TXT_SKILL_EXPLAIN_162_01",
         "subid_hash_": "",
         "text_": "ダメージ上限+{0}%\nさらに奥義使用時に自身にバリア効果（{3}ダメージまで無効化）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_170_00",
+        "subid_hash_": "",
+        "text_": "剣光Lv上昇量+{1:.1f}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_170_01",
+        "subid_hash_": "",
+        "text_": "攻撃力+{0}% / スタン値+{1}% / ダメージ上限+{2}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_170_02",
+        "subid_hash_": "",
+        "text_": "{0}%の与ダメージ強化効果 / 怯み無効 / 弱体効果無効 / 吸収（{2}秒)"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_170_03",
+        "subid_hash_": "",
+        "text_": "最大HP上限が{4:.1f}になり、\n攻撃力+{0:.1f}%、ダメージ上限+{1:.1f}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_171_00",
+        "subid_hash_": "",
+        "text_": "{0}%の与ダメージ強化効果付与（{3}秒）\n{1}%の確率で追撃効果付与（{4}秒）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_171_01",
+        "subid_hash_": "",
+        "text_": "連射速度+{0}%\n移動速度+{1}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_171_02",
+        "subid_hash_": "",
+        "text_": "チャージ時間-{0}% / 与ダメージ強化+{1}% / スタン値+{2}%\n{3}%の確率で攻撃DOWN / 防御DOWN / 灼熱 / 毒 の効果をランダムで1つ付与する"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_171_03",
+        "subid_hash_": "",
+        "text_": "最大HP上限が{4:.1f}になり、\n攻撃力+{0:.1f}%、ダメージ上限+{1:.1f}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_114_02",
+        "subid_hash_": "",
+        "text_": "与ダメージ強化+{0}%（Class II） / 与ダメージ強化+{1}%（III）\n与ダメージ強化+{2}%（IV）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_115_02",
+        "subid_hash_": "",
+        "text_": "アイシクルネイルなら弱体効果無効を付与（{0}秒）\nヴィジョン・ディヴァインならさらに{2}%の与ダメージ強化効果を付与（{1}秒）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_116_02",
+        "subid_hash_": "",
+        "text_": "{3}%の与ダメージ強化効果付与（{2}秒）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_117_02",
+        "subid_hash_": "",
+        "text_": "{2}%の与ダメージ強化効果付与（{3}秒）\n魔力の渦を消費しない確率{0}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_118_02",
+        "subid_hash_": "",
+        "text_": "チャージ攻撃の与ダメージ強化+{0}%\nチャージ攻撃で起爆したグレネードの与ダメージ強化+{1}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_119_02",
+        "subid_hash_": "",
+        "text_": "薔薇ゲージの減少速度+{0}%、攻撃UP効果+{1}% / 防御UP効果+{2}%\n再生効果+{3}%、さらに薔薇の自動攻撃の与ダメージ強化+{4}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_125_02",
+        "subid_hash_": "",
+        "text_": "ノーブル・スタンス状態の与ダメージ強化+{0}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_128_02",
+        "subid_hash_": "",
+        "text_": "チャージ時間+{0}%\n与ダメージ強化+{1}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_120_02",
+        "subid_hash_": "",
+        "text_": "{2}%の与ダメージ強化効果付与（{1}秒）\n出現していたペットが消滅しない確率{0}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_127_02",
+        "subid_hash_": "",
+        "text_": "奥義ゲージ上昇量-{0}%、ジャスト切り替え時に{1}秒間\n{2}%の与ダメージ強化効果 / 与ダメージ{3}%の追撃効果付与"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_121_02",
+        "subid_hash_": "",
+        "text_": "{0}%の与ダメージ強化効果を付与（{1}秒）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_122_02",
+        "subid_hash_": "",
+        "text_": "与ダメージ強化+{1}%\nビートゲージ+{2:.1f}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_123_02",
+        "subid_hash_": "",
+        "text_": "与ダメージ強化+{0}%\n{1}%の追撃効果付与（{2}秒）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_124_02",
+        "subid_hash_": "",
+        "text_": "防御力-{0}%\n与ダメージ強化+{1}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_129_02",
+        "subid_hash_": "",
+        "text_": "{0}%の与ダメージ強化効果付与（{1}秒）\n異なるコンボフィニッシュヒットで{2}%の効果になる"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_126_02",
+        "subid_hash_": "",
+        "text_": "与ダメージ強化+{0}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_131_02",
+        "subid_hash_": "",
+        "text_": "与ダメージ強化+{2}%\nクリティカル確率+{3}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_132_02",
+        "subid_hash_": "",
+        "text_": "HPの{0}%消費でゲージ上昇\n{1}%の与ダメージ強化効果付与（{2}秒）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_130_02",
+        "subid_hash_": "",
+        "text_": "竜人化状態のゲージ減少速度+{0}% / 神威一体状態のゲージ減少速度+{2}%\n{1}%の与ダメージ強化効果付与、ゲージがゼロになるまで変身 / 変身解除しなくなる"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_164_00",
+        "subid_hash_": "",
+        "text_": "リトルスニッパー{0}匹保護\n（HP+{1}）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_165_00",
+        "subid_hash_": "",
+        "text_": "リザルトに表示されているトレジャー+{0}"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_166_00",
+        "subid_hash_": "",
+        "text_": "HP+{0}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_167_00",
+        "subid_hash_": "",
+        "text_": "HP{0}%以下のときにキュアポーションを自動で使用する\n各種ポーションと蘇生薬+1"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_168_00",
+        "subid_hash_": "",
+        "text_": "与ダメージ強化+{0}%"
       }
     },
     {

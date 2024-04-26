@@ -492,6 +492,13 @@
     },
     {
       "column_": {
+        "id_hash_": "TXT_EM0705",
+        "subid_hash_": "",
+        "text_": "阿里曼"
+      }
+    },
+    {
+      "column_": {
         "id_hash_": "TXT_EM0706",
         "subid_hash_": "",
         "text_": "魔眼守卫"
@@ -964,6 +971,13 @@
         "id_hash_": "TXT_EM1600_05",
         "subid_hash_": "",
         "text_": "漆黑猛禽"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_EM1700",
+        "subid_hash_": "",
+        "text_": "贝希摩斯"
       }
     },
     {
@@ -1629,6 +1643,20 @@
         "id_hash_": "TXT_PL2100",
         "subid_hash_": "",
         "text_": "圣德芬"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL2200",
+        "subid_hash_": "",
+        "text_": "希耶提"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_PL2300",
+        "subid_hash_": "",
+        "text_": "索恩"
       }
     },
     {
@@ -2763,6 +2791,20 @@
         "id_hash_": "TXT_NP1300_j",
         "subid_hash_": "",
         "text_": "伊莱娜"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP2800",
+        "subid_hash_": "",
+        "text_": "乌诺"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1700_j",
+        "subid_hash_": "",
+        "text_": "腼腆的商人"
       }
     },
     {

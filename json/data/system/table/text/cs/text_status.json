@@ -268,6 +268,13 @@
     },
     {
       "column_": {
+        "id_hash_": "TXT_STTTL_CRITICALBUFF_2",
+        "subid_hash_": "",
+        "text_": "暴击率UP（{0}%～{1}%）"
+      }
+    },
+    {
+      "column_": {
         "id_hash_": "TXT_STTTL_PROVOCATION",
         "subid_hash_": "",
         "text_": "挑衅力UP"
@@ -362,6 +369,34 @@
         "id_hash_": "TXT_STTTL_BARRIER",
         "subid_hash_": "",
         "text_": "屏障"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DAMAGECAPUP",
+        "subid_hash_": "",
+        "text_": "伤害上限UP"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_DAMAGEUP",
+        "subid_hash_": "",
+        "text_": "造成伤害强化"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_PL2300KABURAYA",
+        "subid_hash_": "",
+        "text_": "歼雷鸣镝"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_PL2300BUFF",
+        "subid_hash_": "",
+        "text_": "狙击"
       }
     },
     {
@@ -628,6 +663,34 @@
         "id_hash_": "TXT_STATE_BARRIER",
         "subid_hash_": "",
         "text_": "可免受一定伤害的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_DAMAGECAPUP",
+        "subid_hash_": "",
+        "text_": "伤害上限提升的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_DAMAGEUP",
+        "subid_hash_": "",
+        "text_": "造成伤害提升的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_PL2300KABURAYA",
+        "subid_hash_": "",
+        "text_": "攻击能力性能得到强化的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_PL2300BUFF",
+        "subid_hash_": "",
+        "text_": "魔眼Lv提升量增加的状态"
       }
     },
     {

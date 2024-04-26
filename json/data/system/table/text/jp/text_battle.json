@@ -1,1 +1,991 @@
-{"rows_":[{"column_":{"id_hash_":"TXT_BT_0005_1","subid_hash_":"","text_":"ぶちかまし"}},{"column_":{"id_hash_":"TXT_BT_0102_1","subid_hash_":"","text_":"ヘルズ・ゲート"}},{"column_":{"id_hash_":"TXT_BT_0103_1","subid_hash_":"","text_":"ダムナトリボーンズ"}},{"column_":{"id_hash_":"TXT_BT_0500_1","subid_hash_":"","text_":"レイジングローラー"}},{"column_":{"id_hash_":"TXT_BT_0501_1","subid_hash_":"","text_":"スプラッシュフォール"}},{"column_":{"id_hash_":"TXT_BT_0502_1","subid_hash_":"","text_":"砕火噴滅撃"}},{"column_":{"id_hash_":"TXT_BT_0706_1","subid_hash_":"","text_":"エンドサミックレイ"}},{"column_":{"id_hash_":"TXT_BT_0706_2","subid_hash_":"","text_":"アイスグレイブ"}},{"column_":{"id_hash_":"TXT_BT_1500_1","subid_hash_":"","text_":"グランドシェイカー"}},{"column_":{"id_hash_":"TXT_BT_1600_1","subid_hash_":"","text_":"ワールウィンド"}},{"column_":{"id_hash_":"TXT_BT_1800_1","subid_hash_":"","text_":"ドラゴニックスペル"}},{"column_":{"id_hash_":"TXT_BT_1801_1","subid_hash_":"","text_":"ドラゴニックメテオ"}},{"column_":{"id_hash_":"TXT_BT_1802_1","subid_hash_":"","text_":"ヘイルドロップ"}},{"column_":{"id_hash_":"TXT_BT_1803_1","subid_hash_":"","text_":"ランドスライサー"}},{"column_":{"id_hash_":"TXT_BT_1804_1","subid_hash_":"","text_":"乱気流"}},{"column_":{"id_hash_":"TXT_BT_1805_1","subid_hash_":"","text_":"殃禍招雷"}},{"column_":{"id_hash_":"TXT_BT_1806_1","subid_hash_":"","text_":"シャドウサクション"}},{"column_":{"id_hash_":"TXT_BT_1806_2","subid_hash_":"","text_":"グラトナスアビス"}},{"column_":{"id_hash_":"TXT_BT_1806_3","subid_hash_":"","text_":"デスペリア"}},{"column_":{"id_hash_":"TXT_BT_1900_1","subid_hash_":"","text_":"ブーストモード"}},{"column_":{"id_hash_":"TXT_BT_2000_1","subid_hash_":"","text_":"武刹槍"}},{"column_":{"id_hash_":"TXT_BT_2000_2","subid_hash_":"","text_":"八万嵐死"}},{"column_":{"id_hash_":"TXT_BT_2000_3","subid_hash_":"","text_":"煌刃嵐死"}},{"column_":{"id_hash_":"TXT_BT_2100_1","subid_hash_":"","text_":"ソードオペラ"}},{"column_":{"id_hash_":"TXT_BT_2100_2","subid_hash_":"","text_":"スペリオルシンフォニー"}},{"column_":{"id_hash_":"TXT_BT_2200_1","subid_hash_":"","text_":"センテンスト"}},{"column_":{"id_hash_":"TXT_BT_2300_1","subid_hash_":"","text_":"センテンスト・ターミナス"}},{"column_":{"id_hash_":"TXT_BT_2300_2","subid_hash_":"","text_":"ワン・ラスト・ソウル"}},{"column_":{"id_hash_":"TXT_BT_2300_3","subid_hash_":"","text_":"ソウルリンク"}},{"column_":{"id_hash_":"TXT_BT_2300_4","subid_hash_":"","text_":"スカージ"}},{"column_":{"id_hash_":"TXT_BT_2300_5","subid_hash_":"","text_":"ソウル・オルタレーション"}},{"column_":{"id_hash_":"TXT_BT_2400_1","subid_hash_":"","text_":"ノクスアトラ"}},{"column_":{"id_hash_":"TXT_BT_3100_1","subid_hash_":"","text_":"神殺シノ劔"}},{"column_":{"id_hash_":"TXT_BT_3100_2","subid_hash_":"","text_":"ファイアフライ射出"}},{"column_":{"id_hash_":"TXT_BT_3100_3","subid_hash_":"","text_":"属性チェンジ"}},{"column_":{"id_hash_":"TXT_BT_3100_4","subid_hash_":"","text_":"静カノ海"}},{"column_":{"id_hash_":"TXT_BT_3100_5","subid_hash_":"","text_":"豊カノ海"}},{"column_":{"id_hash_":"TXT_BT_3100_6","subid_hash_":"","text_":"波ノ海"}},{"column_":{"id_hash_":"TXT_BT_3100_7","subid_hash_":"","text_":"届キシ祈リ"}},{"column_":{"id_hash_":"TXT_BT_3100_8","subid_hash_":"","text_":"響キシ声"}},{"column_":{"id_hash_":"TXT_BT_3100_9","subid_hash_":"","text_":"強制返還プロトコル"}},{"column_":{"id_hash_":"TXT_BT_3100_10","subid_hash_":"","text_":"アクシズ・レイ"}},{"column_":{"id_hash_":"TXT_BT_3100_11","subid_hash_":"","text_":"サーカムホライゾンタル・アーク"}},{"column_":{"id_hash_":"TXT_BT_3100_12","subid_hash_":"","text_":"レッド・シグナル"}},{"column_":{"id_hash_":"TXT_BT_3100_13","subid_hash_":"","text_":"レッド・シグナル＋"}},{"column_":{"id_hash_":"TXT_BT_3100_14","subid_hash_":"","text_":"ブルー・シグナル"}},{"column_":{"id_hash_":"TXT_BT_3100_15","subid_hash_":"","text_":"ブルー・シグナル＋"}},{"column_":{"id_hash_":"TXT_BT_3100_16","subid_hash_":"","text_":"イエロー・シグナル"}},{"column_":{"id_hash_":"TXT_BT_3100_17","subid_hash_":"","text_":"イエロー・シグナル＋"}},{"column_":{"id_hash_":"TXT_BT_7000_1","subid_hash_":"","text_":"大いなる破局"}},{"column_":{"id_hash_":"TXT_BT_7000_2","subid_hash_":"","text_":"カタストロフィ"}},{"column_":{"id_hash_":"TXT_BT_7000_3","subid_hash_":"","text_":"レギンレイヴ"}},{"column_":{"id_hash_":"TXT_BT_7000_4","subid_hash_":"","text_":"アルカディア・エリュトロン"}},{"column_":{"id_hash_":"TXT_BT_7000_5","subid_hash_":"","text_":"レッドレイン"}},{"column_":{"id_hash_":"TXT_BT_7000_6","subid_hash_":"","text_":"アルカディア・キュアノエイデス"}},{"column_":{"id_hash_":"TXT_BT_7000_7","subid_hash_":"","text_":"ホワイトウェイブ"}},{"column_":{"id_hash_":"TXT_BT_7000_8","subid_hash_":"","text_":"アルカディア・ポルトカリ"}},{"column_":{"id_hash_":"TXT_BT_7000_9","subid_hash_":"","text_":"セクターコラプス"}},{"column_":{"id_hash_":"TXT_BT_7000_10","subid_hash_":"","text_":"アルカディア・クローロン"}},{"column_":{"id_hash_":"TXT_BT_7000_11","subid_hash_":"","text_":"終末の風"}},{"column_":{"id_hash_":"TXT_BT_7000_12","subid_hash_":"","text_":"絶対不動の審判"}},{"column_":{"id_hash_":"TXT_BT_7000_13","subid_hash_":"","text_":"スーパーノヴァ"}},{"column_":{"id_hash_":"TXT_BT_7000_14","subid_hash_":"","text_":"必滅の刻"}},{"column_":{"id_hash_":"TXT_BT_7000_15","subid_hash_":"","text_":"カタストロフィ・ゼロ"}},{"column_":{"id_hash_":"TXT_BT_7000_16","subid_hash_":"","text_":"全ての決着をつける"}},{"column_":{"id_hash_":"TXT_BT_7100_1","subid_hash_":"","text_":"オディウム"}},{"column_":{"id_hash_":"TXT_BT_7100_2","subid_hash_":"","text_":"アクシリウム"}},{"column_":{"id_hash_":"TXT_BT_7100_3","subid_hash_":"","text_":"リンク深度上昇"}},{"column_":{"id_hash_":"TXT_BT_7100_4","subid_hash_":"","text_":"イーラ"}},{"column_":{"id_hash_":"TXT_BT_7110_1","subid_hash_":"","text_":"ヴォイド・ラヴァ"}},{"column_":{"id_hash_":"TXT_BT_7110_2","subid_hash_":"","text_":"ダークフィラメント"}},{"column_":{"id_hash_":"TXT_BT_7110_3","subid_hash_":"","text_":"フューリアス・ストライク"}},{"column_":{"id_hash_":"TXT_BT_7200_1","subid_hash_":"","text_":"サベッジトルネード"}},{"column_":{"id_hash_":"TXT_BT_7201_1","subid_hash_":"","text_":"ガデスストーム"}},{"column_":{"id_hash_":"TXT_BT_7201_2","subid_hash_":"","text_":"ソードクィーヴァー"}},{"column_":{"id_hash_":"TXT_BT_7201_3","subid_hash_":"","text_":"フォームチェンジ"}},{"column_":{"id_hash_":"TXT_BT_7201_4","subid_hash_":"","text_":"ハウリング・ウインド"}},{"column_":{"id_hash_":"TXT_BT_7201_5","subid_hash_":"","text_":"ブラストサークル"}},{"column_":{"id_hash_":"TXT_BT_7210_1","subid_hash_":"","text_":"ホロウ・スコール"}},{"column_":{"id_hash_":"TXT_BT_7211_1","subid_hash_":"","text_":"ターミネイトブロウ"}},{"column_":{"id_hash_":"TXT_BT_7211_2","subid_hash_":"","text_":"ヴォイドリッパー"}},{"column_":{"id_hash_":"TXT_BT_7211_3","subid_hash_":"","text_":"フォームチェンジ"}},{"column_":{"id_hash_":"TXT_BT_7211_4","subid_hash_":"","text_":"ペネトレイト・アロー"}},{"column_":{"id_hash_":"TXT_BT_7211_5","subid_hash_":"","text_":"エンプティバースト"}},{"column_":{"id_hash_":"TXT_BT_7300_1","subid_hash_":"","text_":"銀狼疾駆"}},{"column_":{"id_hash_":"TXT_BT_7300_2","subid_hash_":"","text_":"デッドリー・ディビジョン"}},{"column_":{"id_hash_":"TXT_BT_7300_3","subid_hash_":"","text_":"ホワイトアウト"}},{"column_":{"id_hash_":"TXT_BT_7300_4","subid_hash_":"","text_":"絶掃"}},{"column_":{"id_hash_":"TXT_BT_7300_5","subid_hash_":"","text_":"アバランチ"}},{"column_":{"id_hash_":"TXT_BT_7300_6","subid_hash_":"","text_":"アイソレーション・ブリザード"}},{"column_":{"id_hash_":"TXT_BT_7310_1","subid_hash_":"","text_":"隔絶虚無"}},{"column_":{"id_hash_":"TXT_BT_7310_2","subid_hash_":"","text_":"ノックス・エターナー"}},{"column_":{"id_hash_":"TXT_BT_7310_3","subid_hash_":"","text_":"シニスター・グレイシア"}},{"column_":{"id_hash_":"TXT_BT_7310_4","subid_hash_":"","text_":"エンプティネス・レイ"}},{"column_":{"id_hash_":"TXT_BT_7310_5","subid_hash_":"","text_":"虚狼重撃"}},{"column_":{"id_hash_":"TXT_BT_7310_6","subid_hash_":"","text_":"絶界"}},{"column_":{"id_hash_":"TXT_BT_7400_1","subid_hash_":"","text_":"アレナスバスター"}},{"column_":{"id_hash_":"TXT_BT_7400_2","subid_hash_":"","text_":"臨界防衛機構"}},{"column_":{"id_hash_":"TXT_BT_7500_1","subid_hash_":"","text_":"ラスト・ジャッジメント"}},{"column_":{"id_hash_":"TXT_BT_7500_2","subid_hash_":"","text_":"ソウル・サルヴェーション"}},{"column_":{"id_hash_":"TXT_BT_7500_3","subid_hash_":"","text_":"ダムナシオン"}},{"column_":{"id_hash_":"TXT_BT_7500_4","subid_hash_":"","text_":"救済の門“アーナンダ”"}},{"column_":{"id_hash_":"TXT_BT_7500_5","subid_hash_":"","text_":"絶黙の門“マウナ”"}},{"column_":{"id_hash_":"TXT_BT_7500_6","subid_hash_":"","text_":"苦刻の門“カーラ”"}},{"column_":{"id_hash_":"TXT_BT_7500_7","subid_hash_":"","text_":"永劫の門“アムリタ”"}},{"column_":{"id_hash_":"TXT_BT_7500_8","subid_hash_":"","text_":"真理の門“ルタ”"}},{"column_":{"id_hash_":"TXT_BT_7500_9","subid_hash_":"","text_":"蒼の門“クリシュナ”"}},{"column_":{"id_hash_":"TXT_BT_7500_10","subid_hash_":"","text_":"断罪の暗光"}},{"column_":{"id_hash_":"TXT_BT_7500_11","subid_hash_":"","text_":"プレリュード"}},{"column_":{"id_hash_":"TXT_BT_7500_12","subid_hash_":"","text_":"ゲート・フリクション"}},{"column_":{"id_hash_":"TXT_BT_7600_1","subid_hash_":"","text_":"ヘリスフレア"}},{"column_":{"id_hash_":"TXT_BT_7600_2","subid_hash_":"","text_":"オルタ―エゴ・インサニス"}},{"column_":{"id_hash_":"TXT_BT_7600_3","subid_hash_":"","text_":"理の超越"}},{"column_":{"id_hash_":"TXT_BT_7600_4","subid_hash_":"","text_":"純然たる破局"}},{"column_":{"id_hash_":"TXT_BT_7600_5","subid_hash_":"","text_":"オーヴァライト・イド"}},{"column_":{"id_hash_":"TXT_BT_7600_6","subid_hash_":"","text_":"神撃"}},{"column_":{"id_hash_":"TXT_BT_7600_7","subid_hash_":"","text_":"再神転"}},{"column_":{"id_hash_":"TXT_BT_7600_8","subid_hash_":"","text_":"終焉の光"}},{"column_":{"id_hash_":"TXT_BT_7600_9","subid_hash_":"","text_":"オルタナティヴ・ワールドエンド"}},{"column_":{"id_hash_":"TXT_BT_7600_10","subid_hash_":"","text_":"救済の光"}},{"column_":{"id_hash_":"TXT_BT_7600_11","subid_hash_":"","text_":"クリエイション"}},{"column_":{"id_hash_":"TXT_BT_7600_12","subid_hash_":"","text_":"無垢の叫び"}},{"column_":{"id_hash_":"TXT_BT_7600_13","subid_hash_":"","text_":"ダイダロスウィング"}},{"column_":{"id_hash_":"TXT_BT_7600_14","subid_hash_":"","text_":"シンクロトロン"}},{"column_":{"id_hash_":"TXT_BT_7700_1","subid_hash_":"","text_":"星天融合"}},{"column_":{"id_hash_":"TXT_BT_7700_2","subid_hash_":"","text_":"ウルティム・レベリオー"}},{"column_":{"id_hash_":"TXT_BT_7700_3","subid_hash_":"","text_":"パラダイス・ロスト"}},{"column_":{"id_hash_":"TXT_BT_7700_4","subid_hash_":"","text_":"黙示録の喇叭"}},{"column_":{"id_hash_":"TXT_BT_7700_5","subid_hash_":"","text_":"ジ・エンド"}},{"column_":{"id_hash_":"TXT_BT_7700_6","subid_hash_":"","text_":"ゴフェル・アーク"}},{"column_":{"id_hash_":"TXT_BT_7700_7","subid_hash_":"","text_":"スティグマ"}},{"column_":{"id_hash_":"TXT_BT_7700_8","subid_hash_":"","text_":"カスティーゴ"}},{"column_":{"id_hash_":"TXT_BT_7700_9","subid_hash_":"","text_":"エンジェルフェザース"}},{"column_":{"id_hash_":"TXT_BT_7700_10","subid_hash_":"","text_":"ルイナ"}},{"column_":{"id_hash_":"TXT_BT_7700_11","subid_hash_":"","text_":"ティモール・トリアングルス"}},{"column_":{"id_hash_":"TXT_BT_7700_12","subid_hash_":"","text_":"ハルパス"}},{"column_":{"id_hash_":"TXT_BT_7700_13","subid_hash_":"","text_":"レクイエム"}},{"column_":{"id_hash_":"TXT_BT_7700_14","subid_hash_":"","text_":"グザファン"}},{"column_":{"id_hash_":"TXT_BT_7700_15","subid_hash_":"","text_":"フォールン・フェザース"}},{"column_":{"id_hash_":"TXT_BT_7700_16","subid_hash_":"","text_":"マスティマ"}}]}
+{
+  "rows_": [
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_0005_1",
+        "subid_hash_": "",
+        "text_": "ぶちかまし"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_0102_1",
+        "subid_hash_": "",
+        "text_": "ヘルズ・ゲート"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_0103_1",
+        "subid_hash_": "",
+        "text_": "ダムナトリボーンズ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_0500_1",
+        "subid_hash_": "",
+        "text_": "レイジングローラー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_0501_1",
+        "subid_hash_": "",
+        "text_": "スプラッシュフォール"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_0502_1",
+        "subid_hash_": "",
+        "text_": "砕火噴滅撃"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_0706_1",
+        "subid_hash_": "",
+        "text_": "エンドサミックレイ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_0706_2",
+        "subid_hash_": "",
+        "text_": "アイスグレイブ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_1500_1",
+        "subid_hash_": "",
+        "text_": "グランドシェイカー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_1600_1",
+        "subid_hash_": "",
+        "text_": "ワールウィンド"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_1700_1",
+        "subid_hash_": "",
+        "text_": "カオスマサカー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_1800_1",
+        "subid_hash_": "",
+        "text_": "ドラゴニックスペル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_1801_1",
+        "subid_hash_": "",
+        "text_": "ドラゴニックメテオ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_1802_1",
+        "subid_hash_": "",
+        "text_": "ヘイルドロップ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_1803_1",
+        "subid_hash_": "",
+        "text_": "ランドスライサー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_1804_1",
+        "subid_hash_": "",
+        "text_": "乱気流"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_1805_1",
+        "subid_hash_": "",
+        "text_": "殃禍招雷"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_1806_1",
+        "subid_hash_": "",
+        "text_": "シャドウサクション"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_1806_2",
+        "subid_hash_": "",
+        "text_": "グラトナスアビス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_1806_3",
+        "subid_hash_": "",
+        "text_": "デスペリア"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_1900_1",
+        "subid_hash_": "",
+        "text_": "ブーストモード"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_2000_1",
+        "subid_hash_": "",
+        "text_": "武刹槍"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_2000_2",
+        "subid_hash_": "",
+        "text_": "八万嵐死"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_2000_3",
+        "subid_hash_": "",
+        "text_": "煌刃嵐死"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_2100_1",
+        "subid_hash_": "",
+        "text_": "ソードオペラ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_2100_2",
+        "subid_hash_": "",
+        "text_": "スペリオルシンフォニー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_2200_1",
+        "subid_hash_": "",
+        "text_": "センテンスト"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_2300_1",
+        "subid_hash_": "",
+        "text_": "センテンスト・ターミナス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_2300_2",
+        "subid_hash_": "",
+        "text_": "ワン・ラスト・ソウル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_2300_3",
+        "subid_hash_": "",
+        "text_": "ソウルリンク"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_2300_4",
+        "subid_hash_": "",
+        "text_": "スカージ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_2300_5",
+        "subid_hash_": "",
+        "text_": "ソウル・オルタレーション"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_2400_1",
+        "subid_hash_": "",
+        "text_": "ノクスアトラ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_1",
+        "subid_hash_": "",
+        "text_": "神殺シノ劔"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_2",
+        "subid_hash_": "",
+        "text_": "ファイアフライ射出"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_3",
+        "subid_hash_": "",
+        "text_": "属性チェンジ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_4",
+        "subid_hash_": "",
+        "text_": "静カノ海"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_5",
+        "subid_hash_": "",
+        "text_": "豊カノ海"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_6",
+        "subid_hash_": "",
+        "text_": "波ノ海"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_7",
+        "subid_hash_": "",
+        "text_": "届キシ祈リ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_8",
+        "subid_hash_": "",
+        "text_": "響キシ声"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_9",
+        "subid_hash_": "",
+        "text_": "強制返還プロトコル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_10",
+        "subid_hash_": "",
+        "text_": "アクシズ・レイ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_11",
+        "subid_hash_": "",
+        "text_": "サーカムホライゾンタル・アーク"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_12",
+        "subid_hash_": "",
+        "text_": "レッド・シグナル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_13",
+        "subid_hash_": "",
+        "text_": "レッド・シグナル＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_14",
+        "subid_hash_": "",
+        "text_": "ブルー・シグナル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_15",
+        "subid_hash_": "",
+        "text_": "ブルー・シグナル＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_16",
+        "subid_hash_": "",
+        "text_": "イエロー・シグナル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_3100_17",
+        "subid_hash_": "",
+        "text_": "イエロー・シグナル＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_1",
+        "subid_hash_": "",
+        "text_": "大いなる破局"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_2",
+        "subid_hash_": "",
+        "text_": "カタストロフィ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_3",
+        "subid_hash_": "",
+        "text_": "レギンレイヴ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_4",
+        "subid_hash_": "",
+        "text_": "アルカディア・エリュトロン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_5",
+        "subid_hash_": "",
+        "text_": "レッドレイン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_6",
+        "subid_hash_": "",
+        "text_": "アルカディア・キュアノエイデス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_7",
+        "subid_hash_": "",
+        "text_": "ホワイトウェイブ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_8",
+        "subid_hash_": "",
+        "text_": "アルカディア・ポルトカリ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_9",
+        "subid_hash_": "",
+        "text_": "セクターコラプス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_10",
+        "subid_hash_": "",
+        "text_": "アルカディア・クローロン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_11",
+        "subid_hash_": "",
+        "text_": "終末の風"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_12",
+        "subid_hash_": "",
+        "text_": "絶対不動の審判"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_13",
+        "subid_hash_": "",
+        "text_": "スーパーノヴァ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_14",
+        "subid_hash_": "",
+        "text_": "必滅の刻"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_15",
+        "subid_hash_": "",
+        "text_": "カタストロフィ・ゼロ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7000_16",
+        "subid_hash_": "",
+        "text_": "全ての決着をつける"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7100_1",
+        "subid_hash_": "",
+        "text_": "オディウム"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7100_2",
+        "subid_hash_": "",
+        "text_": "アクシリウム"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7100_3",
+        "subid_hash_": "",
+        "text_": "リンク深度上昇"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7100_4",
+        "subid_hash_": "",
+        "text_": "イーラ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7110_1",
+        "subid_hash_": "",
+        "text_": "ヴォイド・ラヴァ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7110_2",
+        "subid_hash_": "",
+        "text_": "ダークフィラメント"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7110_3",
+        "subid_hash_": "",
+        "text_": "フューリアス・ストライク"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7200_1",
+        "subid_hash_": "",
+        "text_": "サベッジトルネード"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7201_1",
+        "subid_hash_": "",
+        "text_": "ガデスストーム"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7201_2",
+        "subid_hash_": "",
+        "text_": "ソードクィーヴァー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7201_3",
+        "subid_hash_": "",
+        "text_": "フォームチェンジ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7201_4",
+        "subid_hash_": "",
+        "text_": "ハウリング・ウインド"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7201_5",
+        "subid_hash_": "",
+        "text_": "ブラストサークル"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7210_1",
+        "subid_hash_": "",
+        "text_": "ホロウ・スコール"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7211_1",
+        "subid_hash_": "",
+        "text_": "ターミネイトブロウ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7211_2",
+        "subid_hash_": "",
+        "text_": "ヴォイドリッパー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7211_3",
+        "subid_hash_": "",
+        "text_": "フォームチェンジ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7211_4",
+        "subid_hash_": "",
+        "text_": "ペネトレイト・アロー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7211_5",
+        "subid_hash_": "",
+        "text_": "エンプティバースト"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7300_1",
+        "subid_hash_": "",
+        "text_": "銀狼疾駆"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7300_2",
+        "subid_hash_": "",
+        "text_": "デッドリー・ディビジョン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7300_3",
+        "subid_hash_": "",
+        "text_": "ホワイトアウト"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7300_4",
+        "subid_hash_": "",
+        "text_": "絶掃"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7300_5",
+        "subid_hash_": "",
+        "text_": "アバランチ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7300_6",
+        "subid_hash_": "",
+        "text_": "アイソレーション・ブリザード"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7310_1",
+        "subid_hash_": "",
+        "text_": "隔絶虚無"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7310_2",
+        "subid_hash_": "",
+        "text_": "ノックス・エターナー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7310_3",
+        "subid_hash_": "",
+        "text_": "シニスター・グレイシア"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7310_4",
+        "subid_hash_": "",
+        "text_": "エンプティネス・レイ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7310_5",
+        "subid_hash_": "",
+        "text_": "虚狼重撃"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7310_6",
+        "subid_hash_": "",
+        "text_": "絶界"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7400_1",
+        "subid_hash_": "",
+        "text_": "アレナスバスター"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7400_2",
+        "subid_hash_": "",
+        "text_": "臨界防衛機構"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7500_1",
+        "subid_hash_": "",
+        "text_": "ラスト・ジャッジメント"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7500_2",
+        "subid_hash_": "",
+        "text_": "ソウル・サルヴェーション"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7500_3",
+        "subid_hash_": "",
+        "text_": "ダムナシオン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7500_4",
+        "subid_hash_": "",
+        "text_": "救済の門“アーナンダ”"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7500_5",
+        "subid_hash_": "",
+        "text_": "絶黙の門“マウナ”"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7500_6",
+        "subid_hash_": "",
+        "text_": "苦刻の門“カーラ”"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7500_7",
+        "subid_hash_": "",
+        "text_": "永劫の門“アムリタ”"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7500_8",
+        "subid_hash_": "",
+        "text_": "真理の門“ルタ”"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7500_9",
+        "subid_hash_": "",
+        "text_": "蒼の門“クリシュナ”"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7500_10",
+        "subid_hash_": "",
+        "text_": "断罪の暗光"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7500_11",
+        "subid_hash_": "",
+        "text_": "プレリュード"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7500_12",
+        "subid_hash_": "",
+        "text_": "ゲート・フリクション"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_1",
+        "subid_hash_": "",
+        "text_": "ヘリスフレア"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_2",
+        "subid_hash_": "",
+        "text_": "オルタ―エゴ・インサニス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_3",
+        "subid_hash_": "",
+        "text_": "理の超越"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_4",
+        "subid_hash_": "",
+        "text_": "純然たる破局"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_5",
+        "subid_hash_": "",
+        "text_": "オーヴァライト・イド"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_6",
+        "subid_hash_": "",
+        "text_": "神撃"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_7",
+        "subid_hash_": "",
+        "text_": "再神転"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_8",
+        "subid_hash_": "",
+        "text_": "終焉の光"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_9",
+        "subid_hash_": "",
+        "text_": "オルタナティヴ・ワールドエンド"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_10",
+        "subid_hash_": "",
+        "text_": "救済の光"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_11",
+        "subid_hash_": "",
+        "text_": "クリエイション"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_12",
+        "subid_hash_": "",
+        "text_": "無垢の叫び"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_13",
+        "subid_hash_": "",
+        "text_": "ダイダロスウィング"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7600_14",
+        "subid_hash_": "",
+        "text_": "シンクロトロン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7700_1",
+        "subid_hash_": "",
+        "text_": "星天融合"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7700_2",
+        "subid_hash_": "",
+        "text_": "ウルティム・レベリオー"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7700_3",
+        "subid_hash_": "",
+        "text_": "パラダイス・ロスト"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7700_4",
+        "subid_hash_": "",
+        "text_": "黙示録の喇叭"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7700_5",
+        "subid_hash_": "",
+        "text_": "ジ・エンド"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7700_6",
+        "subid_hash_": "",
+        "text_": "ゴフェル・アーク"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7700_7",
+        "subid_hash_": "",
+        "text_": "スティグマ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7700_8",
+        "subid_hash_": "",
+        "text_": "カスティーゴ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7700_9",
+        "subid_hash_": "",
+        "text_": "エンジェルフェザース"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7700_10",
+        "subid_hash_": "",
+        "text_": "ルイナ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7700_11",
+        "subid_hash_": "",
+        "text_": "ティモール・トリアングルス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7700_12",
+        "subid_hash_": "",
+        "text_": "ハルパス"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7700_13",
+        "subid_hash_": "",
+        "text_": "レクイエム"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7700_14",
+        "subid_hash_": "",
+        "text_": "グザファン"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7700_15",
+        "subid_hash_": "",
+        "text_": "フォールン・フェザース"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7700_16",
+        "subid_hash_": "",
+        "text_": "マスティマ"
+      }
+    }
+  ]
+}

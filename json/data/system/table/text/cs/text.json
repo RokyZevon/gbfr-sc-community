@@ -676,7 +676,7 @@
       "column_": {
         "id_hash_": "TXT_WEP_NAME_PL1000_03",
         "subid_hash_": "",
-        "text_": "美然剑"
+        "text_": "安特卫普"
       }
     },
     {
@@ -739,14 +739,14 @@
       "column_": {
         "id_hash_": "TXT_WEP_NAME_PL1100_03",
         "subid_hash_": "",
-        "text_": "阿斯卡隆剑"
+        "text_": "阿斯卡隆"
       }
     },
     {
       "column_": {
         "id_hash_": "TXT_WEP_NAME_PL1100_03_MAX",
         "subid_hash_": "",
-        "text_": "[戮龙]阿斯卡隆剑"
+        "text_": "[戮龙]阿斯卡隆"
       }
     },
     {
@@ -1068,7 +1068,7 @@
       "column_": {
         "id_hash_": "TXT_WEP_NAME_PL1600_04",
         "subid_hash_": "",
-        "text_": "仇闪"
+        "text_": "格劳西萨"
       }
     },
     {
@@ -1284,6 +1284,76 @@
     {
       "column_": {
         "id_hash_": "TXT_WEP_NAME_PL1900_07",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_NAME_PL2200_01",
+        "subid_hash_": "",
+        "text_": "七之宝剑"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_NAME_PL2200_02",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_NAME_PL2200_03",
+        "subid_hash_": "",
+        "text_": "天枢·极星剑"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_NAME_PL2200_03_MAX",
+        "subid_hash_": "",
+        "text_": "[七煌]天枢·极星剑"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_NAME_PL2200_07",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_NAME_PL2300_01",
+        "subid_hash_": "",
+        "text_": "孤傲之弓"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_NAME_PL2300_02",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_NAME_PL2300_03",
+        "subid_hash_": "",
+        "text_": "真灭·霸王弓"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_NAME_PL2300_03_MAX",
+        "subid_hash_": "",
+        "text_": "[二诤]真灭·霸王弓"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_NAME_PL2300_07",
         "subid_hash_": "",
         "text_": ""
       }
@@ -2578,6 +2648,76 @@
     },
     {
       "column_": {
+        "id_hash_": "TXT_WEP_EXPLAIN_PL2200_01",
+        "subid_hash_": "",
+        "text_": "拥有妖艳而美丽光辉的宝剑，令人忍不住屏息凝视。\n相传那如明镜的剑刃能映出持有者的真身，问其为何而战，问其意志与决心。\n若能毫无迷茫地给出回答，方可发挥出此剑全部的力量。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_EXPLAIN_PL2200_02",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_EXPLAIN_PL2200_03",
+        "subid_hash_": "",
+        "text_": "剑之登峰造极者，必身处无尽纷争旋涡。\n秉持信念斩出的迅猛一击仿佛能够斩断空与星的恶缘。\n朴素而狂野的流线型剑身上镶嵌着七星，\n曾经向其许下的誓言终有兑现之时。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_EXPLAIN_PL2200_03_MAX",
+        "subid_hash_": "",
+        "text_": "自星海引出的力量越盛，此剑便越接近其原本的样子。\n最强之剑面前，任何铜墙铁壁皆若无物，潺潺流水亦可断流。\n此剑即为毁灭的化身，倘若落入无情之人手中，将招来世界毁灭之灾。\n然而即使拥有这足以统治天空的力量，天星剑王也只求天空的安宁。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_EXPLAIN_PL2200_07",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_EXPLAIN_PL2300_01",
+        "subid_hash_": "",
+        "text_": "猎手第一次狩猎成功时获得的满载回忆之弓。\n经历无数次邂逅与别离，唯有此弓常伴左右，绝不会背叛猎手。\n最强射手拨动的弦音宛如竖琴奏响的美妙旋律。\n然而对猎物而言，那便是谢幕的终曲，妆点其命运最后一刻之美。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_EXPLAIN_PL2300_02",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_EXPLAIN_PL2300_03",
+        "subid_hash_": "",
+        "text_": "魔眼猎手之所求，乃驰骋苍穹之光，可洞穿世间一切困难与不公。\n无论狂风怒吼，亦或烈焰熊熊与飞雪皑皑，皆无法阻其穿行。\n唯有孤独乱其心，箭矢才偏其道。既如此，当成一方霸王孤傲于天地。\n然而若空有王之虚名，实为修罗，成人云之怪物，便是最强又有何意义？"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_EXPLAIN_PL2300_03_MAX",
+        "subid_hash_": "",
+        "text_": "穷尽孤独的弓之王终于登上力量之巅。\n然而巅峰之景却唯有空虚，世上一切仿佛都褪了色。\n为无软肋而选择孑然一身，殊不知也失去了安宁的心。\n最终拯救孤高猎手的，是那始终追逐其背影的唯一一位真正的知己。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_WEP_EXPLAIN_PL2300_07",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
         "id_hash_": "TXT_WEP_EXPLAIN_NP0300_01",
         "subid_hash_": "",
         "text_": ""
@@ -3257,6 +3397,20 @@
     },
     {
       "column_": {
+        "id_hash_": "TXT_ITEM_14_0050",
+        "subid_hash_": "",
+        "text_": "天星章"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_14_0051",
+        "subid_hash_": "",
+        "text_": "究极器之极意"
+      }
+    },
+    {
+      "column_": {
         "id_hash_": "TXT_ITEM_15_0000",
         "subid_hash_": "",
         "text_": "拉法尔纪念币"
@@ -3607,6 +3761,20 @@
     },
     {
       "column_": {
+        "id_hash_": "TXT_ITEM_23_0001",
+        "subid_hash_": "",
+        "text_": "希耶提专用解锁券"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_23_0002",
+        "subid_hash_": "",
+        "text_": "索恩专用解锁券"
+      }
+    },
+    {
+      "column_": {
         "id_hash_": "TXT_ITEM_30_0000",
         "subid_hash_": "",
         "text_": "武器幻晶"
@@ -3855,6 +4023,34 @@
         "id_hash_": "TXT_ITEM_32_0031",
         "subid_hash_": "",
         "text_": "强力核心"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_32_0040",
+        "subid_hash_": "",
+        "text_": "狂暴锐锋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_32_0041",
+        "subid_hash_": "",
+        "text_": "狂暴之兆"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_32_0042",
+        "subid_hash_": "",
+        "text_": "恸哭之石"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_32_0043",
+        "subid_hash_": "",
+        "text_": "毁灭凶角"
       }
     },
     {
@@ -4198,6 +4394,13 @@
         "id_hash_": "TXT_ITEM_70_0015",
         "subid_hash_": "",
         "text_": "角色颜色包3"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_70_0016",
+        "subid_hash_": "",
+        "text_": "角色颜色包4"
       }
     },
     {
@@ -6967,6 +7170,62 @@
     },
     {
       "column_": {
+        "id_hash_": "TXT_ITEM_INFO_14_0050",
+        "subid_hash_": "",
+        "text_": "通过特定委托获得的兑换素材\n可用来兑换贵重的奖励"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_14_0050",
+        "subid_hash_": "item_info01",
+        "text_": "通过特定委托获得的兑换素材\n可用来兑换贵重的奖励"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_14_0050",
+        "subid_hash_": "note_info03_data02",
+        "text_": "通过特定委托获得的兑换素材\n可用来兑换贵重的奖励"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_14_0050",
+        "subid_hash_": "var00_item_info01",
+        "text_": "通过特定委托获得的兑换素材\n可用来兑换贵重的奖励"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_14_0051",
+        "subid_hash_": "",
+        "text_": "证明拥有穷极之力的黄金之火\n可用来兑换贵重的奖励"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_14_0051",
+        "subid_hash_": "item_info01",
+        "text_": "证明拥有穷极之力的黄金之火\n可用来兑换贵重的奖励"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_14_0051",
+        "subid_hash_": "note_info03_data02",
+        "text_": "证明拥有穷极之力的黄金之火\n可用来兑换贵重的奖励"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_14_0051",
+        "subid_hash_": "var00_item_info01",
+        "text_": "证明拥有穷极之力的黄金之火\n可用来兑换贵重的奖励"
+      }
+    },
+    {
+      "column_": {
         "id_hash_": "TXT_ITEM_INFO_15_0000",
         "subid_hash_": "",
         "text_": "骑空团联盟拉法尔发行的纪念币\n联盟与万事屋谢洛有合作协议\n收集纪念币可在万事屋兑换任意物品"
@@ -8157,6 +8416,62 @@
     },
     {
       "column_": {
+        "id_hash_": "TXT_ITEM_INFO_23_0001",
+        "subid_hash_": "",
+        "text_": "招揽骑空团团员的邀请函\n只要在万事屋谢洛那里使用\n希耶提就会立即赶来"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_23_0001",
+        "subid_hash_": "item_info01",
+        "text_": "招揽骑空团团员的邀请函\n只要在万事屋谢洛那里使用\n希耶提就会立即赶来"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_23_0001",
+        "subid_hash_": "note_info03_data02",
+        "text_": "招揽骑空团团员的邀请函\n只要在万事屋谢洛那里使用\n希耶提就会立即赶来"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_23_0001",
+        "subid_hash_": "var00_item_info01",
+        "text_": "招揽骑空团团员的邀请函\n只要在万事屋谢洛那里使用\n希耶提就会立即赶来"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_23_0002",
+        "subid_hash_": "",
+        "text_": "招揽骑空团团员的邀请函\n只要在万事屋谢洛那里使用\n索恩就会立即赶来"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_23_0002",
+        "subid_hash_": "item_info01",
+        "text_": "招揽骑空团团员的邀请函\n只要在万事屋谢洛那里使用\n索恩就会立即赶来"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_23_0002",
+        "subid_hash_": "note_info03_data02",
+        "text_": "招揽骑空团团员的邀请函\n只要在万事屋谢洛那里使用\n索恩就会立即赶来"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_23_0002",
+        "subid_hash_": "var00_item_info01",
+        "text_": "招揽骑空团团员的邀请函\n只要在万事屋谢洛那里使用\n索恩就会立即赶来"
+      }
+    },
+    {
+      "column_": {
         "id_hash_": "TXT_ITEM_INFO_30_0000",
         "subid_hash_": "",
         "text_": "附着在武器上的力量汇聚于一处\n最终形成宝珠\n其光辉被众多武器继承\n形成新的力量"
@@ -9161,6 +9476,118 @@
         "id_hash_": "TXT_ITEM_INFO_32_0031",
         "subid_hash_": "var00_item_info01",
         "text_": "泰尤达尔Mk-Ⅱ的核心组件\n拥有旧型号无法比拟的以太输出功率\n为搭载的众多武器提供充足的动力"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0040",
+        "subid_hash_": "",
+        "text_": "贝希摩斯狰狞的利爪"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0040",
+        "subid_hash_": "item_info01",
+        "text_": "贝希摩斯狰狞的利爪"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0040",
+        "subid_hash_": "note_info03_data02",
+        "text_": "贝希摩斯狰狞的利爪"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0040",
+        "subid_hash_": "var00_item_info01",
+        "text_": "贝希摩斯狰狞的利爪"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0041",
+        "subid_hash_": "",
+        "text_": "贝希摩斯的黑翼\n在漫长的进化过程中失去了飞翔能力的器官\n仅在进化中获得毁灭之巨力的\n狂暴个体尚留有该器官"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0041",
+        "subid_hash_": "item_info01",
+        "text_": "贝希摩斯的黑翼\n在漫长的进化过程中失去了飞翔能力的器官\n仅在进化中获得毁灭之巨力的\n狂暴个体尚留有该器官"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0041",
+        "subid_hash_": "note_info03_data02",
+        "text_": "贝希摩斯的黑翼\n在漫长的进化过程中失去了飞翔能力的器官\n仅在进化中获得毁灭之巨力的\n狂暴个体尚留有该器官"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0041",
+        "subid_hash_": "var00_item_info01",
+        "text_": "贝希摩斯的黑翼\n在漫长的进化过程中失去了飞翔能力的器官\n仅在进化中获得毁灭之巨力的\n狂暴个体尚留有该器官"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0042",
+        "subid_hash_": "",
+        "text_": "兽人曾为贝希摩斯佩戴的头饰\n贝希摩斯会在成长为强大个体的过程中\n狂暴地毁灭一切存在\n甚至连饲主也难逃其魔爪"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0042",
+        "subid_hash_": "item_info01",
+        "text_": "兽人曾为贝希摩斯佩戴的头饰\n贝希摩斯会在成长为强大个体的过程中\n狂暴地毁灭一切存在\n甚至连饲主也难逃其魔爪"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0042",
+        "subid_hash_": "note_info03_data02",
+        "text_": "兽人曾为贝希摩斯佩戴的头饰\n贝希摩斯会在成长为强大个体的过程中\n狂暴地毁灭一切存在\n甚至连饲主也难逃其魔爪"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0042",
+        "subid_hash_": "var00_item_info01",
+        "text_": "兽人曾为贝希摩斯佩戴的头饰\n贝希摩斯会在成长为强大个体的过程中\n狂暴地毁灭一切存在\n甚至连饲主也难逃其魔爪"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0043",
+        "subid_hash_": "",
+        "text_": "身经百战的贝希摩斯那巨大的角\n屠戮过成千上万骑空士的凶角\n能够轻易洞穿钢铁重甲"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0043",
+        "subid_hash_": "item_info01",
+        "text_": "身经百战的贝希摩斯那巨大的角\n屠戮过成千上万骑空士的凶角\n能够轻易洞穿钢铁重甲"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0043",
+        "subid_hash_": "note_info03_data02",
+        "text_": "身经百战的贝希摩斯那巨大的角\n屠戮过成千上万骑空士的凶角\n能够轻易洞穿钢铁重甲"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_32_0043",
+        "subid_hash_": "var00_item_info01",
+        "text_": "身经百战的贝希摩斯那巨大的角\n屠戮过成千上万骑空士的凶角\n能够轻易洞穿钢铁重甲"
       }
     },
     {
@@ -10673,6 +11100,34 @@
         "id_hash_": "TXT_ITEM_INFO_70_0015",
         "subid_hash_": "var00_item_info01",
         "text_": "通过万事屋谢洛的人脉获得的某裁缝店订制品。\n内附负责服装调色的匠人写下的字条。\n“本次小店为各位准备了风格与以往不同的衣服。”\n“希望各位能喜欢这令人激动的装扮～”"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_70_0017",
+        "subid_hash_": "",
+        "text_": "通过万事屋谢洛的人脉获得的某裁缝店订制品。\n内附负责服装调色的匠人写下的字条。\n“本次小店为各位准备了风格奢华的衣服。”\n“希望各位能喜欢这闪闪发光的装扮～”"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_70_0017",
+        "subid_hash_": "item_info01",
+        "text_": "通过万事屋谢洛的人脉获得的某裁缝店订制品。\n内附负责服装调色的匠人写下的字条。\n“本次小店为各位准备了风格奢华的衣服。”\n“希望各位能喜欢这闪闪发光的装扮～”"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_70_0017",
+        "subid_hash_": "note_info03_data02",
+        "text_": "通过万事屋谢洛的人脉获得的某裁缝店订制品。\n内附负责服装调色的匠人写下的字条。\n“本次小店为各位准备了风格奢华的衣服。”\n“希望各位能喜欢这闪闪发光的装扮～”"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ITEM_INFO_70_0017",
+        "subid_hash_": "var00_item_info01",
+        "text_": "通过万事屋谢洛的人脉获得的某裁缝店订制品。\n内附负责服装调色的匠人写下的字条。\n“本次小店为各位准备了风格奢华的衣服。”\n“希望各位能喜欢这闪闪发光的装扮～”"
       }
     },
     {
@@ -15817,21 +16272,21 @@
       "column_": {
         "id_hash_": "TXT_GEEN_160_04",
         "subid_hash_": "",
-        "text_": "α秘纹+"
+        "text_": "α秘纹＋"
       }
     },
     {
       "column_": {
         "id_hash_": "TXT_GEEN_161_04",
         "subid_hash_": "",
-        "text_": "β秘纹+"
+        "text_": "β秘纹＋"
       }
     },
     {
       "column_": {
         "id_hash_": "TXT_GEEN_162_04",
         "subid_hash_": "",
-        "text_": "γ秘纹+"
+        "text_": "γ秘纹＋"
       }
     },
     {
@@ -18776,6 +19231,13 @@
     },
     {
       "column_": {
+        "id_hash_": "",
+        "subid_hash_": "",
+        "text_": ""
+      }
+    },
+    {
+      "column_": {
         "id_hash_": "TXT_GEEN_036_23",
         "subid_hash_": "",
         "text_": "坚守Ⅳ＋"
@@ -19574,6 +20036,517 @@
     },
     {
       "column_": {
+        "id_hash_": "TXT_GEEN_170_04",
+        "subid_hash_": "",
+        "text_": "剑圣的炼气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_170_54",
+        "subid_hash_": "",
+        "text_": "剑圣的闪刃"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_170_64",
+        "subid_hash_": "",
+        "text_": "剑圣的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_170_74",
+        "subid_hash_": "",
+        "text_": "涯之七星＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_171_04",
+        "subid_hash_": "",
+        "text_": "魔眼的万箭"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_171_54",
+        "subid_hash_": "",
+        "text_": "魔眼的凛翔"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_171_64",
+        "subid_hash_": "",
+        "text_": "魔眼的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_171_74",
+        "subid_hash_": "",
+        "text_": "涯之二王＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_114_64",
+        "subid_hash_": "",
+        "text_": "英勇之心"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_115_64",
+        "subid_hash_": "",
+        "text_": "守护者的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_116_64",
+        "subid_hash_": "",
+        "text_": "舵手的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_117_64",
+        "subid_hash_": "",
+        "text_": "魔法师的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_118_64",
+        "subid_hash_": "",
+        "text_": "老兵的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_119_64",
+        "subid_hash_": "",
+        "text_": "玫瑰的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_125_64",
+        "subid_hash_": "",
+        "text_": "圣骑士的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_128_64",
+        "subid_hash_": "",
+        "text_": "古今无双的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_120_64",
+        "subid_hash_": "",
+        "text_": "幽幻的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_127_64",
+        "subid_hash_": "",
+        "text_": "斩姬的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_121_64",
+        "subid_hash_": "",
+        "text_": "白龙的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_122_64",
+        "subid_hash_": "",
+        "text_": "勇士的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_123_64",
+        "subid_hash_": "",
+        "text_": "王者的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_124_64",
+        "subid_hash_": "",
+        "text_": "屠龙者的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_129_64",
+        "subid_hash_": "",
+        "text_": "极致的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_126_64",
+        "subid_hash_": "",
+        "text_": "变幻自如的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_131_64",
+        "subid_hash_": "",
+        "text_": "真红的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_132_64",
+        "subid_hash_": "",
+        "text_": "冥暗的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_130_64",
+        "subid_hash_": "",
+        "text_": "异能之心"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_170_90",
+        "subid_hash_": "",
+        "text_": "剑圣之觉醒＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_171_90",
+        "subid_hash_": "",
+        "text_": "魔眼之觉醒＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_170_91",
+        "subid_hash_": "",
+        "text_": "剑圣的炼气＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_170_92",
+        "subid_hash_": "",
+        "text_": "剑圣的闪刃＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_170_93",
+        "subid_hash_": "",
+        "text_": "剑圣的战气＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_171_91",
+        "subid_hash_": "",
+        "text_": "魔眼的万箭＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_171_92",
+        "subid_hash_": "",
+        "text_": "魔眼的凛翔＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_171_93",
+        "subid_hash_": "",
+        "text_": "魔眼的战气＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_114_93",
+        "subid_hash_": "",
+        "text_": "英勇之心＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_115_93",
+        "subid_hash_": "",
+        "text_": "守护者的战气＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_116_93",
+        "subid_hash_": "",
+        "text_": "舵手的战气＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_117_93",
+        "subid_hash_": "",
+        "text_": "魔法师的战气＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_118_93",
+        "subid_hash_": "",
+        "text_": "老兵的战气＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_119_93",
+        "subid_hash_": "",
+        "text_": "玫瑰的战气＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_125_93",
+        "subid_hash_": "",
+        "text_": "圣骑士的战气＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_128_93",
+        "subid_hash_": "",
+        "text_": "古今无双的战气＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_120_93",
+        "subid_hash_": "",
+        "text_": "幽幻的战气＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_127_93",
+        "subid_hash_": "",
+        "text_": "斩姬的战气＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_121_93",
+        "subid_hash_": "",
+        "text_": "白龙的战气＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_122_93",
+        "subid_hash_": "",
+        "text_": "勇士的战气＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_123_93",
+        "subid_hash_": "",
+        "text_": "王者的战气＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_124_93",
+        "subid_hash_": "",
+        "text_": "屠龙者的战气＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_129_93",
+        "subid_hash_": "",
+        "text_": "极致的战气＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_126_93",
+        "subid_hash_": "",
+        "text_": "变幻自如的战气＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_131_93",
+        "subid_hash_": "",
+        "text_": "真红的战气＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_132_93",
+        "subid_hash_": "",
+        "text_": "冥暗的战气＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_130_93",
+        "subid_hash_": "",
+        "text_": "异能之心＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_164_00",
+        "subid_hash_": "",
+        "text_": "终极钳蟹因子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_165_04",
+        "subid_hash_": "",
+        "text_": "物品额外奖励"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_166_00",
+        "subid_hash_": "",
+        "text_": "金刚"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_166_01",
+        "subid_hash_": "",
+        "text_": "金刚Ⅱ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_166_02",
+        "subid_hash_": "",
+        "text_": "金刚Ⅲ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_166_03",
+        "subid_hash_": "",
+        "text_": "金刚Ⅳ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_166_04",
+        "subid_hash_": "",
+        "text_": "金刚Ⅴ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_166_22",
+        "subid_hash_": "",
+        "text_": "金刚Ⅲ＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_166_23",
+        "subid_hash_": "",
+        "text_": "金刚Ⅳ＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_166_24",
+        "subid_hash_": "",
+        "text_": "金刚Ⅴ＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_167_04",
+        "subid_hash_": "",
+        "text_": "自动药水"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_168_00",
+        "subid_hash_": "",
+        "text_": "契约"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_168_01",
+        "subid_hash_": "",
+        "text_": "契约Ⅱ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_168_02",
+        "subid_hash_": "",
+        "text_": "契约Ⅲ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_168_03",
+        "subid_hash_": "",
+        "text_": "契约Ⅳ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_168_04",
+        "subid_hash_": "",
+        "text_": "契约Ⅴ"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_168_22",
+        "subid_hash_": "",
+        "text_": "契约Ⅲ＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_168_23",
+        "subid_hash_": "",
+        "text_": "契约Ⅳ＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_168_24",
+        "subid_hash_": "",
+        "text_": "契约Ⅴ＋"
+      }
+    },
+    {
+      "column_": {
         "id_hash_": "TXT_GEEN_210_94",
         "subid_hash_": "",
         "text_": "守护Ⅴ＋"
@@ -19598,6 +20571,34 @@
         "id_hash_": "TXT_GEEN_213_94",
         "subid_hash_": "",
         "text_": "格挡性能Ⅴ＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_220_94",
+        "subid_hash_": "",
+        "text_": "摇曳步＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_221_94",
+        "subid_hash_": "",
+        "text_": "伤害上限Ⅴ＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_222_94",
+        "subid_hash_": "",
+        "text_": "药水携带数Ⅴ＋"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_GEEN_223_94",
+        "subid_hash_": "",
+        "text_": "暴君Ⅴ＋"
       }
     },
     {
@@ -29255,6 +30256,230 @@
     },
     {
       "column_": {
+        "id_hash_": "TXT_AB_PL2200_01",
+        "subid_hash_": "",
+        "text_": "横扫剑弧"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_01_CG",
+        "subid_hash_": "",
+        "text_": "横扫剑弧"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_02",
+        "subid_hash_": "",
+        "text_": "无尽剑阵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_02_CG",
+        "subid_hash_": "",
+        "text_": "无尽剑阵"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_03",
+        "subid_hash_": "",
+        "text_": "破灭剑陨"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_03_CG",
+        "subid_hash_": "",
+        "text_": "破灭剑陨"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_04",
+        "subid_hash_": "",
+        "text_": "聚灵剑气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_04_CG",
+        "subid_hash_": "",
+        "text_": "聚灵剑气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_05",
+        "subid_hash_": "",
+        "text_": "缚魂剑罡"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_05_CG",
+        "subid_hash_": "",
+        "text_": "缚魂剑罡"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_06",
+        "subid_hash_": "",
+        "text_": "碎星剑斩"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_06_CG",
+        "subid_hash_": "",
+        "text_": "碎星剑斩"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_07",
+        "subid_hash_": "",
+        "text_": "狂风剑气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_07_CG",
+        "subid_hash_": "",
+        "text_": "狂风剑气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_08",
+        "subid_hash_": "",
+        "text_": "七星剑闪"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2200_08_CG",
+        "subid_hash_": "",
+        "text_": "七星剑闪"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_01",
+        "subid_hash_": "",
+        "text_": "信使神光"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_01_CG",
+        "subid_hash_": "",
+        "text_": "信使神光"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_02",
+        "subid_hash_": "",
+        "text_": "堕落箭雨"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_02_CG",
+        "subid_hash_": "",
+        "text_": "堕落箭雨"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_03",
+        "subid_hash_": "",
+        "text_": "致命一击"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_03_CG",
+        "subid_hash_": "",
+        "text_": "致命一击"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_04",
+        "subid_hash_": "",
+        "text_": "散矢疾影"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_04_CG",
+        "subid_hash_": "",
+        "text_": "散矢疾影"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_05",
+        "subid_hash_": "",
+        "text_": "圆弧散射"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_05_CG",
+        "subid_hash_": "",
+        "text_": "圆弧散射"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_06",
+        "subid_hash_": "",
+        "text_": "致命箭雨"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_06_CG",
+        "subid_hash_": "",
+        "text_": "致命箭雨"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_07",
+        "subid_hash_": "",
+        "text_": "弓魄无双"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_07_CG",
+        "subid_hash_": "",
+        "text_": "弓魄无双"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_08",
+        "subid_hash_": "",
+        "text_": "二王之诤"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_AB_PL2300_08_CG",
+        "subid_hash_": "",
+        "text_": "二王之诤"
+      }
+    },
+    {
+      "column_": {
         "id_hash_": "TXT_AB_PL2400_01",
         "subid_hash_": "",
         "text_": ""
@@ -29740,7 +30965,7 @@
       "column_": {
         "id_hash_": "TXT_ABIF_PL0400_06",
         "subid_hash_": "",
-        "text_": "自身攻击的蓄力速度提升，\n并创造出可赋予霸体效果的区域。\n区域只对自身有效。"
+        "text_": "自身攻击的蓄力速度提升，\n赋予自身霸体和弱化免疫效果\n并创造出可增加魔力漩涡Lv提升量的区域。"
       }
     },
     {
@@ -30623,6 +31848,118 @@
         "id_hash_": "TXT_ABIF_PL2000_04",
         "subid_hash_": "",
         "text_": "龙人伊德能力4说明"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2200_01",
+        "subid_hash_": "",
+        "text_": "向前方敌人高速接近的攻击。\n达到一定剑光Lv时剑神会同时发动攻击，\n命中次数增加。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2200_02",
+        "subid_hash_": "",
+        "text_": "向前方敌人射出无数飞剑的攻击。\n达到一定剑光Lv时剑印数量增加。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2200_03",
+        "subid_hash_": "",
+        "text_": "向后方躲避后，跃向前方敌人发起斩击的攻击。\n昏厥值较高。达到一定剑光Lv时\n剑神会同时发动攻击，命中次数增加。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2200_04",
+        "subid_hash_": "",
+        "text_": "赋予自身挑衅力UP/防御UP效果。\n达到一定剑光Lv时追加弱化免疫效果。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2200_05",
+        "subid_hash_": "",
+        "text_": "将剑插入地面并向前方扇形范围发起攻击，\n赋予敌人缓速效果。达到一定剑光Lv时\n剑神会同时发动攻击，伤害提升。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2200_06",
+        "subid_hash_": "",
+        "text_": "对敌人发动快速连续斩击的攻击。\n达到一定剑光Lv时剑神会同时发动攻击，\n命中次数增加。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2200_07",
+        "subid_hash_": "",
+        "text_": "赋予自身暴击率UP/攻击UP效果，\n将自身剑神槽提升至最大。\n达到一定剑光Lv时效果量提升。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2200_08",
+        "subid_hash_": "",
+        "text_": "将自身和所有同伴的奥义槽提升至最大。\n战斗开始后经过一定时间方可使用，且仅可使用1次。\n不受冷却时间缩短效果影响，进入濒死状态时重置准备时间。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2300_01",
+        "subid_hash_": "",
+        "text_": "赋予自身攻击UP/幻影效果。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2300_02",
+        "subid_hash_": "",
+        "text_": "向前方敌人射出众多箭矢。\n长按可延长攻击动作，并依次赋予敌人\n攻击DOWN/防御DOWN/灼热/中毒/缓速效果。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2300_03",
+        "subid_hash_": "",
+        "text_": "向前方敌人射出一支强力的箭矢。\n伤害根据敌人身上的弱化效果数量提升。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2300_04",
+        "subid_hash_": "",
+        "text_": "跃向空中后，射出三支箭矢的同时向后躲避。\n可通过调整躲避方向。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2300_05",
+        "subid_hash_": "",
+        "text_": "向自身周围所有方向射出箭矢。\n可使命中的敌人浮空。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2300_06",
+        "subid_hash_": "",
+        "text_": "向范围内射下箭矢的攻击。昏厥值较高。\n长按时可指定目标位置。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2300_07",
+        "subid_hash_": "",
+        "text_": "赋予自身霸体/狙击效果。"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_ABIF_PL2300_08",
+        "subid_hash_": "",
+        "text_": "以大量箭矢攻击前方的敌人。延长命中的敌人的弱化效果持续\n时间。战斗开始后经过一定时间方可使用，且仅可使用1次。\n不受冷却时间缩短效果影响，进入濒死状态时重置准备时间。"
       }
     },
     {
@@ -32048,6 +33385,230 @@
     },
     {
       "column_": {
+        "id_hash_": "TXT_SKILL_170_00",
+        "subid_hash_": "",
+        "text_": "剑圣的炼气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_170_01",
+        "subid_hash_": "",
+        "text_": "剑圣的闪刃"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_170_02",
+        "subid_hash_": "",
+        "text_": "剑圣的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_170_03",
+        "subid_hash_": "",
+        "text_": "涯之七星"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_171_00",
+        "subid_hash_": "",
+        "text_": "魔眼的万箭"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_171_01",
+        "subid_hash_": "",
+        "text_": "魔眼的凛翔"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_171_02",
+        "subid_hash_": "",
+        "text_": "魔眼的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_171_03",
+        "subid_hash_": "",
+        "text_": "涯之二王"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_114_02",
+        "subid_hash_": "",
+        "text_": "英勇之心"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_115_02",
+        "subid_hash_": "",
+        "text_": "守护者的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_116_02",
+        "subid_hash_": "",
+        "text_": "舵手的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_117_02",
+        "subid_hash_": "",
+        "text_": "魔法师的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_118_02",
+        "subid_hash_": "",
+        "text_": "老兵的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_119_02",
+        "subid_hash_": "",
+        "text_": "玫瑰的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_125_02",
+        "subid_hash_": "",
+        "text_": "圣骑士的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_128_02",
+        "subid_hash_": "",
+        "text_": "古今无双的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_120_02",
+        "subid_hash_": "",
+        "text_": "幽幻的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_127_02",
+        "subid_hash_": "",
+        "text_": "斩姬的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_121_02",
+        "subid_hash_": "",
+        "text_": "白龙的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_122_02",
+        "subid_hash_": "",
+        "text_": "勇士的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_123_02",
+        "subid_hash_": "",
+        "text_": "王者的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_124_02",
+        "subid_hash_": "",
+        "text_": "屠龙者的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_129_02",
+        "subid_hash_": "",
+        "text_": "极致的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_126_02",
+        "subid_hash_": "",
+        "text_": "变幻自如的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_131_02",
+        "subid_hash_": "",
+        "text_": "真红的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_132_02",
+        "subid_hash_": "",
+        "text_": "冥暗的战气"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_130_02",
+        "subid_hash_": "",
+        "text_": "异能之心"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_164_00",
+        "subid_hash_": "",
+        "text_": "终极钳蟹因子"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_165_00",
+        "subid_hash_": "",
+        "text_": "物品额外奖励"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_166_00",
+        "subid_hash_": "",
+        "text_": "金刚"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_167_00",
+        "subid_hash_": "",
+        "text_": "自动药水"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_168_00",
+        "subid_hash_": "",
+        "text_": "造成伤害强化"
+      }
+    },
+    {
+      "column_": {
         "id_hash_": "TXT_SKILL_SUMMARY_COMMON",
         "subid_hash_": "",
         "text_": "※带“+”的因子含有额外的技能"
@@ -32855,7 +34416,7 @@
       "column_": {
         "id_hash_": "TXT_SKILL_SUMMARY_114_00",
         "subid_hash_": "",
-        "text_": "Class Lv提升时\n当前能力剩余冷却时间缩短\n专属"
+        "text_": "位阶技艺提供的\n能力冷却时间缩短量提升\n专属"
       }
     },
     {
@@ -33304,6 +34865,230 @@
         "id_hash_": "TXT_SKILL_SUMMARY_162_00",
         "subid_hash_": "",
         "text_": "造成的伤害上限提升\nSlv最大时强化奥义性能"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_170_00",
+        "subid_hash_": "",
+        "text_": "召唤剑神期间\n使用能力时剑光Lv提升\n希耶提专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_170_01",
+        "subid_hash_": "",
+        "text_": "召唤剑神期间\n攻击力 / 昏厥值 / 伤害上限提升\n希耶提专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_170_02",
+        "subid_hash_": "",
+        "text_": "与剑神的协同攻击收招命中时\n一定时间内赋予自身多种强化效果\n希耶提专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_170_03",
+        "subid_hash_": "",
+        "text_": "攻击力和伤害上限提升\n但最大HP的上限变为45000\n希耶提专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_171_00",
+        "subid_hash_": "",
+        "text_": "魔眼Lv达到上限时通过多重瞄准射击射出所有箭矢\n可赋予自身一定时间内造成伤害提升的效果\n以及攻击时有几率触发追击的效果 索恩专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_171_01",
+        "subid_hash_": "",
+        "text_": "普通攻击连射速度提升\n射击时移动速度提升\n索恩专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_171_02",
+        "subid_hash_": "",
+        "text_": "攻击蓄力时间缩短\n造成伤害和昏厥值提升\n有几率赋予敌人弱化效果 索恩专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_171_03",
+        "subid_hash_": "",
+        "text_": "攻击力和伤害上限提升\n但最大HP的上限变为45000\n索恩专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_114_02",
+        "subid_hash_": "",
+        "text_": "Class Lv提升时造成伤害提升\nClass Lv降为Ⅰ前持续有效\n专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_115_02",
+        "subid_hash_": "",
+        "text_": "奥义发动时赋予己方全体追加效果\n卡塔莉娜专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_116_02",
+        "subid_hash_": "",
+        "text_": "一定时间内成功发动3次射击韵律时\n赋予自身造成伤害提升的效果\n拉卡姆专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_117_02",
+        "subid_hash_": "",
+        "text_": "魔力旋涡Lv达到上限的状态下蓄力攻击后\n获得一定时间内造成伤害提升的强化效果\n有几率不消耗魔力旋涡且赋予自身专注效果 伊欧专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_118_02",
+        "subid_hash_": "",
+        "text_": "瞄准模式下的蓄力攻击及其\n引爆的手榴弹造成的伤害提升\n欧根专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_119_02",
+        "subid_hash_": "",
+        "text_": "玫瑰赋予的强化效果性能及其自动攻击造成的伤害提升\n但玫瑰Lv降低速度提升\n萝赛塔专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_125_02",
+        "subid_hash_": "",
+        "text_": "崇高之姿状态下发动雄韬伟略后\n可保持崇高之姿状态发动攻击\n崇高之姿状态下造成的伤害提升 夏洛特专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_128_02",
+        "subid_hash_": "",
+        "text_": "直冲拳造成的伤害提升\n但蓄力所需时间变长\n冈达葛萨专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_120_02",
+        "subid_hash_": "",
+        "text_": "攻击触发所有宠物发起的攻击命中时\n赋予自身一定时间内造成伤害提升的效果\n且有几率宠物不会消失 菲莉专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_127_02",
+        "subid_hash_": "",
+        "text_": "精准切换时赋予自身一定时间内\n造成伤害提升的效果和追击效果\n但奥义槽提升量降低 娜露梅专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_121_02",
+        "subid_hash_": "",
+        "text_": "连击收招命中和旋风之舞期间精准躲避成功时\n赋予自身一定时间内造成伤害提升的效果 兰斯洛特专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_122_02",
+        "subid_hash_": "",
+        "text_": "攻击的伤害提升且不再消耗巨斧槽\n使用攻击格挡时巨斧槽提升\n巴恩专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_123_02",
+        "subid_hash_": "",
+        "text_": "蓄力时间缩短成功时造成的伤害提升\n蓄力反击成功时一定时间内赋予自身追击效果\n珀西瓦尔专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_124_02",
+        "subid_hash_": "",
+        "text_": "精准攻击（ / 攻击）造成的伤害提升\n但防御力降低\n齐格飞专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_129_02",
+        "subid_hash_": "",
+        "text_": "连击收招时赋予自身一定时间内造成伤害提升的效果\n效果期间不同连击收招命中时效果提升一阶段\n卡莉奥丝特罗专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_126_02",
+        "subid_hash_": "",
+        "text_": "通过剑戟残心将连击缩至最短时造成的伤害提升\n尤达拉哈专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_131_02",
+        "subid_hash_": "",
+        "text_": "反击成功时赋予敌人阿尔贝斯之印效果\n对拥有阿尔贝斯之印的敌人造成的伤害和暴击率提升\n塞达专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_132_02",
+        "subid_hash_": "",
+        "text_": "古洛诺斯槽不低于1时\n按可消耗HP提升古洛诺斯槽\n并赋予自身一定时间内造成伤害提升的效果 巴萨拉卡专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_130_02",
+        "subid_hash_": "",
+        "text_": "龙人化状态和神威一体状态下赋予自身造成伤害提升的效果\n且异能槽耗尽前保持变身状态\n但异能槽减少速度提升 伊德专属"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_164_00",
+        "subid_hash_": "",
+        "text_": "根据捕捉的小钳蟹数量\n提升Slv并获得相应效果"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_165_00",
+        "subid_hash_": "",
+        "text_": "结算时显示的物品数量+1（不含首次奖励）\n任务限定\n联机游戏时对其他玩家无效"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_166_00",
+        "subid_hash_": "",
+        "text_": "最大HP按一定比例增加\n最大HP越高，效果量越大"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_167_00",
+        "subid_hash_": "",
+        "text_": "HP低于一定程度时自动使用药水\n※战斗辅助/托管模式开启时无效\n各类药水/复活药水持有数上限+1"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_SUMMARY_168_00",
+        "subid_hash_": "",
+        "text_": "对敌人造成的伤害提升\n伤害达到上限时此效果仍然有效"
       }
     },
     {
@@ -34753,6 +36538,230 @@
         "id_hash_": "TXT_SKILL_EXPLAIN_162_01",
         "subid_hash_": "",
         "text_": "伤害上限+{0}%\n使用奥义时赋予自身屏障效果（免疫{3}伤害）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_170_00",
+        "subid_hash_": "",
+        "text_": "剑光Lv提升量+{1:.1f}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_170_01",
+        "subid_hash_": "",
+        "text_": "攻击力+{0}% / 昏厥值+{1}% / 伤害上限+{2}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_170_02",
+        "subid_hash_": "",
+        "text_": "造成的伤害+{0}% / 霸体 / 弱化免疫 / 汲取（{2}秒）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_170_03",
+        "subid_hash_": "",
+        "text_": "攻击力+{0:.1f}% / 伤害上限+{1:.1f}%\n最大HP不会超过{4:.1f}"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_171_00",
+        "subid_hash_": "",
+        "text_": "赋予自身造成伤害+{0}%的效果（{3}秒）\n{1}%的几率赋予自身追击效果（{4}秒）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_171_01",
+        "subid_hash_": "",
+        "text_": "连射速度+{0}%\n移动速度+{1}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_171_02",
+        "subid_hash_": "",
+        "text_": "蓄力时间-{0}% / 造成的伤害+{1}% / 昏厥值+{2}%\n{3}%的几率随机赋予攻击DOWN / 防御DOWN / 灼热 / 中毒\n其中一种效果"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_171_03",
+        "subid_hash_": "",
+        "text_": "攻击力+{0:.1f}% / 伤害上限+{1:.1f}%\n最大HP不会超过{4:.1f}"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_114_02",
+        "subid_hash_": "",
+        "text_": "造成的伤害+{0}%（Class Ⅱ） / 造成的伤害+{1}%（Ⅲ）\n造成的伤害+{2}%（Ⅳ）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_115_02",
+        "subid_hash_": "",
+        "text_": "发动寒冰剑阵时赋予弱化免疫效果（{0}秒）\n发动幻灵天启时额外赋予造成伤害+{2}%的效果（{1}秒）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_116_02",
+        "subid_hash_": "",
+        "text_": "赋予自身造成伤害+{3}%的效果（{2}秒）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_117_02",
+        "subid_hash_": "",
+        "text_": "赋予自身造成伤害提升{2}%的强化效果（{3}秒）\n{0}%的几率不消耗魔力漩涡"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_118_02",
+        "subid_hash_": "",
+        "text_": "蓄力攻击造成的伤害+{0}%\n蓄力攻击引爆的手榴弹造成的伤害+{1}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_119_02",
+        "subid_hash_": "",
+        "text_": "玫瑰Lv降低速度+{0}% 攻击力+{1}% 防御力+{2}%\n再生效果+{3}% 玫瑰自动攻击造成的伤害+{4}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_125_02",
+        "subid_hash_": "",
+        "text_": "崇高之姿状态下造成的伤害+{0}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_128_02",
+        "subid_hash_": "",
+        "text_": "蓄力时间+{0}%\n造成的伤害+{1}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_120_02",
+        "subid_hash_": "",
+        "text_": "赋予自身造成伤害+{2}%的效果（{1}秒）\n{0}%的几率宠物不会消失"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_127_02",
+        "subid_hash_": "",
+        "text_": "奥义槽提升量-{0}% 精准切换时{1}秒内\n造成的伤害+{2}% / 赋予造成伤害{3}%的追击效果"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_121_02",
+        "subid_hash_": "",
+        "text_": "赋予自身造成伤害+{0}%的效果（{1}秒）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_122_02",
+        "subid_hash_": "",
+        "text_": "造成的伤害+{1}%\n巨斧槽+{2:.1f}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_123_02",
+        "subid_hash_": "",
+        "text_": "造成的伤害+{0}%\n赋予造成伤害{1}%的追击效果（{2}秒）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_124_02",
+        "subid_hash_": "",
+        "text_": "防御力-{0}%\n造成的伤害+{1}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_129_02",
+        "subid_hash_": "",
+        "text_": "赋予自身造成伤害+{0}%的效果（{1}秒）\n不同连击收招命中时效果为{2}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_126_02",
+        "subid_hash_": "",
+        "text_": "造成的伤害+{0}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_131_02",
+        "subid_hash_": "",
+        "text_": "造成的伤害+{2}%\n暴击率+{3}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_132_02",
+        "subid_hash_": "",
+        "text_": "消耗{0}%的HP提升古洛诺斯槽\n赋予自身造成伤害+{1}%的效果（{2}秒）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_130_02",
+        "subid_hash_": "",
+        "text_": "赋予自身造成伤害+{1}%的效果 异能槽耗尽前保持变身状态\n龙人化状态下异能槽减少速度+{0}% / 神威一体状态下异能槽减少速度+{2}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_164_00",
+        "subid_hash_": "",
+        "text_": "捕捉{0}只小钳蟹\n（HP+{1}）"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_165_00",
+        "subid_hash_": "",
+        "text_": "结算界面显示的物品数量+{0}"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_166_00",
+        "subid_hash_": "",
+        "text_": "HP+{0}%"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_167_00",
+        "subid_hash_": "",
+        "text_": "HP不高于{0}%时自动使用回复药水\n各类药水/复活药水+1"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_SKILL_EXPLAIN_168_00",
+        "subid_hash_": "",
+        "text_": "造成的伤害提升+{0}%"
       }
     },
     {
