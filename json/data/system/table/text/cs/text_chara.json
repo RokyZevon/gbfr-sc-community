@@ -2809,6 +2809,20 @@
     },
     {
       "column_": {
+        "id_hash_": "TXT_NP2900",
+        "subid_hash_": "",
+        "text_": "路西菲尔"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_NP1600_q",
+        "subid_hash_": "",
+        "text_": "意志消沉的男子"
+      }
+    },
+    {
+      "column_": {
         "id_hash_": "TXT_NAME_NP9000_00",
         "subid_hash_": "",
         "text_": "弗尔卡自卫团"

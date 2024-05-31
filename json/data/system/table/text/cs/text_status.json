@@ -401,6 +401,20 @@
     },
     {
       "column_": {
+        "id_hash_": "TXT_STTTL_PL2100SUPERMODE",
+        "subid_hash_": "",
+        "text_": "极彩羽翼"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STTTL_WEAKELEMENT",
+        "subid_hash_": "",
+        "text_": "元素不和"
+      }
+    },
+    {
+      "column_": {
         "id_hash_": "TXT_STATE_ATTACKBUFF",
         "subid_hash_": "",
         "text_": "攻击力提升的状态"
@@ -691,6 +705,20 @@
         "id_hash_": "TXT_STATE_PL2300BUFF",
         "subid_hash_": "",
         "text_": "魔眼Lv提升量增加的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_PL2100SUPERMODE",
+        "subid_hash_": "",
+        "text_": "释放四大元素之力提升战斗能力的状态"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_STATE_WEAKELEMENT",
+        "subid_hash_": "",
+        "text_": "受到的所有攻击均被视为弱点属性的状态"
       }
     },
     {

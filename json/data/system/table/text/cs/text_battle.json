@@ -986,6 +986,34 @@
         "subid_hash_": "",
         "text_": "憎恶"
       }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7700_17",
+        "subid_hash_": "",
+        "text_": "绝对虚无"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7700_18",
+        "subid_hash_": "",
+        "text_": "黑暗福音"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7700_19",
+        "subid_hash_": "",
+        "text_": "难遁"
+      }
+    },
+    {
+      "column_": {
+        "id_hash_": "TXT_BT_7700_20",
+        "subid_hash_": "",
+        "text_": "天罚"
+      }
     }
   ]
 }
